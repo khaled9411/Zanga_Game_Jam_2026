@@ -29,6 +29,8 @@ public class GameManager : MonoBehaviour
     public bool IsGameEnded => gameEnded;
     public bool IsPaused => isPaused;
 
+    private bool rewindWindowOpen = false; // prevents re-firing every frame
+
     private void OnEnable()
     {
         GameEvents.OnRequestTakeDamage += HandleRequestTakeDamage;
@@ -51,6 +53,7 @@ public class GameManager : MonoBehaviour
 
     private void HandleGameStarted()
     {
+        rewindWindowOpen = false;
         currentHearts = maxHearts;
         currentDream = 1;
         remainingSeconds = totalGameSeconds;
@@ -122,7 +125,7 @@ public class GameManager : MonoBehaviour
 
     private void TickRewindWindow()
     {
-        if (rewindHasBeenUsedThisRun) return;
+        if (rewindHasBeenUsedThisRun || rewindWindowOpen) return;
 
         if (currentHearts != 1)
         {
@@ -133,7 +136,9 @@ public class GameManager : MonoBehaviour
         lowHeartTimer += Time.deltaTime;
         if (lowHeartTimer >= REWIND_SURVIVE_TIME)
         {
+            rewindWindowOpen = true;
             GameEvents.TriggerRewindAvailable();
+            Debug.Log("[GameManager] Rewind window opened — pickup should spawn once now");
         }
     }
 
@@ -157,6 +162,7 @@ public class GameManager : MonoBehaviour
 
     private void HandleRequestRestoreHeart()
     {
+        rewindWindowOpen = false;
         if (!gameStarted || gameEnded || isPaused) return;
 
         currentHearts = Mathf.Min(maxHearts, currentHearts + 1);

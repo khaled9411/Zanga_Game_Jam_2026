@@ -100,6 +100,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8557223178948771683}
+  - component: {fileID: -8200337088969817589}
   m_Layer: 0
   m_Name: RewindPickUp
   m_TagString: Untagged
@@ -123,3 +124,18 @@ Transform:
   - {fileID: 2734030797442111676}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &-8200337088969817589
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3995317374923000468}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a45853d3375d4b24b8d595dd4ebff7e3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::RewindPickup
+  interactRange: 1.5
+  fillPerPress: 15
+  decayPerSecond: 20

@@ -140,6 +140,6 @@ MonoBehaviour:
     weaponName: Pistol
     weaponSprite: {fileID: 0}
     maxCharges: 6
-    attackRange: 1.5
+    attackRange: 2
     attackConeAngle: 90
   interactRange: 1.5

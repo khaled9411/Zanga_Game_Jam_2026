@@ -20,7 +20,6 @@ public class PlayerController : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
     }
 
-    // Called automatically by PlayerInput (Send Messages) from the "Move" action
     public void OnMove(InputValue value)
     {
         moveInput = value.Get<Vector2>();
@@ -28,7 +27,6 @@ public class PlayerController : MonoBehaviour
             lastMoveDir = moveInput.normalized;
     }
 
-    // Called automatically by PlayerInput (Send Messages) from the "Interact" action
     public void OnInteract(InputValue value)
     {
         if (!value.isPressed) return;
@@ -39,15 +37,18 @@ public class PlayerController : MonoBehaviour
     {
         Collider2D hit = Physics2D.OverlapCircle(transform.position, interactRange, interactableLayer);
         if (hit == null) return;
-
-        // WeaponPickup and RewindPickup currently handle their own E-press internally
-        // via Input.GetKeyDown, so they don't need anything called on them here.
-        // This hook exists for any other interactable your team adds later.
     }
 
     private void FixedUpdate()
     {
         rb.MovePosition(rb.position + moveInput.normalized * moveSpeed * Time.fixedDeltaTime);
+
+        if (moveInput.sqrMagnitude > 0.01f)
+        {
+            float angle = Mathf.Atan2(lastMoveDir.y, lastMoveDir.x) * Mathf.Rad2Deg;
+            rb.MoveRotation(angle);
+        }
+
         GameEvents.TriggerPlayerPositionChanged(rb.position);
     }
 

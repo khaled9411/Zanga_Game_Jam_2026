@@ -1,4 +1,5 @@
 using System;
+using UnityEngine;
 
 /// <summary>
 /// Pure C# static event bus. No MonoBehaviour, no ScriptableObject, no GameManager reference needed.
@@ -18,6 +19,10 @@ public static class GameEvents
     public static event Action OnGameStarted;
     public static event Action OnGamePaused;
     public static event Action OnGameResumed;
+    public static event Action<GameObject> OnEnemySpawned;
+    public static event Action<GameObject> OnEnemyDied;
+    public static event Action OnWeaponAttackUsed;
+    public static event Action OnRewindKeyPressed;
 
 
     // 
@@ -49,7 +54,10 @@ public static class GameEvents
     public static void TriggerGameStarted() => OnGameStarted?.Invoke();
     public static void TriggerGamePaused() => OnGamePaused?.Invoke();
     public static void TriggerGameResumed() => OnGameResumed?.Invoke();
-
+    public static void TriggerEnemySpawned(GameObject enemy) => OnEnemySpawned?.Invoke(enemy);
+    public static void TriggerEnemyDied(GameObject enemy) => OnEnemyDied?.Invoke(enemy);
+    public static void TriggerWeaponAttackUsed() => OnWeaponAttackUsed?.Invoke();
+    public static void TriggerRewindKeyPressed() => OnRewindKeyPressed?.Invoke();
     // Action Requests
     public static void TriggerRequestTakeDamage(int amount) => OnRequestTakeDamage?.Invoke(amount);
     public static void TriggerRequestRestoreHeart() => OnRequestRestoreHeart?.Invoke();
@@ -78,5 +86,9 @@ public static class GameEvents
         OnWeaponDepleted = null;
         OnRewindAvailable = null;
         OnRewindUsed = null;
+        OnEnemyDied = null;
+        OnEnemySpawned= null;
+        OnRewindKeyPressed = null;
+        OnWeaponAttackUsed = null;
     }
 }

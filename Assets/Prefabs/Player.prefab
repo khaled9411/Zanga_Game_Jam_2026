@@ -200,7 +200,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 0
+  m_Constraints: 4
 --- !u!114 &5141433862892087659
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -215,8 +215,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::WeaponSystem
   enemyLayer:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 64
   depletionParticlePrefab: {fileID: 0}
+  attackConeVisualPrefab: {fileID: 8389456438171927771, guid: 611526e70b932f24aa890cbf1eb9b77b, type: 3}
+  playerController: {fileID: 7258599383642980896}
 --- !u!114 &8971835850782693150
 MonoBehaviour:
   m_ObjectHideFlags: 0

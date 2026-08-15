@@ -9,7 +9,7 @@ public class WeaponSpawner : MonoBehaviour
 {
     [SerializeField] private GameObject[] weaponPickupPrefabs; // your 3 weapon prefabs
     [SerializeField] private float minSpawnDistance = 3f;
-    [SerializeField] private float maxSpawnDistance = 8f;
+    [SerializeField] private float maxSpawnDistance = 5f;
 
     private void OnEnable()
     {

@@ -1,0 +1,1196 @@
+fileFormatVersion: 2
+guid: b120f2744dcf5af43849ad77cfee53c9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9113693126497346576
+    second: blue_octonid_shadowed_0
+  - first:
+      213: -6299523717081232255
+    second: blue_octonid_shadowed_1
+  - first:
+      213: -5674463477308670518
+    second: blue_octonid_shadowed_2
+  - first:
+      213: -8816193982825362388
+    second: blue_octonid_shadowed_3
+  - first:
+      213: 7463048530606148968
+    second: blue_octonid_shadowed_4
+  - first:
+      213: -8098336624080566641
+    second: blue_octonid_shadowed_5
+  - first:
+      213: -6586689775681114632
+    second: blue_octonid_shadowed_6
+  - first:
+      213: 8469411035806616802
+    second: blue_octonid_shadowed_7
+  - first:
+      213: -8894942519833195012
+    second: blue_octonid_shadowed_8
+  - first:
+      213: 6239464200274518775
+    second: blue_octonid_shadowed_9
+  - first:
+      213: 4709010430479872216
+    second: blue_octonid_shadowed_10
+  - first:
+      213: 5665071113794434915
+    second: blue_octonid_shadowed_11
+  - first:
+      213: 4955600339878189199
+    second: blue_octonid_shadowed_12
+  - first:
+      213: 1383397842075493327
+    second: blue_octonid_shadowed_13
+  - first:
+      213: -1837778745872327800
+    second: blue_octonid_shadowed_14
+  - first:
+      213: -530728163923203701
+    second: blue_octonid_shadowed_15
+  - first:
+      213: 7829110031480261853
+    second: blue_octonid_shadowed_16
+  - first:
+      213: -1828261011915841469
+    second: blue_octonid_shadowed_17
+  - first:
+      213: -6723651471470763208
+    second: blue_octonid_shadowed_18
+  - first:
+      213: -7880112162998419476
+    second: blue_octonid_shadowed_19
+  - first:
+      213: 8349312096475293866
+    second: blue_octonid_shadowed_20
+  - first:
+      213: 6254131371187639636
+    second: blue_octonid_shadowed_21
+  - first:
+      213: 3095605158062748793
+    second: blue_octonid_shadowed_22
+  - first:
+      213: 3596110235358639917
+    second: blue_octonid_shadowed_23
+  - first:
+      213: 4675614337051318115
+    second: blue_octonid_shadowed_24
+  - first:
+      213: 7284381046009660574
+    second: blue_octonid_shadowed_25
+  - first:
+      213: -5469520623961204335
+    second: blue_octonid_shadowed_26
+  - first:
+      213: 1836481148348938902
+    second: blue_octonid_shadowed_27
+  - first:
+      213: -643192244546183608
+    second: blue_octonid_shadowed_28
+  - first:
+      213: 8421811082924257313
+    second: blue_octonid_shadowed_29
+  - first:
+      213: -5260458508429295256
+    second: blue_octonid_shadowed_30
+  - first:
+      213: -3696713021172632820
+    second: blue_octonid_shadowed_31
+  - first:
+      213: -355812742615646790
+    second: blue_octonid_shadowed_32
+  - first:
+      213: 6836895761543295320
+    second: blue_octonid_shadowed_33
+  - first:
+      213: -2579921757231462489
+    second: blue_octonid_shadowed_34
+  - first:
+      213: 1319324076290357605
+    second: blue_octonid_shadowed_35
+  - first:
+      213: -8168073885369767078
+    second: blue_octonid_shadowed_36
+  - first:
+      213: -3190803940004666973
+    second: blue_octonid_shadowed_37
+  - first:
+      213: 102888351375035054
+    second: blue_octonid_shadowed_38
+  - first:
+      213: -1487485732759835315
+    second: blue_octonid_shadowed_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: blue_octonid_shadowed_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 275
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fbd43b4368a58180800000000000000
+      internalID: -9113693126497346576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_octonid_shadowed_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 275
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18c893d3e889398a0800000000000000
+      internalID: -6299523717081232255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_octonid_shadowed_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 275
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acdb61038814041b0800000000000000
+      internalID: -5674463477308670518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_octonid_shadowed_3
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 275
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c02c6684696a580800000000000000
+      internalID: -8816193982825362388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_octonid_shadowed_4
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 275
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86dc7400913129760800000000000000
+      internalID: 7463048530606148968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_octonid_shadowed_5
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 275
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f86442a4fbdec9f80800000000000000
+      internalID: -8098336624080566641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_octonid_shadowed_6
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 275
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd64dafb806794a0800000000000000
+      internalID: -6586689775681114632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_octonid_shadowed_7
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 275
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ecc606d674698570800000000000000
+      internalID: 8469411035806616802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_octonid_shadowed_8
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 211
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfd03d7d7e0de8480800000000000000
+      internalID: -8894942519833195012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_octonid_shadowed_9
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 211
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f2212ec1a7079650800000000000000
+      internalID: 6239464200274518775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_octonid_shadowed_10
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 211
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d0bc508904c95140800000000000000
+      internalID: 4709010430479872216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_octonid_shadowed_11
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 211
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3673b05c9206e9e40800000000000000
+      internalID: 5665071113794434915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_octonid_shadowed_12
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 211
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f889e33d044d5c440800000000000000
+      internalID: 4955600339878189199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_octonid_shadowed_13
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 211
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc3a3fff101d23310800000000000000
+      internalID: 1383397842075493327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_octonid_shadowed_14
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 211
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88b5484b7f5ee76e0800000000000000
+      internalID: -1837778745872327800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_octonid_shadowed_15
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 211
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b89ef0dfb8972a8f0800000000000000
+      internalID: -530728163923203701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_octonid_shadowed_16
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 147
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddc04ddd71696ac60800000000000000
+      internalID: 7829110031480261853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_octonid_shadowed_17
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 147
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3406f04db46b0a6e0800000000000000
+      internalID: -1828261011915841469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_octonid_shadowed_18
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 147
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 833e3713c9ac0b2a0800000000000000
+      internalID: -6723651471470763208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_octonid_shadowed_19
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 147
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef7e360db734a290800000000000000
+      internalID: -7880112162998419476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_octonid_shadowed_20
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 147
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa8284d7d17bed370800000000000000
+      internalID: 8349312096475293866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_octonid_shadowed_21
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 147
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4551446a8532bc650800000000000000
+      internalID: 6254131371187639636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_octonid_shadowed_22
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 147
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97472337d7cc5fa20800000000000000
+      internalID: 3095605158062748793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_octonid_shadowed_23
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 147
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d27b2bfb433f7e130800000000000000
+      internalID: 3596110235358639917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_octonid_shadowed_24
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 83
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 367daa2977e13e040800000000000000
+      internalID: 4675614337051318115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_octonid_shadowed_25
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 83
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e948eff87f1571560800000000000000
+      internalID: 7284381046009660574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_octonid_shadowed_26
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 83
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1999e15a8fb5814b0800000000000000
+      internalID: -5469520623961204335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_octonid_shadowed_27
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 83
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69a3a04dfdd7c7910800000000000000
+      internalID: 1836481148348938902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_octonid_shadowed_28
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 83
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84ed985bf0ce217f0800000000000000
+      internalID: -643192244546183608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_octonid_shadowed_29
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 83
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 120f52b2f8840e470800000000000000
+      internalID: 8421811082924257313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_octonid_shadowed_30
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 83
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86104619bd81ff6b0800000000000000
+      internalID: -5260458508429295256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_octonid_shadowed_31
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 83
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c03b170e713a2bcc0800000000000000
+      internalID: -3696713021172632820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_octonid_shadowed_32
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 19
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd36dd1236ef0bf0800000000000000
+      internalID: -355812742615646790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_octonid_shadowed_33
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 19
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8517921c87881ee50800000000000000
+      internalID: 6836895761543295320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_octonid_shadowed_34
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 19
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a7caefa4d6423cd0800000000000000
+      internalID: -2579921757231462489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_octonid_shadowed_35
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 19
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56938eed14e2f4210800000000000000
+      internalID: 1319324076290357605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_octonid_shadowed_36
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 19
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5be36bd31c25ae80800000000000000
+      internalID: -8168073885369767078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_octonid_shadowed_37
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 19
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a1ea10e8bcf7b3d0800000000000000
+      internalID: -3190803940004666973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_octonid_shadowed_38
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 19
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa0c3319688d6100800000000000000
+      internalID: 102888351375035054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_octonid_shadowed_39
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 19
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d636a6b936b5be0800000000000000
+      internalID: -1487485732759835315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      blue_octonid_shadowed_0: -9113693126497346576
+      blue_octonid_shadowed_1: -6299523717081232255
+      blue_octonid_shadowed_10: 4709010430479872216
+      blue_octonid_shadowed_11: 5665071113794434915
+      blue_octonid_shadowed_12: 4955600339878189199
+      blue_octonid_shadowed_13: 1383397842075493327
+      blue_octonid_shadowed_14: -1837778745872327800
+      blue_octonid_shadowed_15: -530728163923203701
+      blue_octonid_shadowed_16: 7829110031480261853
+      blue_octonid_shadowed_17: -1828261011915841469
+      blue_octonid_shadowed_18: -6723651471470763208
+      blue_octonid_shadowed_19: -7880112162998419476
+      blue_octonid_shadowed_2: -5674463477308670518
+      blue_octonid_shadowed_20: 8349312096475293866
+      blue_octonid_shadowed_21: 6254131371187639636
+      blue_octonid_shadowed_22: 3095605158062748793
+      blue_octonid_shadowed_23: 3596110235358639917
+      blue_octonid_shadowed_24: 4675614337051318115
+      blue_octonid_shadowed_25: 7284381046009660574
+      blue_octonid_shadowed_26: -5469520623961204335
+      blue_octonid_shadowed_27: 1836481148348938902
+      blue_octonid_shadowed_28: -643192244546183608
+      blue_octonid_shadowed_29: 8421811082924257313
+      blue_octonid_shadowed_3: -8816193982825362388
+      blue_octonid_shadowed_30: -5260458508429295256
+      blue_octonid_shadowed_31: -3696713021172632820
+      blue_octonid_shadowed_32: -355812742615646790
+      blue_octonid_shadowed_33: 6836895761543295320
+      blue_octonid_shadowed_34: -2579921757231462489
+      blue_octonid_shadowed_35: 1319324076290357605
+      blue_octonid_shadowed_36: -8168073885369767078
+      blue_octonid_shadowed_37: -3190803940004666973
+      blue_octonid_shadowed_38: 102888351375035054
+      blue_octonid_shadowed_39: -1487485732759835315
+      blue_octonid_shadowed_4: 7463048530606148968
+      blue_octonid_shadowed_5: -8098336624080566641
+      blue_octonid_shadowed_6: -6586689775681114632
+      blue_octonid_shadowed_7: 8469411035806616802
+      blue_octonid_shadowed_8: -8894942519833195012
+      blue_octonid_shadowed_9: 6239464200274518775
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

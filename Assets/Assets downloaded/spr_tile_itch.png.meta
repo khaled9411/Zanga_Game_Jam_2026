@@ -1,0 +1,1222 @@
+fileFormatVersion: 2
+guid: 98d55ac43ce6462498570621b52b27f4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5640356631300282684
+    second: spr_tile_itch_0
+  - first:
+      213: -5186755252689199081
+    second: spr_tile_itch_1
+  - first:
+      213: 3486413463855976375
+    second: spr_tile_itch_2
+  - first:
+      213: -5738474195459486350
+    second: spr_tile_itch_3
+  - first:
+      213: -523133972366486616
+    second: spr_tile_itch_4
+  - first:
+      213: -5450539350438323080
+    second: spr_tile_itch_5
+  - first:
+      213: -5295672756583568268
+    second: spr_tile_itch_6
+  - first:
+      213: 7555218091982108469
+    second: spr_tile_itch_7
+  - first:
+      213: 4090919559243018118
+    second: spr_tile_itch_8
+  - first:
+      213: 2931973421214758486
+    second: spr_tile_itch_9
+  - first:
+      213: 4425679367385294641
+    second: spr_tile_itch_10
+  - first:
+      213: -3113711013287291630
+    second: spr_tile_itch_11
+  - first:
+      213: 1798145559325738165
+    second: spr_tile_itch_12
+  - first:
+      213: -4479748382836633072
+    second: spr_tile_itch_13
+  - first:
+      213: -2845072752633028246
+    second: spr_tile_itch_14
+  - first:
+      213: 3682840457872274626
+    second: spr_tile_itch_15
+  - first:
+      213: 9099972029472530022
+    second: spr_tile_itch_16
+  - first:
+      213: 2600356327857891632
+    second: spr_tile_itch_17
+  - first:
+      213: 992988397204127858
+    second: spr_tile_itch_18
+  - first:
+      213: 9200502999322639841
+    second: spr_tile_itch_19
+  - first:
+      213: -63922669774323651
+    second: spr_tile_itch_20
+  - first:
+      213: -8794337064094034175
+    second: spr_tile_itch_21
+  - first:
+      213: 2345385461901615593
+    second: spr_tile_itch_22
+  - first:
+      213: 3247821741217701573
+    second: spr_tile_itch_23
+  - first:
+      213: -1090585703418919529
+    second: spr_tile_itch_24
+  - first:
+      213: -2504060403206193691
+    second: spr_tile_itch_25
+  - first:
+      213: -41793919427748447
+    second: spr_tile_itch_26
+  - first:
+      213: 6899793607950901699
+    second: spr_tile_itch_27
+  - first:
+      213: 3380923941655975930
+    second: spr_tile_itch_28
+  - first:
+      213: 3003892658525237098
+    second: spr_tile_itch_29
+  - first:
+      213: -2758481835060544755
+    second: spr_tile_itch_30
+  - first:
+      213: 7643278697197964598
+    second: spr_tile_itch_31
+  - first:
+      213: 6495354909887540354
+    second: spr_tile_itch_32
+  - first:
+      213: 5744714805711381236
+    second: spr_tile_itch_33
+  - first:
+      213: 1766855047254442934
+    second: spr_tile_itch_34
+  - first:
+      213: 3879564456085707253
+    second: spr_tile_itch_35
+  - first:
+      213: 6037847783901808835
+    second: spr_tile_itch_36
+  - first:
+      213: 391578631318974006
+    second: spr_tile_itch_37
+  - first:
+      213: -3052113039443975042
+    second: spr_tile_itch_38
+  - first:
+      213: 3895909975341772367
+    second: spr_tile_itch_39
+  - first:
+      213: -6341591415322873506
+    second: spr_tile_itch_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spr_tile_itch_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 173
+        width: 82
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c6e3d8178d69b1b0800000000000000
+      internalID: -5640356631300282684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tile_itch_1
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 318
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 710a19a0491f408b0800000000000000
+      internalID: -5186755252689199081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tile_itch_2
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 318
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf4645d29a326030800000000000000
+      internalID: 3486413463855976375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tile_itch_3
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 318
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27d44ea7f18dc50b0800000000000000
+      internalID: -5738474195459486350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tile_itch_4
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 338
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a3182f7c647db8f0800000000000000
+      internalID: -523133972366486616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tile_itch_5
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 328
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87cd5d6c65bcb54b0800000000000000
+      internalID: -5450539350438323080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tile_itch_6
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 323
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c6f118fadf186b0800000000000000
+      internalID: -5295672756583568268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tile_itch_7
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 323
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 537b23d43d689d860800000000000000
+      internalID: 7555218091982108469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tile_itch_8
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 307
+        width: 66
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68fa06d1aadd5c830800000000000000
+      internalID: 4090919559243018118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tile_itch_9
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 321
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6567466da4670b820800000000000000
+      internalID: 2931973421214758486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tile_itch_10
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 321
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 137a6c6bfeb2b6d30800000000000000
+      internalID: 4425679367385294641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tile_itch_11
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 322
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2151acf9450e9c4d0800000000000000
+      internalID: -3113711013287291630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tile_itch_12
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 287
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b48e06fbdb44f810800000000000000
+      internalID: 1798145559325738165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tile_itch_13
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 296
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01254ed949cb4d1c0800000000000000
+      internalID: -4479748382836633072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tile_itch_14
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 271
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a616a23c7654488d0800000000000000
+      internalID: -2845072752633028246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tile_itch_15
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 303
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c4f9e742e31c1330800000000000000
+      internalID: 3682840457872274626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tile_itch_16
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 298
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66e53bad858994e70800000000000000
+      internalID: 9099972029472530022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tile_itch_17
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 270
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 039a86b8d42561420800000000000000
+      internalID: 2600356327857891632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tile_itch_18
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 270
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 270cf69afadc7cd00800000000000000
+      internalID: 992988397204127858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tile_itch_19
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 270
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1edba854bb0ceaf70800000000000000
+      internalID: 9200502999322639841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tile_itch_20
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 253
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d30c107aba6ec1ff0800000000000000
+      internalID: -63922669774323651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tile_itch_21
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 267
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1079f9bd80d34f580800000000000000
+      internalID: -8794337064094034175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tile_itch_22
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 257
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e1e206b6ab7c8020800000000000000
+      internalID: 2345385461901615593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tile_itch_23
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 236
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce521b7aa4921d20800000000000000
+      internalID: 3247821741217701573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tile_itch_24
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 241
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7958896b4167dd0f0800000000000000
+      internalID: -1090585703418919529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tile_itch_25
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 222
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5edf5c2945acf3dd0800000000000000
+      internalID: -2504060403206193691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tile_itch_26
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 94
+        width: 177
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1addcb6d6a48b6ff0800000000000000
+      internalID: -41793919427748447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tile_itch_27
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 221
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c1ac61dabdf0cf50800000000000000
+      internalID: 6899793607950901699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tile_itch_28
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 205
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af7940b79647bee20800000000000000
+      internalID: 3380923941655975930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tile_itch_29
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 185
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6fecc62578ffa920800000000000000
+      internalID: 3003892658525237098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tile_itch_30
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 204
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b39d5d267e7b9d0800000000000000
+      internalID: -2758481835060544755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tile_itch_31
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 188
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d8bc1ba71621a60800000000000000
+      internalID: 7643278697197964598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tile_itch_32
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 194
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28cafed60e2242a50800000000000000
+      internalID: 6495354909887540354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tile_itch_33
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 175
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f2aa52dda359bf40800000000000000
+      internalID: 5744714805711381236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tile_itch_34
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 106
+        width: 61
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b30535ed41258810800000000000000
+      internalID: 1766855047254442934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tile_itch_35
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 63
+        width: 146
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f95838615bf6d530800000000000000
+      internalID: 3879564456085707253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tile_itch_36
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 83
+        width: 14
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c8c85fc19ebac350800000000000000
+      internalID: 6037847783901808835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tile_itch_37
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ea665c0ba2f6500800000000000000
+      internalID: 391578631318974006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tile_itch_38
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 0
+        width: 54
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e74aa958c57b4a5d0800000000000000
+      internalID: -3052113039443975042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tile_itch_39
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 72
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ea52d2b7d011630800000000000000
+      internalID: 3895909975341772367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tile_itch_40
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 0
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e51730bf4342ef7a0800000000000000
+      internalID: -6341591415322873506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      spr_tile_itch_0: -5640356631300282684
+      spr_tile_itch_1: -5186755252689199081
+      spr_tile_itch_10: 4425679367385294641
+      spr_tile_itch_11: -3113711013287291630
+      spr_tile_itch_12: 1798145559325738165
+      spr_tile_itch_13: -4479748382836633072
+      spr_tile_itch_14: -2845072752633028246
+      spr_tile_itch_15: 3682840457872274626
+      spr_tile_itch_16: 9099972029472530022
+      spr_tile_itch_17: 2600356327857891632
+      spr_tile_itch_18: 992988397204127858
+      spr_tile_itch_19: 9200502999322639841
+      spr_tile_itch_2: 3486413463855976375
+      spr_tile_itch_20: -63922669774323651
+      spr_tile_itch_21: -8794337064094034175
+      spr_tile_itch_22: 2345385461901615593
+      spr_tile_itch_23: 3247821741217701573
+      spr_tile_itch_24: -1090585703418919529
+      spr_tile_itch_25: -2504060403206193691
+      spr_tile_itch_26: -41793919427748447
+      spr_tile_itch_27: 6899793607950901699
+      spr_tile_itch_28: 3380923941655975930
+      spr_tile_itch_29: 3003892658525237098
+      spr_tile_itch_3: -5738474195459486350
+      spr_tile_itch_30: -2758481835060544755
+      spr_tile_itch_31: 7643278697197964598
+      spr_tile_itch_32: 6495354909887540354
+      spr_tile_itch_33: 5744714805711381236
+      spr_tile_itch_34: 1766855047254442934
+      spr_tile_itch_35: 3879564456085707253
+      spr_tile_itch_36: 6037847783901808835
+      spr_tile_itch_37: 391578631318974006
+      spr_tile_itch_38: -3052113039443975042
+      spr_tile_itch_39: 3895909975341772367
+      spr_tile_itch_4: -523133972366486616
+      spr_tile_itch_40: -6341591415322873506
+      spr_tile_itch_5: -5450539350438323080
+      spr_tile_itch_6: -5295672756583568268
+      spr_tile_itch_7: 7555218091982108469
+      spr_tile_itch_8: 4090919559243018118
+      spr_tile_itch_9: 2931973421214758486
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

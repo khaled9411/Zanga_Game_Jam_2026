@@ -1,0 +1,468 @@
+fileFormatVersion: 2
+guid: 83d4fef96fbbc9048b57fc6949f15b5e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6707526931485215547
+    second: mowonsterIdle-Sheet_0
+  - first:
+      213: 2559396982930465118
+    second: mowonsterIdle-Sheet_1
+  - first:
+      213: -3573760067445790290
+    second: mowonsterIdle-Sheet_2
+  - first:
+      213: -8063776447415984887
+    second: mowonsterIdle-Sheet_3
+  - first:
+      213: 2956282695653815440
+    second: mowonsterIdle-Sheet_4
+  - first:
+      213: 5116857047452093959
+    second: mowonsterIdle-Sheet_5
+  - first:
+      213: -2821050841665463880
+    second: mowonsterIdle-Sheet_6
+  - first:
+      213: -3620223252547478857
+    second: mowonsterIdle-Sheet_7
+  - first:
+      213: -7922347852435937728
+    second: mowonsterIdle-Sheet_8
+  - first:
+      213: 5588215463601422361
+    second: mowonsterIdle-Sheet_9
+  - first:
+      213: 1752775298412194908
+    second: mowonsterIdle-Sheet_10
+  - first:
+      213: -7976894400168129523
+    second: mowonsterIdle-Sheet_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mowonsterIdle-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 0
+        width: 104
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3bca88c43ce51d50800000000000000
+      internalID: 6707526931485215547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mowonsterIdle-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 0
+        width: 104
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e51e6c6eefdc48320800000000000000
+      internalID: 2559396982930465118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mowonsterIdle-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 0
+        width: 104
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea9ea6b3724776ec0800000000000000
+      internalID: -3573760067445790290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mowonsterIdle-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 0
+        width: 104
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90ddb977b06b71090800000000000000
+      internalID: -8063776447415984887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mowonsterIdle-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 0
+        width: 104
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 094741ad273d60920800000000000000
+      internalID: 2956282695653815440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mowonsterIdle-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 0
+        width: 104
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e06d7df5ab20740800000000000000
+      internalID: 5116857047452093959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mowonsterIdle-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 0
+        width: 104
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b99631c43d99d8d0800000000000000
+      internalID: -2821050841665463880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mowonsterIdle-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 0
+        width: 104
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba5c40f12262cdc0800000000000000
+      internalID: -3620223252547478857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mowonsterIdle-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 0
+        width: 104
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0462a744a9a2e0290800000000000000
+      internalID: -7922347852435937728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mowonsterIdle-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 0
+        width: 104
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 910ce444b545d8d40800000000000000
+      internalID: 5588215463601422361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mowonsterIdle-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 0
+        width: 104
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5c20f8e8db135810800000000000000
+      internalID: 1752775298412194908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mowonsterIdle-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 0
+        width: 104
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c0d237ec06c4190800000000000000
+      internalID: -7976894400168129523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      mowonsterIdle-Sheet_0: 6707526931485215547
+      mowonsterIdle-Sheet_1: 2559396982930465118
+      mowonsterIdle-Sheet_10: 1752775298412194908
+      mowonsterIdle-Sheet_11: -7976894400168129523
+      mowonsterIdle-Sheet_2: -3573760067445790290
+      mowonsterIdle-Sheet_3: -8063776447415984887
+      mowonsterIdle-Sheet_4: 2956282695653815440
+      mowonsterIdle-Sheet_5: 5116857047452093959
+      mowonsterIdle-Sheet_6: -2821050841665463880
+      mowonsterIdle-Sheet_7: -3620223252547478857
+      mowonsterIdle-Sheet_8: -7922347852435937728
+      mowonsterIdle-Sheet_9: 5588215463601422361
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

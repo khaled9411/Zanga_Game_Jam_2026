@@ -1,0 +1,4 @@
+Type:RGB
+Size:128x128
+Pixel Aspect Ratio: Square Pixels (1:1)
+Color Profile:sRGB

@@ -1,0 +1,2028 @@
+fileFormatVersion: 2
+guid: 5eaa36da872a5ab4fa3900bf3292ab61
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6268745050293311369
+    second: hue-shift-octonid_0
+  - first:
+      213: -3376857040378248802
+    second: hue-shift-octonid_1
+  - first:
+      213: 2370595931602676592
+    second: hue-shift-octonid_2
+  - first:
+      213: -5877331294075367066
+    second: hue-shift-octonid_3
+  - first:
+      213: 2721589837024928468
+    second: hue-shift-octonid_4
+  - first:
+      213: -2274192929824981151
+    second: hue-shift-octonid_5
+  - first:
+      213: -7150833963448950191
+    second: hue-shift-octonid_6
+  - first:
+      213: 4393939604700311588
+    second: hue-shift-octonid_7
+  - first:
+      213: 3600767818473474772
+    second: hue-shift-octonid_8
+  - first:
+      213: -1954950403101907141
+    second: hue-shift-octonid_9
+  - first:
+      213: -7628627258883524043
+    second: hue-shift-octonid_10
+  - first:
+      213: -1935408064391756524
+    second: hue-shift-octonid_11
+  - first:
+      213: -2289958764794301154
+    second: hue-shift-octonid_12
+  - first:
+      213: -1130313892271080548
+    second: hue-shift-octonid_13
+  - first:
+      213: -6850968536428855108
+    second: hue-shift-octonid_14
+  - first:
+      213: 2592792340340739787
+    second: hue-shift-octonid_15
+  - first:
+      213: 245781517026804998
+    second: hue-shift-octonid_16
+  - first:
+      213: 2503119412128769495
+    second: hue-shift-octonid_17
+  - first:
+      213: 3849488949303438525
+    second: hue-shift-octonid_18
+  - first:
+      213: 1500159842971268739
+    second: hue-shift-octonid_19
+  - first:
+      213: -8190163575723963566
+    second: hue-shift-octonid_20
+  - first:
+      213: 3848373385103727344
+    second: hue-shift-octonid_21
+  - first:
+      213: -1866418779747083606
+    second: hue-shift-octonid_22
+  - first:
+      213: 850418341125443486
+    second: hue-shift-octonid_23
+  - first:
+      213: -6777623504390563032
+    second: hue-shift-octonid_24
+  - first:
+      213: 9088764795443452994
+    second: hue-shift-octonid_25
+  - first:
+      213: -4336338027929520460
+    second: hue-shift-octonid_26
+  - first:
+      213: -1711159282736355295
+    second: hue-shift-octonid_27
+  - first:
+      213: -6012532900329141350
+    second: hue-shift-octonid_28
+  - first:
+      213: 102627632193274173
+    second: hue-shift-octonid_29
+  - first:
+      213: -3788097615174599320
+    second: hue-shift-octonid_30
+  - first:
+      213: -811783520644803343
+    second: hue-shift-octonid_31
+  - first:
+      213: 3848310458257367289
+    second: hue-shift-octonid_32
+  - first:
+      213: -1192446982384524709
+    second: hue-shift-octonid_33
+  - first:
+      213: -5100445007181194868
+    second: hue-shift-octonid_34
+  - first:
+      213: -1098880466400662383
+    second: hue-shift-octonid_35
+  - first:
+      213: 8993708002486215593
+    second: hue-shift-octonid_36
+  - first:
+      213: 8703851324622961818
+    second: hue-shift-octonid_37
+  - first:
+      213: -8895562465710354607
+    second: hue-shift-octonid_38
+  - first:
+      213: -5208164081101972777
+    second: hue-shift-octonid_39
+  - first:
+      213: -6103600226529944824
+    second: hue-shift-octonid_40
+  - first:
+      213: -4351881999790620667
+    second: hue-shift-octonid_41
+  - first:
+      213: -1012606116663202828
+    second: hue-shift-octonid_42
+  - first:
+      213: 3350981406894888975
+    second: hue-shift-octonid_43
+  - first:
+      213: 7218377588498677114
+    second: hue-shift-octonid_44
+  - first:
+      213: -4540266394928005577
+    second: hue-shift-octonid_45
+  - first:
+      213: 8515494766690039320
+    second: hue-shift-octonid_46
+  - first:
+      213: 7555850168054761321
+    second: hue-shift-octonid_47
+  - first:
+      213: -3542913887464992907
+    second: hue-shift-octonid_48
+  - first:
+      213: 6587958327471084048
+    second: hue-shift-octonid_49
+  - first:
+      213: 6826421895541397804
+    second: hue-shift-octonid_50
+  - first:
+      213: 5765619490392364898
+    second: hue-shift-octonid_51
+  - first:
+      213: 3929549025874086013
+    second: hue-shift-octonid_52
+  - first:
+      213: -4250672598702370554
+    second: hue-shift-octonid_53
+  - first:
+      213: 6989200908667999400
+    second: hue-shift-octonid_54
+  - first:
+      213: 3543470929532958766
+    second: hue-shift-octonid_55
+  - first:
+      213: -8086575393156689616
+    second: hue-shift-octonid_56
+  - first:
+      213: 6564089571312650721
+    second: hue-shift-octonid_57
+  - first:
+      213: 3632681200569992218
+    second: hue-shift-octonid_58
+  - first:
+      213: -8608003134318052745
+    second: hue-shift-octonid_59
+  - first:
+      213: -4805718218063029329
+    second: hue-shift-octonid_60
+  - first:
+      213: 2809379820552254290
+    second: hue-shift-octonid_61
+  - first:
+      213: 2078633677537079087
+    second: hue-shift-octonid_62
+  - first:
+      213: -3147880971220282393
+    second: hue-shift-octonid_63
+  - first:
+      213: -982352030782698122
+    second: hue-shift-octonid_64
+  - first:
+      213: 3010155378412856649
+    second: hue-shift-octonid_65
+  - first:
+      213: -1592102312729579927
+    second: hue-shift-octonid_66
+  - first:
+      213: 8497625116408124534
+    second: hue-shift-octonid_67
+  - first:
+      213: 4478942358429523900
+    second: hue-shift-octonid_68
+  - first:
+      213: -5331290534565618920
+    second: hue-shift-octonid_69
+  - first:
+      213: -6654841916331722831
+    second: hue-shift-octonid_70
+  - first:
+      213: 5977212615960931121
+    second: hue-shift-octonid_71
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hue-shift-octonid_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 533
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9879836f86e0ff650800000000000000
+      internalID: 6268745050293311369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hue-shift-octonid_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 533
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e914af2c96ef221d0800000000000000
+      internalID: -3376857040378248802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hue-shift-octonid_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 533
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07be929907c06e020800000000000000
+      internalID: 2370595931602676592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hue-shift-octonid_3
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 533
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 661d955d3568f6ea0800000000000000
+      internalID: -5877331294075367066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hue-shift-octonid_4
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 533
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d22f24898705c520800000000000000
+      internalID: 2721589837024928468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hue-shift-octonid_5
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 533
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16fb31b54917070e0800000000000000
+      internalID: -2274192929824981151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hue-shift-octonid_6
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 533
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 152a3d0a56223cc90800000000000000
+      internalID: -7150833963448950191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hue-shift-octonid_7
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 533
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 420bea65ac86afc30800000000000000
+      internalID: 4393939604700311588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hue-shift-octonid_8
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 467
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da05c2d04f78f130800000000000000
+      internalID: 3600767818473474772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hue-shift-octonid_9
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 468
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b37aa9557fe9ed4e0800000000000000
+      internalID: -1954950403101907141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hue-shift-octonid_10
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 469
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ab26e1deba12690800000000000000
+      internalID: -7628627258883524043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hue-shift-octonid_11
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 470
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415c082ae9c0425e0800000000000000
+      internalID: -1935408064391756524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hue-shift-octonid_12
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 472
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e15b42ad2ae6830e0800000000000000
+      internalID: -2289958764794301154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hue-shift-octonid_13
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 471
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9b3e7ee0815050f0800000000000000
+      internalID: -1130313892271080548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hue-shift-octonid_14
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 469
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb0c7c20a687ce0a0800000000000000
+      internalID: -6850968536428855108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hue-shift-octonid_15
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 468
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce0d5675e27bf320800000000000000
+      internalID: 2592792340340739787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hue-shift-octonid_16
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 404
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6054dbeccf0396300800000000000000
+      internalID: 245781517026804998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hue-shift-octonid_17
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 405
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d5e15ed7dddcb220800000000000000
+      internalID: 2503119412128769495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hue-shift-octonid_18
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 406
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbce50ecdc12c6530800000000000000
+      internalID: 3849488949303438525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hue-shift-octonid_19
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 408
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386bb92dd63a1d410800000000000000
+      internalID: 1500159842971268739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hue-shift-octonid_20
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 408
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25b41a80f91b65e80800000000000000
+      internalID: -8190163575723963566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hue-shift-octonid_21
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 407
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fadc26443b286530800000000000000
+      internalID: 3848373385103727344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hue-shift-octonid_22
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 405
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa9e0f22062916e0800000000000000
+      internalID: -1866418779747083606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hue-shift-octonid_23
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 404
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9f424db9fa4dcb00800000000000000
+      internalID: 850418341125443486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hue-shift-octonid_24
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 341
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82b5677055b01f1a0800000000000000
+      internalID: -6777623504390563032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hue-shift-octonid_25
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 341
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c9b775d67c12e70800000000000000
+      internalID: 9088764795443452994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hue-shift-octonid_26
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 341
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b63e3bd98b32d3c0800000000000000
+      internalID: -4336338027929520460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hue-shift-octonid_27
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 342
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 128236ec2bdb048e0800000000000000
+      internalID: -1711159282736355295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hue-shift-octonid_28
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 342
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b4883de213f8ca0800000000000000
+      internalID: -6012532900329141350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hue-shift-octonid_29
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 342
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d310509a94b9c6100800000000000000
+      internalID: 102627632193274173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hue-shift-octonid_30
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 343
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d73090a49fd6bc0800000000000000
+      internalID: -3788097615174599320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hue-shift-octonid_31
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 342
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f453716037fbb4f0800000000000000
+      internalID: -811783520644803343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hue-shift-octonid_32
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 276
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f0e9d9f8f1f76530800000000000000
+      internalID: 3848310458257367289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hue-shift-octonid_33
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 277
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b52eb7199c3937fe0800000000000000
+      internalID: -1192446982384524709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hue-shift-octonid_34
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 278
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c89dc8e0a449739b0800000000000000
+      internalID: -5100445007181194868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hue-shift-octonid_35
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 280
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ca295b90effb0f0800000000000000
+      internalID: -1098880466400662383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hue-shift-octonid_36
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 280
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a367cd07c110dc70800000000000000
+      internalID: 8993708002486215593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hue-shift-octonid_37
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 279
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9cf6fd2aaa4ac870800000000000000
+      internalID: 8703851324622961818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hue-shift-octonid_38
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 277
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f4902711d9c8480800000000000000
+      internalID: -8895562465710354607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hue-shift-octonid_39
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 276
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dad7fdbc52e8b7b0800000000000000
+      internalID: -5208164081101972777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hue-shift-octonid_40
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 212
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80b50b6aee7ab4ba0800000000000000
+      internalID: -6103600226529944824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hue-shift-octonid_41
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 211
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5004012e0620b93c0800000000000000
+      internalID: -4351881999790620667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hue-shift-octonid_42
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 210
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fbe6e61a1082f1f0800000000000000
+      internalID: -1012606116663202828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hue-shift-octonid_43
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 210
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0898e6d5d3118e20800000000000000
+      internalID: 3350981406894888975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hue-shift-octonid_44
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 210
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7dba111c24dc2460800000000000000
+      internalID: 7218377588498677114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hue-shift-octonid_45
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 211
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e3ca8e4cbbdf0c0800000000000000
+      internalID: -4540266394928005577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hue-shift-octonid_46
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 212
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 816f14f8f5d1d2670800000000000000
+      internalID: 8515494766690039320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hue-shift-octonid_47
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 212
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 967cafaf1b5cbd860800000000000000
+      internalID: 7555850168054761321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hue-shift-octonid_48
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 146
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57fc9db279a05dec0800000000000000
+      internalID: -3542913887464992907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hue-shift-octonid_49
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 144
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0129dffb1312d6b50800000000000000
+      internalID: 6587958327471084048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hue-shift-octonid_50
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 144
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2991bacb825cbe50800000000000000
+      internalID: 6826421895541397804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hue-shift-octonid_51
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 144
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 267d7e20168930050800000000000000
+      internalID: 5765619490392364898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hue-shift-octonid_52
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 144
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7805b6f400988630800000000000000
+      internalID: 3929549025874086013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hue-shift-octonid_53
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 143
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 601dbd1eac39205c0800000000000000
+      internalID: -4250672598702370554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hue-shift-octonid_54
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 147
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a45ef03231aef060800000000000000
+      internalID: 6989200908667999400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hue-shift-octonid_55
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 147
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e283cba4900fc2130800000000000000
+      internalID: 3543470929532958766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hue-shift-octonid_56
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 84
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0311b714686b6cf80800000000000000
+      internalID: -8086575393156689616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hue-shift-octonid_57
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 83
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e9cfe3efa4581b50800000000000000
+      internalID: 6564089571312650721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hue-shift-octonid_58
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 82
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a14c63e1e40e96230800000000000000
+      internalID: 3632681200569992218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hue-shift-octonid_59
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 82
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77af589a1ca3a8880800000000000000
+      internalID: -8608003134318052745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hue-shift-octonid_60
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 82
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fabdab11eb8ae4db0800000000000000
+      internalID: -4805718218063029329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hue-shift-octonid_61
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 81
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 253fa23ef0cecf620800000000000000
+      internalID: 2809379820552254290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hue-shift-octonid_62
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 84
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2fe2cf015ac8dc10800000000000000
+      internalID: 2078633677537079087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hue-shift-octonid_63
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 84
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e314335fea7054d0800000000000000
+      internalID: -3147880971220282393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hue-shift-octonid_64
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 18
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67d40d0680cfd52f0800000000000000
+      internalID: -982352030782698122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hue-shift-octonid_65
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 16
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 945a7014e5836c920800000000000000
+      internalID: 3010155378412856649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hue-shift-octonid_66
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 16
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96eeca3c167b7e9e0800000000000000
+      internalID: -1592102312729579927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hue-shift-octonid_67
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 16
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67491f16501ade570800000000000000
+      internalID: 8497625116408124534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hue-shift-octonid_68
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 16
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf54a33856682e30800000000000000
+      internalID: 4478942358429523900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hue-shift-octonid_69
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 15
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b50d451837306b0800000000000000
+      internalID: -5331290534565618920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hue-shift-octonid_70
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 19
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b7faa4398045a3a0800000000000000
+      internalID: -6654841916331722831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hue-shift-octonid_71
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 19
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13ba551a43353f250800000000000000
+      internalID: 5977212615960931121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      hue-shift-octonid_0: 6268745050293311369
+      hue-shift-octonid_1: -3376857040378248802
+      hue-shift-octonid_10: -7628627258883524043
+      hue-shift-octonid_11: -1935408064391756524
+      hue-shift-octonid_12: -2289958764794301154
+      hue-shift-octonid_13: -1130313892271080548
+      hue-shift-octonid_14: -6850968536428855108
+      hue-shift-octonid_15: 2592792340340739787
+      hue-shift-octonid_16: 245781517026804998
+      hue-shift-octonid_17: 2503119412128769495
+      hue-shift-octonid_18: 3849488949303438525
+      hue-shift-octonid_19: 1500159842971268739
+      hue-shift-octonid_2: 2370595931602676592
+      hue-shift-octonid_20: -8190163575723963566
+      hue-shift-octonid_21: 3848373385103727344
+      hue-shift-octonid_22: -1866418779747083606
+      hue-shift-octonid_23: 850418341125443486
+      hue-shift-octonid_24: -6777623504390563032
+      hue-shift-octonid_25: 9088764795443452994
+      hue-shift-octonid_26: -4336338027929520460
+      hue-shift-octonid_27: -1711159282736355295
+      hue-shift-octonid_28: -6012532900329141350
+      hue-shift-octonid_29: 102627632193274173
+      hue-shift-octonid_3: -5877331294075367066
+      hue-shift-octonid_30: -3788097615174599320
+      hue-shift-octonid_31: -811783520644803343
+      hue-shift-octonid_32: 3848310458257367289
+      hue-shift-octonid_33: -1192446982384524709
+      hue-shift-octonid_34: -5100445007181194868
+      hue-shift-octonid_35: -1098880466400662383
+      hue-shift-octonid_36: 8993708002486215593
+      hue-shift-octonid_37: 8703851324622961818
+      hue-shift-octonid_38: -8895562465710354607
+      hue-shift-octonid_39: -5208164081101972777
+      hue-shift-octonid_4: 2721589837024928468
+      hue-shift-octonid_40: -6103600226529944824
+      hue-shift-octonid_41: -4351881999790620667
+      hue-shift-octonid_42: -1012606116663202828
+      hue-shift-octonid_43: 3350981406894888975
+      hue-shift-octonid_44: 7218377588498677114
+      hue-shift-octonid_45: -4540266394928005577
+      hue-shift-octonid_46: 8515494766690039320
+      hue-shift-octonid_47: 7555850168054761321
+      hue-shift-octonid_48: -3542913887464992907
+      hue-shift-octonid_49: 6587958327471084048
+      hue-shift-octonid_5: -2274192929824981151
+      hue-shift-octonid_50: 6826421895541397804
+      hue-shift-octonid_51: 5765619490392364898
+      hue-shift-octonid_52: 3929549025874086013
+      hue-shift-octonid_53: -4250672598702370554
+      hue-shift-octonid_54: 6989200908667999400
+      hue-shift-octonid_55: 3543470929532958766
+      hue-shift-octonid_56: -8086575393156689616
+      hue-shift-octonid_57: 6564089571312650721
+      hue-shift-octonid_58: 3632681200569992218
+      hue-shift-octonid_59: -8608003134318052745
+      hue-shift-octonid_6: -7150833963448950191
+      hue-shift-octonid_60: -4805718218063029329
+      hue-shift-octonid_61: 2809379820552254290
+      hue-shift-octonid_62: 2078633677537079087
+      hue-shift-octonid_63: -3147880971220282393
+      hue-shift-octonid_64: -982352030782698122
+      hue-shift-octonid_65: 3010155378412856649
+      hue-shift-octonid_66: -1592102312729579927
+      hue-shift-octonid_67: 8497625116408124534
+      hue-shift-octonid_68: 4478942358429523900
+      hue-shift-octonid_69: -5331290534565618920
+      hue-shift-octonid_7: 4393939604700311588
+      hue-shift-octonid_70: -6654841916331722831
+      hue-shift-octonid_71: 5977212615960931121
+      hue-shift-octonid_8: 3600767818473474772
+      hue-shift-octonid_9: -1954950403101907141
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

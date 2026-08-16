@@ -1,0 +1,3588 @@
+fileFormatVersion: 2
+guid: c36a21c92b761e940ac96f2db7ad1536
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6194067181761519557
+    second: nes_octonid_0
+  - first:
+      213: 6692902935385697104
+    second: nes_octonid_1
+  - first:
+      213: 8516653543035450428
+    second: nes_octonid_2
+  - first:
+      213: 5919344350341595005
+    second: nes_octonid_3
+  - first:
+      213: 7555361624705059337
+    second: nes_octonid_4
+  - first:
+      213: 7269968838495917541
+    second: nes_octonid_5
+  - first:
+      213: 5227250932823079296
+    second: nes_octonid_6
+  - first:
+      213: -9049655682433481687
+    second: nes_octonid_7
+  - first:
+      213: 542880173162723201
+    second: nes_octonid_8
+  - first:
+      213: 2794455461774720043
+    second: nes_octonid_9
+  - first:
+      213: -2106990990037388544
+    second: nes_octonid_10
+  - first:
+      213: 2936300567315094936
+    second: nes_octonid_11
+  - first:
+      213: 3128348495459848763
+    second: nes_octonid_12
+  - first:
+      213: 7433421836070780312
+    second: nes_octonid_13
+  - first:
+      213: 2157070655378717970
+    second: nes_octonid_14
+  - first:
+      213: -9062918785463374545
+    second: nes_octonid_15
+  - first:
+      213: -3586545120968420050
+    second: nes_octonid_16
+  - first:
+      213: -7505990902851422276
+    second: nes_octonid_17
+  - first:
+      213: 2469579920434847379
+    second: nes_octonid_18
+  - first:
+      213: 8106993948982339500
+    second: nes_octonid_19
+  - first:
+      213: 173222525283138286
+    second: nes_octonid_20
+  - first:
+      213: 3959603362475272664
+    second: nes_octonid_21
+  - first:
+      213: 6533680703894562181
+    second: nes_octonid_22
+  - first:
+      213: -8773896360821241944
+    second: nes_octonid_23
+  - first:
+      213: 8036535088656712959
+    second: nes_octonid_24
+  - first:
+      213: -968278115973188855
+    second: nes_octonid_25
+  - first:
+      213: -618935671147877474
+    second: nes_octonid_26
+  - first:
+      213: 5760865543652869195
+    second: nes_octonid_27
+  - first:
+      213: 1837139098011498318
+    second: nes_octonid_28
+  - first:
+      213: -987120781702310406
+    second: nes_octonid_29
+  - first:
+      213: -497176473395216117
+    second: nes_octonid_30
+  - first:
+      213: 975420398927890790
+    second: nes_octonid_31
+  - first:
+      213: 7852913413758390180
+    second: nes_octonid_32
+  - first:
+      213: -7417853118395032449
+    second: nes_octonid_33
+  - first:
+      213: 870395747651563782
+    second: nes_octonid_34
+  - first:
+      213: -5450667710484401653
+    second: nes_octonid_35
+  - first:
+      213: -8296677110067204266
+    second: nes_octonid_36
+  - first:
+      213: 3875146358561338680
+    second: nes_octonid_37
+  - first:
+      213: 7309284101655699198
+    second: nes_octonid_38
+  - first:
+      213: -5105405599517373835
+    second: nes_octonid_39
+  - first:
+      213: 8573185274872503061
+    second: nes_octonid_40
+  - first:
+      213: 18741231915649650
+    second: nes_octonid_41
+  - first:
+      213: 6414247591570358639
+    second: nes_octonid_42
+  - first:
+      213: 5832397703957339890
+    second: nes_octonid_43
+  - first:
+      213: 5796078472912744995
+    second: nes_octonid_44
+  - first:
+      213: 8728304976461937848
+    second: nes_octonid_45
+  - first:
+      213: -1636320006869147972
+    second: nes_octonid_46
+  - first:
+      213: -1449600832706121043
+    second: nes_octonid_47
+  - first:
+      213: 5474974213440053500
+    second: nes_octonid_48
+  - first:
+      213: -4009452023253938729
+    second: nes_octonid_49
+  - first:
+      213: 3372347266228788854
+    second: nes_octonid_50
+  - first:
+      213: -1287700889573109980
+    second: nes_octonid_51
+  - first:
+      213: 7172187936533079916
+    second: nes_octonid_52
+  - first:
+      213: -4594240242017043486
+    second: nes_octonid_53
+  - first:
+      213: 2353575333121058330
+    second: nes_octonid_54
+  - first:
+      213: 7648396057180436491
+    second: nes_octonid_55
+  - first:
+      213: 4601120204190025784
+    second: nes_octonid_56
+  - first:
+      213: 7975741294278323452
+    second: nes_octonid_57
+  - first:
+      213: 4747781568400902822
+    second: nes_octonid_58
+  - first:
+      213: 6684812285841333184
+    second: nes_octonid_59
+  - first:
+      213: -2939606026401898062
+    second: nes_octonid_60
+  - first:
+      213: -1559925807671791806
+    second: nes_octonid_61
+  - first:
+      213: -1275309861130330521
+    second: nes_octonid_62
+  - first:
+      213: -8337903067766103468
+    second: nes_octonid_63
+  - first:
+      213: -168619853894457937
+    second: nes_octonid_64
+  - first:
+      213: 4712691510697463787
+    second: nes_octonid_65
+  - first:
+      213: 1587629554281267467
+    second: nes_octonid_66
+  - first:
+      213: 7718918421832442306
+    second: nes_octonid_67
+  - first:
+      213: 7052383889094485637
+    second: nes_octonid_68
+  - first:
+      213: 1032555987386272309
+    second: nes_octonid_69
+  - first:
+      213: -6403713573795466624
+    second: nes_octonid_70
+  - first:
+      213: 4543650792840027748
+    second: nes_octonid_71
+  - first:
+      213: -2623641246236007276
+    second: nes_octonid_72
+  - first:
+      213: 394572789089315853
+    second: nes_octonid_73
+  - first:
+      213: 1032851209086330357
+    second: nes_octonid_74
+  - first:
+      213: 1088591395391043570
+    second: nes_octonid_75
+  - first:
+      213: 5129069890926883950
+    second: nes_octonid_76
+  - first:
+      213: 6630936415416767974
+    second: nes_octonid_77
+  - first:
+      213: 1940187323181317641
+    second: nes_octonid_78
+  - first:
+      213: 5025538103510270150
+    second: nes_octonid_79
+  - first:
+      213: 4352262508372478895
+    second: nes_octonid_80
+  - first:
+      213: 695743519051920884
+    second: nes_octonid_81
+  - first:
+      213: 1415822447360584958
+    second: nes_octonid_82
+  - first:
+      213: 7258309798604348525
+    second: nes_octonid_83
+  - first:
+      213: 6243129998952559171
+    second: nes_octonid_84
+  - first:
+      213: -8040259079447399892
+    second: nes_octonid_85
+  - first:
+      213: -6949258087873123984
+    second: nes_octonid_86
+  - first:
+      213: 8208572667317967896
+    second: nes_octonid_87
+  - first:
+      213: 1146746571901074701
+    second: nes_octonid_88
+  - first:
+      213: -4132136345737379640
+    second: nes_octonid_89
+  - first:
+      213: -7718615730209497461
+    second: nes_octonid_90
+  - first:
+      213: -8067031800032861737
+    second: nes_octonid_91
+  - first:
+      213: -1904704467283440714
+    second: nes_octonid_92
+  - first:
+      213: -5166418678662517637
+    second: nes_octonid_93
+  - first:
+      213: -406357966945904983
+    second: nes_octonid_94
+  - first:
+      213: -5666029002824215975
+    second: nes_octonid_95
+  - first:
+      213: 1795220452044051155
+    second: nes_octonid_96
+  - first:
+      213: -224494141190310073
+    second: nes_octonid_97
+  - first:
+      213: -3452039503224937707
+    second: nes_octonid_98
+  - first:
+      213: 797031810801415239
+    second: nes_octonid_99
+  - first:
+      213: -604343355957408101
+    second: nes_octonid_100
+  - first:
+      213: -1858642125907031534
+    second: nes_octonid_101
+  - first:
+      213: 9091429740346791232
+    second: nes_octonid_102
+  - first:
+      213: 2636460315306383181
+    second: nes_octonid_103
+  - first:
+      213: 7595732691114098621
+    second: nes_octonid_104
+  - first:
+      213: -6075992819299913174
+    second: nes_octonid_105
+  - first:
+      213: -4462345728090460344
+    second: nes_octonid_106
+  - first:
+      213: -6735305758921275047
+    second: nes_octonid_107
+  - first:
+      213: 1762241394224407765
+    second: nes_octonid_108
+  - first:
+      213: 5582716907847239845
+    second: nes_octonid_109
+  - first:
+      213: -1744586450968595914
+    second: nes_octonid_110
+  - first:
+      213: -6040183336309360145
+    second: nes_octonid_111
+  - first:
+      213: 7970720139608990648
+    second: nes_octonid_112
+  - first:
+      213: 6492032752473671764
+    second: nes_octonid_113
+  - first:
+      213: 2213592606827117693
+    second: nes_octonid_114
+  - first:
+      213: 1699755328516790521
+    second: nes_octonid_115
+  - first:
+      213: -8213851428608778230
+    second: nes_octonid_116
+  - first:
+      213: 1906617649313822130
+    second: nes_octonid_117
+  - first:
+      213: -7181705126325055446
+    second: nes_octonid_118
+  - first:
+      213: 5723290245740638905
+    second: nes_octonid_119
+  - first:
+      213: -1992028605347628473
+    second: nes_octonid_120
+  - first:
+      213: -5355840734966237160
+    second: nes_octonid_121
+  - first:
+      213: 4468625172909306755
+    second: nes_octonid_122
+  - first:
+      213: 3946549075074235016
+    second: nes_octonid_123
+  - first:
+      213: 3458433159646224112
+    second: nes_octonid_124
+  - first:
+      213: 7481112484680929265
+    second: nes_octonid_125
+  - first:
+      213: -980624901533440684
+    second: nes_octonid_126
+  - first:
+      213: -4994092152774763054
+    second: nes_octonid_127
+  - first:
+      213: -1990908917145647120
+    second: nes_octonid_128
+  - first:
+      213: 2533216027854265175
+    second: nes_octonid_129
+  - first:
+      213: 6245960702290649987
+    second: nes_octonid_130
+  - first:
+      213: 4669291978208953992
+    second: nes_octonid_131
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: nes_octonid_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1237
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b30233c37b04a0aa0800000000000000
+      internalID: -6194067181761519557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1237
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b65db52c7f1ec50800000000000000
+      internalID: 6692902935385697104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1237
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3433b3364b313670800000000000000
+      internalID: 8516653543035450428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_3
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1237
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7f7359135cb52250800000000000000
+      internalID: 5919344350341595005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_4
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1237
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90ac92e1e590ad860800000000000000
+      internalID: 7555361624705059337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_5
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1237
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e555b2042e14e460800000000000000
+      internalID: 7269968838495917541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_6
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1237
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 089bfba370dea8840800000000000000
+      internalID: 5227250932823079296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_7
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1237
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92405fc9a1a296280800000000000000
+      internalID: -9049655682433481687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_8
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1171
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18777f424a2b88700800000000000000
+      internalID: 542880173162723201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_9
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1172
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2c7bb3df66e7c620800000000000000
+      internalID: 2794455461774720043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_10
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1173
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0037fdd9bd672c2e0800000000000000
+      internalID: -2106990990037388544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_11
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1174
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d189c0fc5dfb820800000000000000
+      internalID: 2936300567315094936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_12
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1176
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b321385c1602a6b20800000000000000
+      internalID: 3128348495459848763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_13
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1175
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d71a4a6c1d82760800000000000000
+      internalID: 7433421836070780312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_14
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1173
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d744915547fed10800000000000000
+      internalID: 2157070655378717970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_15
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1172
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2dad3cc16b0a3280800000000000000
+      internalID: -9062918785463374545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_16
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1108
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2554cdf6380a3ec0800000000000000
+      internalID: -3586545120968420050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_17
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1108
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb73a34da0d55d790800000000000000
+      internalID: -7505990902851422276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_18
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1107
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39ed4fd6ad5b54220800000000000000
+      internalID: 2469579920434847379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_19
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1043
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca7655d3b04d18070800000000000000
+      internalID: 8106993948982339500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_20
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1042
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeaf89e08f8676200800000000000000
+      internalID: 173222525283138286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_21
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1042
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d9e7cf774653f630800000000000000
+      internalID: 3959603362475272664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_22
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1042
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 585a577bbfb4caa50800000000000000
+      internalID: 6533680703894562181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_23
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1043
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a74825febbdc3680800000000000000
+      internalID: -8773896360821241944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_24
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1044
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff488507512878f60800000000000000
+      internalID: 8036535088656712959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_25
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1044
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90332a50f2cff82f0800000000000000
+      internalID: -968278115973188855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_26
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 980
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9ba96e49491967f0800000000000000
+      internalID: -618935671147877474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_27
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 980
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b44873880b4b2ff40800000000000000
+      internalID: 5760865543652869195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_28
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 979
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e47f4fba644de7910800000000000000
+      internalID: 1837139098011498318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_29
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 978
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af55a3801ea0d42f0800000000000000
+      internalID: -987120781702310406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_30
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 978
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b01c890b1aca919f0800000000000000
+      internalID: -497176473395216117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_31
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 978
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66944c05fa3698d00800000000000000
+      internalID: 975420398927890790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_32
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 979
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4af08fea4272bfc60800000000000000
+      internalID: 7852913413758390180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_33
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 917
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7c5a0ae3ed7e0990800000000000000
+      internalID: -7417853118395032449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_34
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 917
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60138c82254441c00800000000000000
+      internalID: 870395747651563782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_35
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 917
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b02b2ef98965b54b0800000000000000
+      internalID: -5450667710484401653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_36
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 917
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f645640284cdc80800000000000000
+      internalID: -8296677110067204266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_37
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 917
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83572bae41947c530800000000000000
+      internalID: 3875146358561338680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_38
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 917
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe19990a2bcf6560800000000000000
+      internalID: 7309284101655699198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_39
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 917
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a0a7628a4f529b0800000000000000
+      internalID: -5105405599517373835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_40
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 917
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b9266b5921af670800000000000000
+      internalID: 8573185274872503061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_41
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 852
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a4cf61d05924000800000000000000
+      internalID: 18741231915649650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_42
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 853
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f61c4fc433cf30950800000000000000
+      internalID: 6414247591570358639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_43
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 854
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe5e257fc6d0f050800000000000000
+      internalID: 5832397703957339890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_44
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 856
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 322b04489aecf6050800000000000000
+      internalID: 5796078472912744995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_45
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 856
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bcb94da12b212970800000000000000
+      internalID: 8728304976461937848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_46
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 855
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe13b39f9f9a49e0800000000000000
+      internalID: -1636320006869147972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_47
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 853
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da2f07419bbf1ebe0800000000000000
+      internalID: -1449600832706121043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_48
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 852
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf0a48a1a040bfb40800000000000000
+      internalID: 5474974213440053500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_49
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 786
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd4af9b0a09b58c0800000000000000
+      internalID: -4009452023253938729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_50
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 786
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e93de98fbfcce20800000000000000
+      internalID: 3372347266228788854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_51
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 787
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f4a0c0dda212ee0800000000000000
+      internalID: -1287700889573109980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_52
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 720
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c67656badeab88360800000000000000
+      internalID: 7172187936533079916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_53
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 720
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ebf4c957dafd30c0800000000000000
+      internalID: -4594240242017043486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_54
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 720
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a166dc2bb4499a020800000000000000
+      internalID: 2353575333121058330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_55
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 720
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b08fcb9e0bf842a60800000000000000
+      internalID: 7648396057180436491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_56
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 719
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8388e9ba2767adf30800000000000000
+      internalID: 4601120204190025784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_57
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 723
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfcafd923768fae60800000000000000
+      internalID: 7975741294278323452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_58
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 723
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aaceaf7e2283e140800000000000000
+      internalID: 4747781568400902822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_59
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 659
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb5db73b5935cc50800000000000000
+      internalID: 6684812285841333184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_60
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 659
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b1a7b8c4eb6437d0800000000000000
+      internalID: -2939606026401898062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_61
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 655
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f22c52eb70a5ae0800000000000000
+      internalID: -1559925807671791806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_62
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 656
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e16cc20703d4ee0800000000000000
+      internalID: -1275309861130330521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_63
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 656
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45269220651d94c80800000000000000
+      internalID: -8337903067766103468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_64
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 656
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa5ea82e221f8adf0800000000000000
+      internalID: -168619853894457937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_65
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 656
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef0f17c5f7d66140800000000000000
+      internalID: 4712691510697463787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_66
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 597
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b01c8d10ba4680610800000000000000
+      internalID: 1587629554281267467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_67
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 597
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c1aa87786b1f1b60800000000000000
+      internalID: 7718918421832442306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_68
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 597
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5862a2138c91fd160800000000000000
+      internalID: 7052383889094485637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_69
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 597
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a8cd62330645e00800000000000000
+      internalID: 1032555987386272309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_70
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 597
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 082f296de607127a0800000000000000
+      internalID: -6403713573795466624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_71
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 597
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ed6a2a25a4e0f30800000000000000
+      internalID: 4543650792840027748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_72
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 597
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4942a0cef24f69bd0800000000000000
+      internalID: -2623641246236007276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_73
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 597
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c24b37cddc97500800000000000000
+      internalID: 394572789089315853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_74
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 533
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f56c6fc3bc655e00800000000000000
+      internalID: 1032851209086330357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_75
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 533
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f774d34b147b1f00800000000000000
+      internalID: 1088591395391043570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_76
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 533
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6439dc04ed1e2740800000000000000
+      internalID: 5129069890926883950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_77
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 534
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e55e11a981d50c50800000000000000
+      internalID: 6630936415416767974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_78
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 534
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e30f3471eecea10800000000000000
+      internalID: 1940187323181317641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_79
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 534
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c08be8574c4eb540800000000000000
+      internalID: 5025538103510270150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_80
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 535
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fabcacc21b7566c30800000000000000
+      internalID: 4352262508372478895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_81
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 534
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f5bedb5b07c7a900800000000000000
+      internalID: 695743519051920884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_82
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 468
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efca3f7b30306a310800000000000000
+      internalID: 1415822447360584958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_83
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 468
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c9c8f3e42bab460800000000000000
+      internalID: 7258309798604348525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_84
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 470
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 342f62218ad04a650800000000000000
+      internalID: 6243129998952559171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_85
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 403
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c22bd6367f24b6090800000000000000
+      internalID: -8040259079447399892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_86
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 402
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 079efcb76964f8f90800000000000000
+      internalID: -6949258087873123984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_87
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 402
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81cd77c9955bae170800000000000000
+      internalID: 8208572667317967896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_88
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 402
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d7f817eef0aef00800000000000000
+      internalID: 1146746571901074701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_89
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 401
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c0c7d4f2e3b7a6c0800000000000000
+      internalID: -4132136345737379640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_90
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 404
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ede1b63e7f1e490800000000000000
+      internalID: -7718615730209497461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_91
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 404
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d1e24f91552c0090800000000000000
+      internalID: -8067031800032861737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_92
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 340
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb8879e0612195e0800000000000000
+      internalID: -1904704467283440714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_93
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 340
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ca069a5913d48b0800000000000000
+      internalID: -5166418678662517637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_94
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 337
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a61a8005935c5af0800000000000000
+      internalID: -406357966945904983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_95
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 338
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9521a9f44a83e51b0800000000000000
+      internalID: -5666029002824215975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_96
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 338
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d21a995d77e9e810800000000000000
+      internalID: 1795220452044051155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_97
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 338
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 747f13c94cf62ecf0800000000000000
+      internalID: -224494141190310073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_98
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 339
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51369ab8c54e710d0800000000000000
+      internalID: -3452039503224937707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_99
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 277
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74431858530af0b00800000000000000
+      internalID: 797031810801415239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_100
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 277
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e8ac17be0fc97f0800000000000000
+      internalID: -604343355957408101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_101
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 277
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a0cb085d6c436e0800000000000000
+      internalID: -1858642125907031534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_102
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 277
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 045dacd2e2f3b2e70800000000000000
+      internalID: 9091429740346791232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_103
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 277
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d47504e20b6969420800000000000000
+      internalID: 2636460315306383181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_104
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 277
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf7dae73a6796960800000000000000
+      internalID: 7595732691114098621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_105
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 277
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a22fdcb09bcbdaba0800000000000000
+      internalID: -6075992819299913174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_106
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 277
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84faf2ce3309212c0800000000000000
+      internalID: -4462345728090460344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_107
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 212
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 959cad1f8136782a0800000000000000
+      internalID: -6735305758921275047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_108
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 213
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d42c37163db47810800000000000000
+      internalID: 1762241394224407765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_109
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 214
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a84dcdf27bc97d40800000000000000
+      internalID: 5582716907847239845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_110
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 216
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 632be06bddbf9c7e0800000000000000
+      internalID: -1744586450968595914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_111
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 216
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9fb050245fc2ca0800000000000000
+      internalID: -6040183336309360145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_112
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 215
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b3227d7cbfad9e60800000000000000
+      internalID: 7970720139608990648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_113
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 213
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45805616465581a50800000000000000
+      internalID: 6492032752473671764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_114
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 212
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c7c5f6fb248be10800000000000000
+      internalID: 2213592606827117693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_115
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 146
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f81251377eb69710800000000000000
+      internalID: 1699755328516790521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_116
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 146
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0060fff4a9820e80800000000000000
+      internalID: -8213851428608778230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_117
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 147
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b537dd76aaa57a10800000000000000
+      internalID: 1906617649313822130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_118
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 80
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a201bc7ec35755c90800000000000000
+      internalID: -7181705126325055446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_119
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 80
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b234dbb7263d6f40800000000000000
+      internalID: 5723290245740638905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_120
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 80
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a76d3a984ea54e0800000000000000
+      internalID: -1992028605347628473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_121
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 80
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81835ce5a3b3ca5b0800000000000000
+      internalID: -5355840734966237160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_122
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 79
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 383b0a14beeb30e30800000000000000
+      internalID: 4468625172909306755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_123
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 83
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a327c5975f4c630800000000000000
+      internalID: 3946549075074235016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_124
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 83
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe152892a2deff20800000000000000
+      internalID: 3458433159646224112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_125
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 19
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff852e0b2042d760800000000000000
+      internalID: 7481112484680929265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_126
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 19
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 455623ef8de1462f0800000000000000
+      internalID: -980624901533440684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_127
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 15
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd5b4a95ab61bab0800000000000000
+      internalID: -4994092152774763054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_128
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 16
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f7406d53eede54e0800000000000000
+      internalID: -1990908917145647120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_129
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 16
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b54974e8ac72320800000000000000
+      internalID: 2533216027854265175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_130
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 16
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 383651d8a2c1ea650800000000000000
+      internalID: 6245960702290649987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes_octonid_131
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 16
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 886c9b1b058acc040800000000000000
+      internalID: 4669291978208953992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      nes_octonid_0: -6194067181761519557
+      nes_octonid_1: 6692902935385697104
+      nes_octonid_10: -2106990990037388544
+      nes_octonid_100: -604343355957408101
+      nes_octonid_101: -1858642125907031534
+      nes_octonid_102: 9091429740346791232
+      nes_octonid_103: 2636460315306383181
+      nes_octonid_104: 7595732691114098621
+      nes_octonid_105: -6075992819299913174
+      nes_octonid_106: -4462345728090460344
+      nes_octonid_107: -6735305758921275047
+      nes_octonid_108: 1762241394224407765
+      nes_octonid_109: 5582716907847239845
+      nes_octonid_11: 2936300567315094936
+      nes_octonid_110: -1744586450968595914
+      nes_octonid_111: -6040183336309360145
+      nes_octonid_112: 7970720139608990648
+      nes_octonid_113: 6492032752473671764
+      nes_octonid_114: 2213592606827117693
+      nes_octonid_115: 1699755328516790521
+      nes_octonid_116: -8213851428608778230
+      nes_octonid_117: 1906617649313822130
+      nes_octonid_118: -7181705126325055446
+      nes_octonid_119: 5723290245740638905
+      nes_octonid_12: 3128348495459848763
+      nes_octonid_120: -1992028605347628473
+      nes_octonid_121: -5355840734966237160
+      nes_octonid_122: 4468625172909306755
+      nes_octonid_123: 3946549075074235016
+      nes_octonid_124: 3458433159646224112
+      nes_octonid_125: 7481112484680929265
+      nes_octonid_126: -980624901533440684
+      nes_octonid_127: -4994092152774763054
+      nes_octonid_128: -1990908917145647120
+      nes_octonid_129: 2533216027854265175
+      nes_octonid_13: 7433421836070780312
+      nes_octonid_130: 6245960702290649987
+      nes_octonid_131: 4669291978208953992
+      nes_octonid_14: 2157070655378717970
+      nes_octonid_15: -9062918785463374545
+      nes_octonid_16: -3586545120968420050
+      nes_octonid_17: -7505990902851422276
+      nes_octonid_18: 2469579920434847379
+      nes_octonid_19: 8106993948982339500
+      nes_octonid_2: 8516653543035450428
+      nes_octonid_20: 173222525283138286
+      nes_octonid_21: 3959603362475272664
+      nes_octonid_22: 6533680703894562181
+      nes_octonid_23: -8773896360821241944
+      nes_octonid_24: 8036535088656712959
+      nes_octonid_25: -968278115973188855
+      nes_octonid_26: -618935671147877474
+      nes_octonid_27: 5760865543652869195
+      nes_octonid_28: 1837139098011498318
+      nes_octonid_29: -987120781702310406
+      nes_octonid_3: 5919344350341595005
+      nes_octonid_30: -497176473395216117
+      nes_octonid_31: 975420398927890790
+      nes_octonid_32: 7852913413758390180
+      nes_octonid_33: -7417853118395032449
+      nes_octonid_34: 870395747651563782
+      nes_octonid_35: -5450667710484401653
+      nes_octonid_36: -8296677110067204266
+      nes_octonid_37: 3875146358561338680
+      nes_octonid_38: 7309284101655699198
+      nes_octonid_39: -5105405599517373835
+      nes_octonid_4: 7555361624705059337
+      nes_octonid_40: 8573185274872503061
+      nes_octonid_41: 18741231915649650
+      nes_octonid_42: 6414247591570358639
+      nes_octonid_43: 5832397703957339890
+      nes_octonid_44: 5796078472912744995
+      nes_octonid_45: 8728304976461937848
+      nes_octonid_46: -1636320006869147972
+      nes_octonid_47: -1449600832706121043
+      nes_octonid_48: 5474974213440053500
+      nes_octonid_49: -4009452023253938729
+      nes_octonid_5: 7269968838495917541
+      nes_octonid_50: 3372347266228788854
+      nes_octonid_51: -1287700889573109980
+      nes_octonid_52: 7172187936533079916
+      nes_octonid_53: -4594240242017043486
+      nes_octonid_54: 2353575333121058330
+      nes_octonid_55: 7648396057180436491
+      nes_octonid_56: 4601120204190025784
+      nes_octonid_57: 7975741294278323452
+      nes_octonid_58: 4747781568400902822
+      nes_octonid_59: 6684812285841333184
+      nes_octonid_6: 5227250932823079296
+      nes_octonid_60: -2939606026401898062
+      nes_octonid_61: -1559925807671791806
+      nes_octonid_62: -1275309861130330521
+      nes_octonid_63: -8337903067766103468
+      nes_octonid_64: -168619853894457937
+      nes_octonid_65: 4712691510697463787
+      nes_octonid_66: 1587629554281267467
+      nes_octonid_67: 7718918421832442306
+      nes_octonid_68: 7052383889094485637
+      nes_octonid_69: 1032555987386272309
+      nes_octonid_7: -9049655682433481687
+      nes_octonid_70: -6403713573795466624
+      nes_octonid_71: 4543650792840027748
+      nes_octonid_72: -2623641246236007276
+      nes_octonid_73: 394572789089315853
+      nes_octonid_74: 1032851209086330357
+      nes_octonid_75: 1088591395391043570
+      nes_octonid_76: 5129069890926883950
+      nes_octonid_77: 6630936415416767974
+      nes_octonid_78: 1940187323181317641
+      nes_octonid_79: 5025538103510270150
+      nes_octonid_8: 542880173162723201
+      nes_octonid_80: 4352262508372478895
+      nes_octonid_81: 695743519051920884
+      nes_octonid_82: 1415822447360584958
+      nes_octonid_83: 7258309798604348525
+      nes_octonid_84: 6243129998952559171
+      nes_octonid_85: -8040259079447399892
+      nes_octonid_86: -6949258087873123984
+      nes_octonid_87: 8208572667317967896
+      nes_octonid_88: 1146746571901074701
+      nes_octonid_89: -4132136345737379640
+      nes_octonid_9: 2794455461774720043
+      nes_octonid_90: -7718615730209497461
+      nes_octonid_91: -8067031800032861737
+      nes_octonid_92: -1904704467283440714
+      nes_octonid_93: -5166418678662517637
+      nes_octonid_94: -406357966945904983
+      nes_octonid_95: -5666029002824215975
+      nes_octonid_96: 1795220452044051155
+      nes_octonid_97: -224494141190310073
+      nes_octonid_98: -3452039503224937707
+      nes_octonid_99: 797031810801415239
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

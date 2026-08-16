@@ -313,13 +313,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 55b9820f650c46e448317d2e0fff6767, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::EnemySpawner
-  initialGracePeriod: 15
-  miniEnemyPrefab: {fileID: 8367146241638537420, guid: c8ae1016d3adc5f4a88a7c671b31a3af, type: 3}
-  bigEnemyPrefab: {fileID: 2534758561692488713, guid: d1299b65d9721384f9119027da811131, type: 3}
-  minMiniEnemies: 10
-  maxMiniEnemies: 20
+  miniEnemyPrefabsByDream:
+  - {fileID: 3489375070792590263, guid: 37889d62d6de7dd42a1e152fb8ee1b5e, type: 3}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  bigEnemyPrefabsByDream:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  minMiniEnemies: 1
+  maxMiniEnemies: 2
   spawnIntervalSeconds: 3
   spawnRadius: 8
+  initialGracePeriod: 2
   bigEnemyStartDream: 3
 --- !u!4 &116355353
 Transform:
@@ -484,6 +492,10 @@ PrefabInstance:
     - target: {fileID: 2198686891879739146, guid: b3d2fd0bd487c5146bc1b7b31ada35fa, type: 3}
       propertyPath: m_Name
       value: Player
+      objectReference: {fileID: 0}
+    - target: {fileID: 5141433862892087659, guid: b3d2fd0bd487c5146bc1b7b31ada35fa, type: 3}
+      propertyPath: showConeVisual
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8915504962877320747, guid: b3d2fd0bd487c5146bc1b7b31ada35fa, type: 3}
       propertyPath: m_LocalPosition.x

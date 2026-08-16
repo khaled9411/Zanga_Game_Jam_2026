@@ -1,0 +1,3588 @@
+fileFormatVersion: 2
+guid: 12dcb4a7091c0e54a85b7abdd2ef7b1e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4314251676902144618
+    second: commodor_64_octonid_0
+  - first:
+      213: 6487587054025564662
+    second: commodor_64_octonid_1
+  - first:
+      213: 695540122302692379
+    second: commodor_64_octonid_2
+  - first:
+      213: 6440397344083147252
+    second: commodor_64_octonid_3
+  - first:
+      213: 8013048055544080301
+    second: commodor_64_octonid_4
+  - first:
+      213: 2102157229555976744
+    second: commodor_64_octonid_5
+  - first:
+      213: -875132751754047674
+    second: commodor_64_octonid_6
+  - first:
+      213: 1397478396033391242
+    second: commodor_64_octonid_7
+  - first:
+      213: 642405475930447315
+    second: commodor_64_octonid_8
+  - first:
+      213: 3212808508877720403
+    second: commodor_64_octonid_9
+  - first:
+      213: 9183510413347889288
+    second: commodor_64_octonid_10
+  - first:
+      213: 9002012166952561187
+    second: commodor_64_octonid_11
+  - first:
+      213: 7597427752995348641
+    second: commodor_64_octonid_12
+  - first:
+      213: 5368815098449621335
+    second: commodor_64_octonid_13
+  - first:
+      213: 7825355350933922665
+    second: commodor_64_octonid_14
+  - first:
+      213: -4866895572899630752
+    second: commodor_64_octonid_15
+  - first:
+      213: -2572875774034235052
+    second: commodor_64_octonid_16
+  - first:
+      213: 5051962137464252124
+    second: commodor_64_octonid_17
+  - first:
+      213: 4459243424486047315
+    second: commodor_64_octonid_18
+  - first:
+      213: -4802887246320119640
+    second: commodor_64_octonid_19
+  - first:
+      213: -2115940578631636564
+    second: commodor_64_octonid_20
+  - first:
+      213: -1873425775063301615
+    second: commodor_64_octonid_21
+  - first:
+      213: 6314513882281579459
+    second: commodor_64_octonid_22
+  - first:
+      213: -3716773548702314194
+    second: commodor_64_octonid_23
+  - first:
+      213: 7593828641818581493
+    second: commodor_64_octonid_24
+  - first:
+      213: 3423975405483484148
+    second: commodor_64_octonid_25
+  - first:
+      213: -9123031122356609504
+    second: commodor_64_octonid_26
+  - first:
+      213: 2535250594124618393
+    second: commodor_64_octonid_27
+  - first:
+      213: 5788543327566967357
+    second: commodor_64_octonid_28
+  - first:
+      213: 2013138060206526940
+    second: commodor_64_octonid_29
+  - first:
+      213: -7054435768959602188
+    second: commodor_64_octonid_30
+  - first:
+      213: 5561430799682020962
+    second: commodor_64_octonid_31
+  - first:
+      213: -2078479498621804069
+    second: commodor_64_octonid_32
+  - first:
+      213: 1409837021044496711
+    second: commodor_64_octonid_33
+  - first:
+      213: -4315519821131055550
+    second: commodor_64_octonid_34
+  - first:
+      213: -4425290605101480022
+    second: commodor_64_octonid_35
+  - first:
+      213: 7952558541102240757
+    second: commodor_64_octonid_36
+  - first:
+      213: -8767000433937568420
+    second: commodor_64_octonid_37
+  - first:
+      213: -1210786996806238846
+    second: commodor_64_octonid_38
+  - first:
+      213: -8812202580352081349
+    second: commodor_64_octonid_39
+  - first:
+      213: -5814131886821054898
+    second: commodor_64_octonid_40
+  - first:
+      213: -1112990576957463624
+    second: commodor_64_octonid_41
+  - first:
+      213: 4716412576359993806
+    second: commodor_64_octonid_42
+  - first:
+      213: 5054615308422191652
+    second: commodor_64_octonid_43
+  - first:
+      213: -627887153735333529
+    second: commodor_64_octonid_44
+  - first:
+      213: -2351260960330082066
+    second: commodor_64_octonid_45
+  - first:
+      213: 2594201028599735547
+    second: commodor_64_octonid_46
+  - first:
+      213: -991838683522272510
+    second: commodor_64_octonid_47
+  - first:
+      213: 6588787817688038321
+    second: commodor_64_octonid_48
+  - first:
+      213: -6085523502344119792
+    second: commodor_64_octonid_49
+  - first:
+      213: -1897652855459551983
+    second: commodor_64_octonid_50
+  - first:
+      213: 1885954647887384014
+    second: commodor_64_octonid_51
+  - first:
+      213: 8529534380189082771
+    second: commodor_64_octonid_52
+  - first:
+      213: -5391688154851488741
+    second: commodor_64_octonid_53
+  - first:
+      213: 6880626024488846662
+    second: commodor_64_octonid_54
+  - first:
+      213: 7370381172614780922
+    second: commodor_64_octonid_55
+  - first:
+      213: -3852814580443657270
+    second: commodor_64_octonid_56
+  - first:
+      213: -2832122482601798122
+    second: commodor_64_octonid_57
+  - first:
+      213: -86957440960197052
+    second: commodor_64_octonid_58
+  - first:
+      213: -3602051767446873243
+    second: commodor_64_octonid_59
+  - first:
+      213: 8188533863234499901
+    second: commodor_64_octonid_60
+  - first:
+      213: -276160168520394581
+    second: commodor_64_octonid_61
+  - first:
+      213: 7246179316966205460
+    second: commodor_64_octonid_62
+  - first:
+      213: 2189192287989616859
+    second: commodor_64_octonid_63
+  - first:
+      213: -419644940373105711
+    second: commodor_64_octonid_64
+  - first:
+      213: -7018307660127401886
+    second: commodor_64_octonid_65
+  - first:
+      213: -4543226942507912472
+    second: commodor_64_octonid_66
+  - first:
+      213: -7645278118238600880
+    second: commodor_64_octonid_67
+  - first:
+      213: -7092396837804394345
+    second: commodor_64_octonid_68
+  - first:
+      213: -5790888107879308270
+    second: commodor_64_octonid_69
+  - first:
+      213: -5820203753127403533
+    second: commodor_64_octonid_70
+  - first:
+      213: -3404409723732472500
+    second: commodor_64_octonid_71
+  - first:
+      213: -1360765483018287462
+    second: commodor_64_octonid_72
+  - first:
+      213: 1215326417960200376
+    second: commodor_64_octonid_73
+  - first:
+      213: -8953966722421333201
+    second: commodor_64_octonid_74
+  - first:
+      213: 2697281830340260473
+    second: commodor_64_octonid_75
+  - first:
+      213: -2801757282683107342
+    second: commodor_64_octonid_76
+  - first:
+      213: 6206432697794407953
+    second: commodor_64_octonid_77
+  - first:
+      213: -3953165913735216999
+    second: commodor_64_octonid_78
+  - first:
+      213: 6683531143760635239
+    second: commodor_64_octonid_79
+  - first:
+      213: 278381485168688361
+    second: commodor_64_octonid_80
+  - first:
+      213: 4261148064809538444
+    second: commodor_64_octonid_81
+  - first:
+      213: 4811334317257159441
+    second: commodor_64_octonid_82
+  - first:
+      213: -7003260131454324896
+    second: commodor_64_octonid_83
+  - first:
+      213: 1779060149315814858
+    second: commodor_64_octonid_84
+  - first:
+      213: -8891391601633616639
+    second: commodor_64_octonid_85
+  - first:
+      213: 2148014795277570141
+    second: commodor_64_octonid_86
+  - first:
+      213: 3139121247967965296
+    second: commodor_64_octonid_87
+  - first:
+      213: -2200959966397307035
+    second: commodor_64_octonid_88
+  - first:
+      213: 8405648045616882454
+    second: commodor_64_octonid_89
+  - first:
+      213: 4183915645598735582
+    second: commodor_64_octonid_90
+  - first:
+      213: 6429858773380241184
+    second: commodor_64_octonid_91
+  - first:
+      213: -2492838967145346162
+    second: commodor_64_octonid_92
+  - first:
+      213: 3472760304171347730
+    second: commodor_64_octonid_93
+  - first:
+      213: 816216606607793046
+    second: commodor_64_octonid_94
+  - first:
+      213: 5843798968324086129
+    second: commodor_64_octonid_95
+  - first:
+      213: -3605033614382027766
+    second: commodor_64_octonid_96
+  - first:
+      213: -5895077095377915530
+    second: commodor_64_octonid_97
+  - first:
+      213: -7431939841734455915
+    second: commodor_64_octonid_98
+  - first:
+      213: -5360719050338791714
+    second: commodor_64_octonid_99
+  - first:
+      213: -6847639692988300650
+    second: commodor_64_octonid_100
+  - first:
+      213: -4920939412205659234
+    second: commodor_64_octonid_101
+  - first:
+      213: 4058251725113046886
+    second: commodor_64_octonid_102
+  - first:
+      213: -4648547788050564222
+    second: commodor_64_octonid_103
+  - first:
+      213: -3827759756695155601
+    second: commodor_64_octonid_104
+  - first:
+      213: -2313438693967508001
+    second: commodor_64_octonid_105
+  - first:
+      213: 6608117160468756671
+    second: commodor_64_octonid_106
+  - first:
+      213: -3120250369593055097
+    second: commodor_64_octonid_107
+  - first:
+      213: 5680129739374896463
+    second: commodor_64_octonid_108
+  - first:
+      213: 7543938451625475265
+    second: commodor_64_octonid_109
+  - first:
+      213: -810403295642940314
+    second: commodor_64_octonid_110
+  - first:
+      213: -4959308449373385989
+    second: commodor_64_octonid_111
+  - first:
+      213: 6952135948333394563
+    second: commodor_64_octonid_112
+  - first:
+      213: 775396000908061
+    second: commodor_64_octonid_113
+  - first:
+      213: -4736187800614902145
+    second: commodor_64_octonid_114
+  - first:
+      213: -3597338956195849202
+    second: commodor_64_octonid_115
+  - first:
+      213: 8257203882007364270
+    second: commodor_64_octonid_116
+  - first:
+      213: 7492922873670471475
+    second: commodor_64_octonid_117
+  - first:
+      213: 7086939801328066473
+    second: commodor_64_octonid_118
+  - first:
+      213: -2379110261070079858
+    second: commodor_64_octonid_119
+  - first:
+      213: 4031393139447567245
+    second: commodor_64_octonid_120
+  - first:
+      213: 3198492923483468239
+    second: commodor_64_octonid_121
+  - first:
+      213: -4200688862258766187
+    second: commodor_64_octonid_122
+  - first:
+      213: -8270871240494594608
+    second: commodor_64_octonid_123
+  - first:
+      213: 8593213754326906575
+    second: commodor_64_octonid_124
+  - first:
+      213: -1628890359979913322
+    second: commodor_64_octonid_125
+  - first:
+      213: 993922437751690026
+    second: commodor_64_octonid_126
+  - first:
+      213: 2954695897877131162
+    second: commodor_64_octonid_127
+  - first:
+      213: 576961586207823508
+    second: commodor_64_octonid_128
+  - first:
+      213: -5861408418528839332
+    second: commodor_64_octonid_129
+  - first:
+      213: -3479826320382991025
+    second: commodor_64_octonid_130
+  - first:
+      213: 603633247534923585
+    second: commodor_64_octonid_131
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: commodor_64_octonid_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1237
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6ab261da0d4fdb30800000000000000
+      internalID: 4314251676902144618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1237
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f1ed9c8d0a880a50800000000000000
+      internalID: 6487587054025564662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1237
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c32ec5e0e07a900800000000000000
+      internalID: 695540122302692379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_3
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1237
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f9f1720343e06950800000000000000
+      internalID: 6440397344083147252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_4
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1237
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da7e6d660c0143f60800000000000000
+      internalID: 8013048055544080301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_5
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1237
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82a04b1dcdc5c2d10800000000000000
+      internalID: 2102157229555976744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_6
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1237
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64fc3602667ead3f0800000000000000
+      internalID: -875132751754047674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_7
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1237
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a5ad07237d46310800000000000000
+      internalID: 1397478396033391242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_8
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1171
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd999270684ae800800000000000000
+      internalID: 642405475930447315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_9
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1172
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b420f0150369c20800000000000000
+      internalID: 3212808508877720403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_10
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1173
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 880a3ba8012627f70800000000000000
+      internalID: 9183510413347889288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_11
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1174
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32aa3f20f529dec70800000000000000
+      internalID: 9002012166952561187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_12
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1176
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a06bf7d94c7f6960800000000000000
+      internalID: 7597427752995348641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_13
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1175
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751f7d703ecd18a40800000000000000
+      internalID: 5368815098449621335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_14
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1173
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9636e9d2b3f399c60800000000000000
+      internalID: 7825355350933922665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_15
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1172
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 061756a2340557cb0800000000000000
+      internalID: -4866895572899630752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_16
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1108
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4513b7d7d1f4b4cd0800000000000000
+      internalID: -2572875774034235052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_17
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1108
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd6a74e2ccc2c1640800000000000000
+      internalID: 5051962137464252124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_18
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1107
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ebc7bb44a62ed30800000000000000
+      internalID: 4459243424486047315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_19
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1043
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a0d5da0f77b85db0800000000000000
+      internalID: -4802887246320119640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_20
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1042
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca9a3d4214ba2a2e0800000000000000
+      internalID: -2115940578631636564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_21
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1042
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1128a44fe214006e0800000000000000
+      internalID: -1873425775063301615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_22
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1042
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c39aa29be8a1a750800000000000000
+      internalID: 6314513882281579459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_23
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1043
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21d707562e5b6cc0800000000000000
+      internalID: -3716773548702314194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_24
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1044
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f998c87ae2b26960800000000000000
+      internalID: 7593828641818581493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_25
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1044
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f364838d77648f20800000000000000
+      internalID: 3423975405483484148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_26
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 980
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ed915b78b746180800000000000000
+      internalID: -9123031122356609504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_27
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 980
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99a5567abf40f2320800000000000000
+      internalID: 2535250594124618393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_28
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 979
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d323696cc79055050800000000000000
+      internalID: 5788543327566967357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_29
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 978
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1dd62566a10fb10800000000000000
+      internalID: 2013138060206526940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_30
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 978
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f17a5c4b0c991e90800000000000000
+      internalID: -7054435768959602188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_31
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 978
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 266a6f9b8db2e2d40800000000000000
+      internalID: 5561430799682020962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_32
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 979
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd127b388e1c723e0800000000000000
+      internalID: -2078479498621804069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_33
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 917
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7495d8e0d4fb09310800000000000000
+      internalID: 1409837021044496711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_34
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 917
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e735856913c14c0800000000000000
+      internalID: -4315519821131055550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_35
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 917
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa78d0f04a53692c0800000000000000
+      internalID: -4425290605101480022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_36
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 917
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3d5e1dbd92d5e60800000000000000
+      internalID: 7952558541102240757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_37
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 917
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5da47d0e8b555680800000000000000
+      internalID: -8767000433937568420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_38
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 917
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28db3b434ab623fe0800000000000000
+      internalID: -1210786996806238846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_39
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 917
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3265553174c4b580800000000000000
+      internalID: -8812202580352081349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_40
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 917
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4662c08add005fa0800000000000000
+      internalID: -5814131886821054898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_41
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 852
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b3e71697fcdd80f0800000000000000
+      internalID: -1112990576957463624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_42
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 853
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec15f14ef30147140800000000000000
+      internalID: 4716412576359993806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_43
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 854
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a91cea7d9952640800000000000000
+      internalID: 5054615308422191652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_44
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 856
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 769039ad5fb4947f0800000000000000
+      internalID: -627887153735333529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_45
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 856
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee818453d94ae5fd0800000000000000
+      internalID: -2351260960330082066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_46
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 855
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf4e3a14714700420800000000000000
+      internalID: 2594201028599735547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_47
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 853
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 203f92ae8f74c32f0800000000000000
+      internalID: -991838683522272510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_48
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 852
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb77bd7c93107b50800000000000000
+      internalID: 6588787817688038321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_49
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 786
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01adc7afd90eb8ba0800000000000000
+      internalID: -6085523502344119792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_50
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 786
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 115e35b38ce2aa5e0800000000000000
+      internalID: -1897652855459551983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_51
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 787
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd03d192c14c2a10800000000000000
+      internalID: 1885954647887384014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_52
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 720
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 394e6aec35efe5670800000000000000
+      internalID: 8529534380189082771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_53
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 720
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c45668030ec25b0800000000000000
+      internalID: -5391688154851488741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_54
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 720
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64547f50ae4ec7f50800000000000000
+      internalID: 6880626024488846662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_55
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 720
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af75ee460aad84660800000000000000
+      internalID: 7370381172614780922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_56
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 719
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acbc53b5d8d088ac0800000000000000
+      internalID: -3852814580443657270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_57
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 723
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6165f187b9742b8d0800000000000000
+      internalID: -2832122482601798122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_58
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 723
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e8dfc0ba01bcef0800000000000000
+      internalID: -86957440960197052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_59
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 659
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56bd2c28001f20ec0800000000000000
+      internalID: -3602051767446873243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_60
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 659
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d357955f92483a170800000000000000
+      internalID: 8188533863234499901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_61
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 655
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8da363ac1ea2cf0800000000000000
+      internalID: -276160168520394581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_62
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 656
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 418ad8662b99f8460800000000000000
+      internalID: 7246179316966205460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_63
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 656
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd055ae79c2916e10800000000000000
+      internalID: 2189192287989616859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_64
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 656
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d3654d662f1d2af0800000000000000
+      internalID: -419644940373105711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_65
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 656
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26804b12e56f99e90800000000000000
+      internalID: -7018307660127401886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_66
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 597
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e2f4d5ba2733f0c0800000000000000
+      internalID: -4543226942507912472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_67
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 597
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0514251de0486e590800000000000000
+      internalID: -7645278118238600880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_68
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 597
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 798b09437aeb29d90800000000000000
+      internalID: -7092396837804394345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_69
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 597
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 214e1d382f1a2afa0800000000000000
+      internalID: -5790888107879308270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_70
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 597
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ff1276f58b7a3fa0800000000000000
+      internalID: -5820203753127403533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_71
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 597
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d4a03c46b11c0d0800000000000000
+      internalID: -3404409723732472500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_72
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 597
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a96051ab0079d1de0800000000000000
+      internalID: -1360765483018287462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_73
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 597
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b86aa420f4bdd010800000000000000
+      internalID: 1215326417960200376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_74
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 533
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f236863c4be1db380800000000000000
+      internalID: -8953966722421333201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_75
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 533
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 972fb8ca88bae6520800000000000000
+      internalID: 2697281830340260473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_76
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 533
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f74fc288982e19d0800000000000000
+      internalID: -2801757282683107342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_77
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 534
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ea762d7ada12650800000000000000
+      internalID: 6206432697794407953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_78
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 534
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99041a5db888329c0800000000000000
+      internalID: -3953165913735216999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_79
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 534
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765ec151a2ca0cc50800000000000000
+      internalID: 6683531143760635239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_80
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 535
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ec768f5c720dd300800000000000000
+      internalID: 278381485168688361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_81
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 534
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c83d052a693a22b30800000000000000
+      internalID: 4261148064809538444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_82
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 468
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11372cbe11b45c240800000000000000
+      internalID: 4811334317257159441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_83
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 468
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f620be30c6fce90800000000000000
+      internalID: -7003260131454324896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_84
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 470
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac5c50aa7cd70b810800000000000000
+      internalID: 1779060149315814858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_85
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 403
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10d9cb9627e6b9480800000000000000
+      internalID: -8891391601633616639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_86
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 402
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d509dcc53184fcd10800000000000000
+      internalID: 2148014795277570141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_87
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 402
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070f20ca426609b20800000000000000
+      internalID: 3139121247967965296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_88
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 402
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 567680e529e9471e0800000000000000
+      internalID: -2200959966397307035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_89
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 401
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61363f9cc5cd6a470800000000000000
+      internalID: 8405648045616882454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_90
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 404
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edc9c12cc11401a30800000000000000
+      internalID: 4183915645598735582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_91
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 404
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 027124fcc727b3950800000000000000
+      internalID: 6429858773380241184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_92
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 340
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8bcc01ca28a76dd0800000000000000
+      internalID: -2492838967145346162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_93
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 340
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21fe530e819b13030800000000000000
+      internalID: 3472760304171347730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_94
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 337
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69bd1a0eda8c35b00800000000000000
+      internalID: 816216606607793046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_95
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 338
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17950cd2338591150800000000000000
+      internalID: 5843798968324086129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_96
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 338
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0caa6b270958fdc0800000000000000
+      internalID: -3605033614382027766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_97
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 338
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 671357e7d9a703ea0800000000000000
+      internalID: -5895077095377915530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_98
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 339
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d485d07127cd890800000000000000
+      internalID: -7431939841734455915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_99
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 277
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ede03ef0d66ea95b0800000000000000
+      internalID: -5360719050338791714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_100
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 277
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6924195cafb48f0a0800000000000000
+      internalID: -6847639692988300650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_101
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 277
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b13464daf45bbb0800000000000000
+      internalID: -4920939412205659234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_102
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 277
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 667ba74417ec15830800000000000000
+      internalID: 4058251725113046886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_103
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 277
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b71d37a6a0d7fb0800000000000000
+      internalID: -4648547788050564222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_104
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 277
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c46a818c011eac0800000000000000
+      internalID: -3827759756695155601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_105
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 277
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd4c64d3c305efd0800000000000000
+      internalID: -2313438693967508001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_106
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 277
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb837efcb8fb4bb50800000000000000
+      internalID: 6608117160468756671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_107
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 212
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 788ef1612d4a2b4d0800000000000000
+      internalID: -3120250369593055097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_108
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 213
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f45a29147efd3de40800000000000000
+      internalID: 5680129739374896463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_109
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 214
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ccfb806d0471b860800000000000000
+      internalID: 7543938451625475265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_110
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 216
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c856e0f7ed0c4f0800000000000000
+      internalID: -810403295642940314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_111
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 216
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa8187ad3ffc2bb0800000000000000
+      internalID: -4959308449373385989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_112
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 215
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38aa2ae9fc2fa7060800000000000000
+      internalID: 6952135948333394563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_113
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 213
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d13c133f731c20000800000000000000
+      internalID: 775396000908061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_114
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 212
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f766fcae94ea54eb0800000000000000
+      internalID: -4736187800614902145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_115
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 146
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0c9543674fa31ec0800000000000000
+      internalID: -3597338956195849202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_116
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 146
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea28601ae2b779270800000000000000
+      internalID: 8257203882007364270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_117
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 147
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f078687a53cf760800000000000000
+      internalID: 7492922873670471475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_118
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 80
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af9cba733ed95260800000000000000
+      internalID: 7086939801328066473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_119
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 80
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e885e6792d3bbfed0800000000000000
+      internalID: -2379110261070079858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_120
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 80
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8318ba73b262f730800000000000000
+      internalID: 4031393139447567245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_121
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 80
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc135d81e54536c20800000000000000
+      internalID: 3198492923483468239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_122
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 79
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59e50296cb724b5c0800000000000000
+      internalID: -4200688862258766187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_123
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 83
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d5435f7d66f73d80800000000000000
+      internalID: -8270871240494594608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_124
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 83
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc6f7a9716a314770800000000000000
+      internalID: 8593213754326906575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_125
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 19
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69fc65b09d40569e0800000000000000
+      internalID: -1628890359979913322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_126
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 19
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a23da7ce03f1bcd00800000000000000
+      internalID: 993922437751690026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_127
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 15
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f2544b340310920800000000000000
+      internalID: 2954695897877131162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_128
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 16
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49696fa7187c10800800000000000000
+      internalID: 576961586207823508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_129
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 16
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c59ba12391818aea0800000000000000
+      internalID: -5861408418528839332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_130
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 16
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f456485066c25bfc0800000000000000
+      internalID: -3479826320382991025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commodor_64_octonid_131
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 16
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14f3fed8d39806800800000000000000
+      internalID: 603633247534923585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      commodor_64_octonid_0: 4314251676902144618
+      commodor_64_octonid_1: 6487587054025564662
+      commodor_64_octonid_10: 9183510413347889288
+      commodor_64_octonid_100: -6847639692988300650
+      commodor_64_octonid_101: -4920939412205659234
+      commodor_64_octonid_102: 4058251725113046886
+      commodor_64_octonid_103: -4648547788050564222
+      commodor_64_octonid_104: -3827759756695155601
+      commodor_64_octonid_105: -2313438693967508001
+      commodor_64_octonid_106: 6608117160468756671
+      commodor_64_octonid_107: -3120250369593055097
+      commodor_64_octonid_108: 5680129739374896463
+      commodor_64_octonid_109: 7543938451625475265
+      commodor_64_octonid_11: 9002012166952561187
+      commodor_64_octonid_110: -810403295642940314
+      commodor_64_octonid_111: -4959308449373385989
+      commodor_64_octonid_112: 6952135948333394563
+      commodor_64_octonid_113: 775396000908061
+      commodor_64_octonid_114: -4736187800614902145
+      commodor_64_octonid_115: -3597338956195849202
+      commodor_64_octonid_116: 8257203882007364270
+      commodor_64_octonid_117: 7492922873670471475
+      commodor_64_octonid_118: 7086939801328066473
+      commodor_64_octonid_119: -2379110261070079858
+      commodor_64_octonid_12: 7597427752995348641
+      commodor_64_octonid_120: 4031393139447567245
+      commodor_64_octonid_121: 3198492923483468239
+      commodor_64_octonid_122: -4200688862258766187
+      commodor_64_octonid_123: -8270871240494594608
+      commodor_64_octonid_124: 8593213754326906575
+      commodor_64_octonid_125: -1628890359979913322
+      commodor_64_octonid_126: 993922437751690026
+      commodor_64_octonid_127: 2954695897877131162
+      commodor_64_octonid_128: 576961586207823508
+      commodor_64_octonid_129: -5861408418528839332
+      commodor_64_octonid_13: 5368815098449621335
+      commodor_64_octonid_130: -3479826320382991025
+      commodor_64_octonid_131: 603633247534923585
+      commodor_64_octonid_14: 7825355350933922665
+      commodor_64_octonid_15: -4866895572899630752
+      commodor_64_octonid_16: -2572875774034235052
+      commodor_64_octonid_17: 5051962137464252124
+      commodor_64_octonid_18: 4459243424486047315
+      commodor_64_octonid_19: -4802887246320119640
+      commodor_64_octonid_2: 695540122302692379
+      commodor_64_octonid_20: -2115940578631636564
+      commodor_64_octonid_21: -1873425775063301615
+      commodor_64_octonid_22: 6314513882281579459
+      commodor_64_octonid_23: -3716773548702314194
+      commodor_64_octonid_24: 7593828641818581493
+      commodor_64_octonid_25: 3423975405483484148
+      commodor_64_octonid_26: -9123031122356609504
+      commodor_64_octonid_27: 2535250594124618393
+      commodor_64_octonid_28: 5788543327566967357
+      commodor_64_octonid_29: 2013138060206526940
+      commodor_64_octonid_3: 6440397344083147252
+      commodor_64_octonid_30: -7054435768959602188
+      commodor_64_octonid_31: 5561430799682020962
+      commodor_64_octonid_32: -2078479498621804069
+      commodor_64_octonid_33: 1409837021044496711
+      commodor_64_octonid_34: -4315519821131055550
+      commodor_64_octonid_35: -4425290605101480022
+      commodor_64_octonid_36: 7952558541102240757
+      commodor_64_octonid_37: -8767000433937568420
+      commodor_64_octonid_38: -1210786996806238846
+      commodor_64_octonid_39: -8812202580352081349
+      commodor_64_octonid_4: 8013048055544080301
+      commodor_64_octonid_40: -5814131886821054898
+      commodor_64_octonid_41: -1112990576957463624
+      commodor_64_octonid_42: 4716412576359993806
+      commodor_64_octonid_43: 5054615308422191652
+      commodor_64_octonid_44: -627887153735333529
+      commodor_64_octonid_45: -2351260960330082066
+      commodor_64_octonid_46: 2594201028599735547
+      commodor_64_octonid_47: -991838683522272510
+      commodor_64_octonid_48: 6588787817688038321
+      commodor_64_octonid_49: -6085523502344119792
+      commodor_64_octonid_5: 2102157229555976744
+      commodor_64_octonid_50: -1897652855459551983
+      commodor_64_octonid_51: 1885954647887384014
+      commodor_64_octonid_52: 8529534380189082771
+      commodor_64_octonid_53: -5391688154851488741
+      commodor_64_octonid_54: 6880626024488846662
+      commodor_64_octonid_55: 7370381172614780922
+      commodor_64_octonid_56: -3852814580443657270
+      commodor_64_octonid_57: -2832122482601798122
+      commodor_64_octonid_58: -86957440960197052
+      commodor_64_octonid_59: -3602051767446873243
+      commodor_64_octonid_6: -875132751754047674
+      commodor_64_octonid_60: 8188533863234499901
+      commodor_64_octonid_61: -276160168520394581
+      commodor_64_octonid_62: 7246179316966205460
+      commodor_64_octonid_63: 2189192287989616859
+      commodor_64_octonid_64: -419644940373105711
+      commodor_64_octonid_65: -7018307660127401886
+      commodor_64_octonid_66: -4543226942507912472
+      commodor_64_octonid_67: -7645278118238600880
+      commodor_64_octonid_68: -7092396837804394345
+      commodor_64_octonid_69: -5790888107879308270
+      commodor_64_octonid_7: 1397478396033391242
+      commodor_64_octonid_70: -5820203753127403533
+      commodor_64_octonid_71: -3404409723732472500
+      commodor_64_octonid_72: -1360765483018287462
+      commodor_64_octonid_73: 1215326417960200376
+      commodor_64_octonid_74: -8953966722421333201
+      commodor_64_octonid_75: 2697281830340260473
+      commodor_64_octonid_76: -2801757282683107342
+      commodor_64_octonid_77: 6206432697794407953
+      commodor_64_octonid_78: -3953165913735216999
+      commodor_64_octonid_79: 6683531143760635239
+      commodor_64_octonid_8: 642405475930447315
+      commodor_64_octonid_80: 278381485168688361
+      commodor_64_octonid_81: 4261148064809538444
+      commodor_64_octonid_82: 4811334317257159441
+      commodor_64_octonid_83: -7003260131454324896
+      commodor_64_octonid_84: 1779060149315814858
+      commodor_64_octonid_85: -8891391601633616639
+      commodor_64_octonid_86: 2148014795277570141
+      commodor_64_octonid_87: 3139121247967965296
+      commodor_64_octonid_88: -2200959966397307035
+      commodor_64_octonid_89: 8405648045616882454
+      commodor_64_octonid_9: 3212808508877720403
+      commodor_64_octonid_90: 4183915645598735582
+      commodor_64_octonid_91: 6429858773380241184
+      commodor_64_octonid_92: -2492838967145346162
+      commodor_64_octonid_93: 3472760304171347730
+      commodor_64_octonid_94: 816216606607793046
+      commodor_64_octonid_95: 5843798968324086129
+      commodor_64_octonid_96: -3605033614382027766
+      commodor_64_octonid_97: -5895077095377915530
+      commodor_64_octonid_98: -7431939841734455915
+      commodor_64_octonid_99: -5360719050338791714
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

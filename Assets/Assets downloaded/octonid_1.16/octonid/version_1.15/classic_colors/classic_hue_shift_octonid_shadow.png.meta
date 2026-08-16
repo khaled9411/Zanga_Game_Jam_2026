@@ -1,0 +1,3588 @@
+fileFormatVersion: 2
+guid: f20b318c8a3f54545b2de0e8fd46dc67
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7212515655231294019
+    second: classic_hue_shift_octonid_shadow_0
+  - first:
+      213: 5117683062904285546
+    second: classic_hue_shift_octonid_shadow_1
+  - first:
+      213: -9117951289329784452
+    second: classic_hue_shift_octonid_shadow_2
+  - first:
+      213: -5456619990700456521
+    second: classic_hue_shift_octonid_shadow_3
+  - first:
+      213: 846836827848581378
+    second: classic_hue_shift_octonid_shadow_4
+  - first:
+      213: 5412874501523572020
+    second: classic_hue_shift_octonid_shadow_5
+  - first:
+      213: 5708999301588773536
+    second: classic_hue_shift_octonid_shadow_6
+  - first:
+      213: 413472424881644528
+    second: classic_hue_shift_octonid_shadow_7
+  - first:
+      213: 5910221321070382801
+    second: classic_hue_shift_octonid_shadow_8
+  - first:
+      213: -7463127568116256110
+    second: classic_hue_shift_octonid_shadow_9
+  - first:
+      213: 4349071220178001344
+    second: classic_hue_shift_octonid_shadow_10
+  - first:
+      213: 5265701697967717586
+    second: classic_hue_shift_octonid_shadow_11
+  - first:
+      213: -7455529369371561508
+    second: classic_hue_shift_octonid_shadow_12
+  - first:
+      213: 8902102888704974383
+    second: classic_hue_shift_octonid_shadow_13
+  - first:
+      213: -1195350395095679200
+    second: classic_hue_shift_octonid_shadow_14
+  - first:
+      213: 6259975801068944414
+    second: classic_hue_shift_octonid_shadow_15
+  - first:
+      213: -8895727090684364237
+    second: classic_hue_shift_octonid_shadow_16
+  - first:
+      213: -4455834928561538989
+    second: classic_hue_shift_octonid_shadow_17
+  - first:
+      213: -4489088306111071315
+    second: classic_hue_shift_octonid_shadow_18
+  - first:
+      213: -1297716626890230334
+    second: classic_hue_shift_octonid_shadow_19
+  - first:
+      213: -7084290447702948266
+    second: classic_hue_shift_octonid_shadow_20
+  - first:
+      213: 6575226858783082583
+    second: classic_hue_shift_octonid_shadow_21
+  - first:
+      213: -1599820724050678016
+    second: classic_hue_shift_octonid_shadow_22
+  - first:
+      213: -3472149043146966972
+    second: classic_hue_shift_octonid_shadow_23
+  - first:
+      213: -1392905994909056628
+    second: classic_hue_shift_octonid_shadow_24
+  - first:
+      213: 4082891534528069151
+    second: classic_hue_shift_octonid_shadow_25
+  - first:
+      213: -1356678570839435766
+    second: classic_hue_shift_octonid_shadow_26
+  - first:
+      213: 5121930966782004158
+    second: classic_hue_shift_octonid_shadow_27
+  - first:
+      213: -8458198890871908957
+    second: classic_hue_shift_octonid_shadow_28
+  - first:
+      213: 6989742092328230972
+    second: classic_hue_shift_octonid_shadow_29
+  - first:
+      213: -7774720801763730094
+    second: classic_hue_shift_octonid_shadow_30
+  - first:
+      213: -3697797124158734106
+    second: classic_hue_shift_octonid_shadow_31
+  - first:
+      213: -6519369641404865563
+    second: classic_hue_shift_octonid_shadow_32
+  - first:
+      213: 4829396796688994045
+    second: classic_hue_shift_octonid_shadow_33
+  - first:
+      213: -4461943307968401646
+    second: classic_hue_shift_octonid_shadow_34
+  - first:
+      213: 701649296154334708
+    second: classic_hue_shift_octonid_shadow_35
+  - first:
+      213: -4407929204451933334
+    second: classic_hue_shift_octonid_shadow_36
+  - first:
+      213: 5301614650181164013
+    second: classic_hue_shift_octonid_shadow_37
+  - first:
+      213: -6823465100903419172
+    second: classic_hue_shift_octonid_shadow_38
+  - first:
+      213: -8735255139167370596
+    second: classic_hue_shift_octonid_shadow_39
+  - first:
+      213: 36998509053268378
+    second: classic_hue_shift_octonid_shadow_40
+  - first:
+      213: -2260373488895385167
+    second: classic_hue_shift_octonid_shadow_41
+  - first:
+      213: 6084839656850086545
+    second: classic_hue_shift_octonid_shadow_42
+  - first:
+      213: 3695629284719905961
+    second: classic_hue_shift_octonid_shadow_43
+  - first:
+      213: -7067348790737532051
+    second: classic_hue_shift_octonid_shadow_44
+  - first:
+      213: -7477758276360149426
+    second: classic_hue_shift_octonid_shadow_45
+  - first:
+      213: 260114419439921531
+    second: classic_hue_shift_octonid_shadow_46
+  - first:
+      213: -7397742070865840399
+    second: classic_hue_shift_octonid_shadow_47
+  - first:
+      213: 6420907818558278167
+    second: classic_hue_shift_octonid_shadow_48
+  - first:
+      213: -5506017782874276168
+    second: classic_hue_shift_octonid_shadow_49
+  - first:
+      213: 5356899044924044322
+    second: classic_hue_shift_octonid_shadow_50
+  - first:
+      213: -8994730369346927414
+    second: classic_hue_shift_octonid_shadow_51
+  - first:
+      213: -3481746930194627385
+    second: classic_hue_shift_octonid_shadow_52
+  - first:
+      213: 3711032109195003074
+    second: classic_hue_shift_octonid_shadow_53
+  - first:
+      213: 7205827484640781405
+    second: classic_hue_shift_octonid_shadow_54
+  - first:
+      213: -5580423958152008339
+    second: classic_hue_shift_octonid_shadow_55
+  - first:
+      213: 2666854180814818426
+    second: classic_hue_shift_octonid_shadow_56
+  - first:
+      213: 1911607920188447370
+    second: classic_hue_shift_octonid_shadow_57
+  - first:
+      213: 3777004776185081239
+    second: classic_hue_shift_octonid_shadow_58
+  - first:
+      213: 689263082251422771
+    second: classic_hue_shift_octonid_shadow_59
+  - first:
+      213: -2143835392338610419
+    second: classic_hue_shift_octonid_shadow_60
+  - first:
+      213: 8833612804931538228
+    second: classic_hue_shift_octonid_shadow_61
+  - first:
+      213: -9038015705124697775
+    second: classic_hue_shift_octonid_shadow_62
+  - first:
+      213: 1149727250176021529
+    second: classic_hue_shift_octonid_shadow_63
+  - first:
+      213: -8495272608203801506
+    second: classic_hue_shift_octonid_shadow_64
+  - first:
+      213: -285741634143571835
+    second: classic_hue_shift_octonid_shadow_65
+  - first:
+      213: -2359830343697289931
+    second: classic_hue_shift_octonid_shadow_66
+  - first:
+      213: 178819888621422216
+    second: classic_hue_shift_octonid_shadow_67
+  - first:
+      213: 865635693697371094
+    second: classic_hue_shift_octonid_shadow_68
+  - first:
+      213: 3461691596500727080
+    second: classic_hue_shift_octonid_shadow_69
+  - first:
+      213: 2137862222967749895
+    second: classic_hue_shift_octonid_shadow_70
+  - first:
+      213: 5634627105018624390
+    second: classic_hue_shift_octonid_shadow_71
+  - first:
+      213: -7744373806430178235
+    second: classic_hue_shift_octonid_shadow_72
+  - first:
+      213: -1531387097444938290
+    second: classic_hue_shift_octonid_shadow_73
+  - first:
+      213: -7840427318813773148
+    second: classic_hue_shift_octonid_shadow_74
+  - first:
+      213: -413118568916090411
+    second: classic_hue_shift_octonid_shadow_75
+  - first:
+      213: 6921263668246593921
+    second: classic_hue_shift_octonid_shadow_76
+  - first:
+      213: -7472888598833705433
+    second: classic_hue_shift_octonid_shadow_77
+  - first:
+      213: -4989156199404098325
+    second: classic_hue_shift_octonid_shadow_78
+  - first:
+      213: 4492056446049417397
+    second: classic_hue_shift_octonid_shadow_79
+  - first:
+      213: 1036081408060011833
+    second: classic_hue_shift_octonid_shadow_80
+  - first:
+      213: -4016456654765425202
+    second: classic_hue_shift_octonid_shadow_81
+  - first:
+      213: 4675432535740676514
+    second: classic_hue_shift_octonid_shadow_82
+  - first:
+      213: 4156031456356085016
+    second: classic_hue_shift_octonid_shadow_83
+  - first:
+      213: 7309122448257652510
+    second: classic_hue_shift_octonid_shadow_84
+  - first:
+      213: -3613263999837420123
+    second: classic_hue_shift_octonid_shadow_85
+  - first:
+      213: 6860073860506074503
+    second: classic_hue_shift_octonid_shadow_86
+  - first:
+      213: -2014591102838403125
+    second: classic_hue_shift_octonid_shadow_87
+  - first:
+      213: -8839699645753460748
+    second: classic_hue_shift_octonid_shadow_88
+  - first:
+      213: -2110193878199370396
+    second: classic_hue_shift_octonid_shadow_89
+  - first:
+      213: 7752587648869064158
+    second: classic_hue_shift_octonid_shadow_90
+  - first:
+      213: -6397552257774942201
+    second: classic_hue_shift_octonid_shadow_91
+  - first:
+      213: 6284736709274043484
+    second: classic_hue_shift_octonid_shadow_92
+  - first:
+      213: 9052151783871956995
+    second: classic_hue_shift_octonid_shadow_93
+  - first:
+      213: 9205519355651348092
+    second: classic_hue_shift_octonid_shadow_94
+  - first:
+      213: 5542245969350862488
+    second: classic_hue_shift_octonid_shadow_95
+  - first:
+      213: 5570468435350301960
+    second: classic_hue_shift_octonid_shadow_96
+  - first:
+      213: 2711032374289526274
+    second: classic_hue_shift_octonid_shadow_97
+  - first:
+      213: 5460467095903200598
+    second: classic_hue_shift_octonid_shadow_98
+  - first:
+      213: 1048672327838893620
+    second: classic_hue_shift_octonid_shadow_99
+  - first:
+      213: -8287620826133001746
+    second: classic_hue_shift_octonid_shadow_100
+  - first:
+      213: 4153513556578154985
+    second: classic_hue_shift_octonid_shadow_101
+  - first:
+      213: -7803813772986369407
+    second: classic_hue_shift_octonid_shadow_102
+  - first:
+      213: -2336828693382624917
+    second: classic_hue_shift_octonid_shadow_103
+  - first:
+      213: 4288859794991327152
+    second: classic_hue_shift_octonid_shadow_104
+  - first:
+      213: -4612049039266562361
+    second: classic_hue_shift_octonid_shadow_105
+  - first:
+      213: -3472606345474371118
+    second: classic_hue_shift_octonid_shadow_106
+  - first:
+      213: 8308555556075023984
+    second: classic_hue_shift_octonid_shadow_107
+  - first:
+      213: 186026446117719166
+    second: classic_hue_shift_octonid_shadow_108
+  - first:
+      213: -1760146292205469933
+    second: classic_hue_shift_octonid_shadow_109
+  - first:
+      213: 1282213571666114381
+    second: classic_hue_shift_octonid_shadow_110
+  - first:
+      213: -745020545918751342
+    second: classic_hue_shift_octonid_shadow_111
+  - first:
+      213: -222491851096173139
+    second: classic_hue_shift_octonid_shadow_112
+  - first:
+      213: -5958751452057580184
+    second: classic_hue_shift_octonid_shadow_113
+  - first:
+      213: -3301104911783435284
+    second: classic_hue_shift_octonid_shadow_114
+  - first:
+      213: 5580394270939382374
+    second: classic_hue_shift_octonid_shadow_115
+  - first:
+      213: 6583591833317694388
+    second: classic_hue_shift_octonid_shadow_116
+  - first:
+      213: -6917340091582457286
+    second: classic_hue_shift_octonid_shadow_117
+  - first:
+      213: 4865201618320019653
+    second: classic_hue_shift_octonid_shadow_118
+  - first:
+      213: 7048743806406235
+    second: classic_hue_shift_octonid_shadow_119
+  - first:
+      213: -6285373250923095664
+    second: classic_hue_shift_octonid_shadow_120
+  - first:
+      213: 8679740036459489670
+    second: classic_hue_shift_octonid_shadow_121
+  - first:
+      213: 1304546332325448163
+    second: classic_hue_shift_octonid_shadow_122
+  - first:
+      213: -5153182338118157470
+    second: classic_hue_shift_octonid_shadow_123
+  - first:
+      213: -8592564784355454461
+    second: classic_hue_shift_octonid_shadow_124
+  - first:
+      213: -5625728926978987464
+    second: classic_hue_shift_octonid_shadow_125
+  - first:
+      213: -6540723919379487131
+    second: classic_hue_shift_octonid_shadow_126
+  - first:
+      213: -1222976753677897217
+    second: classic_hue_shift_octonid_shadow_127
+  - first:
+      213: 172367847622028845
+    second: classic_hue_shift_octonid_shadow_128
+  - first:
+      213: 4339639226066806830
+    second: classic_hue_shift_octonid_shadow_129
+  - first:
+      213: 629302618254540570
+    second: classic_hue_shift_octonid_shadow_130
+  - first:
+      213: -719197973542740232
+    second: classic_hue_shift_octonid_shadow_131
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1235
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db5bef0a93ff7eb90800000000000000
+      internalID: -7212515655231294019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1235
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a69617d81a9a50740800000000000000
+      internalID: 5117683062904285546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1235
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c79ee208c97867180800000000000000
+      internalID: -9117951289329784452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_3
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1235
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b5010467013644b0800000000000000
+      internalID: -5456619990700456521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_4
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1235
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20122a2bb9190cb00800000000000000
+      internalID: 846836827848581378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_5
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1235
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43505153ea46e1b40800000000000000
+      internalID: 5412874501523572020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_6
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1235
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aae6220e907a3f40800000000000000
+      internalID: 5708999301588773536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_7
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1235
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f36d71daf2fcb500800000000000000
+      internalID: 413472424881644528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_8
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1171
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de07525af2550250800000000000000
+      internalID: 5910221321070382801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_9
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1171
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2927105a405ad6890800000000000000
+      internalID: -7463127568116256110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_10
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1171
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd959d7b310b5c30800000000000000
+      internalID: 4349071220178001344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_11
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1171
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc7980abc7831940800000000000000
+      internalID: 5265701697967717586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_12
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1171
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1bd162a83a88890800000000000000
+      internalID: -7455529369371561508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_13
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1171
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2e1d33796f9a8b70800000000000000
+      internalID: 8902102888704974383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_14
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1171
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ff23e1623496fe0800000000000000
+      internalID: -1195350395095679200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_15
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1171
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c714503d6efd650800000000000000
+      internalID: 6259975801068944414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_16
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1107
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a70f4b7570c8480800000000000000
+      internalID: -8895727090684364237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_17
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1107
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 358bf419db1b922c0800000000000000
+      internalID: -4455834928561538989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_18
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1107
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dabb3e448fd83b1c0800000000000000
+      internalID: -4489088306111071315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_19
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1043
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c5f61b7a959dfde0800000000000000
+      internalID: -1297716626890230334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_20
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1042
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65609fa3f5b8fad90800000000000000
+      internalID: -7084290447702948266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_21
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1042
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7588f53bdf5ef3b50800000000000000
+      internalID: 6575226858783082583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_22
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1042
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00fa6a6178b4cc9e0800000000000000
+      internalID: -1599820724050678016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_23
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1043
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 448330c67d270dfc0800000000000000
+      internalID: -3472149043146966972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_24
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1044
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c810fe7a0676bace0800000000000000
+      internalID: -1392905994909056628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_25
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1044
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ebef3f73859a830800000000000000
+      internalID: 4082891534528069151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_26
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 980
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a061bbe170c1c2de0800000000000000
+      internalID: -1356678570839435766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_27
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 980
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb4d1fb311c41740800000000000000
+      internalID: 5121930966782004158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_28
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 979
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a51af51ce07e9a80800000000000000
+      internalID: -8458198890871908957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_29
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 978
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c30e1d4566d800160800000000000000
+      internalID: 6989742092328230972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_30
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 978
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25d580f7f94aa1490800000000000000
+      internalID: -7774720801763730094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_31
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 978
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e0ce0b7b19ceacc0800000000000000
+      internalID: -3697797124158734106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_32
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 979
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e3e89c2adb8685a0800000000000000
+      internalID: -6519369641404865563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_33
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 915
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe8e02acc6750340800000000000000
+      internalID: 4829396796688994045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_34
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 915
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21fac98a33ef312c0800000000000000
+      internalID: -4461943307968401646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_35
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 915
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f59e2e3152ccb900800000000000000
+      internalID: 701649296154334708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_36
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 915
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6382952eb3e3d2c0800000000000000
+      internalID: -4407929204451933334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_37
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 915
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb1e086f6e139940800000000000000
+      internalID: 5301614650181164013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_38
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 915
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd2706b94ae2e41a0800000000000000
+      internalID: -6823465100903419172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_39
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 915
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9206877bb326c680800000000000000
+      internalID: -8735255139167370596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_40
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 915
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a91d65da2f1738000800000000000000
+      internalID: 36998509053268378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_41
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 851
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b12eaea94a81a0e0800000000000000
+      internalID: -2260373488895385167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_42
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 851
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a52c5dd61b17450800000000000000
+      internalID: 6084839656850086545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_43
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 851
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9acc2411143894330800000000000000
+      internalID: 3695629284719905961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_44
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 851
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b8d4028bbbbed90800000000000000
+      internalID: -7067348790737532051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_45
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 851
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e46e05d677aa93890800000000000000
+      internalID: -7477758276360149426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_46
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 851
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b796ca3bfac1c9300800000000000000
+      internalID: 260114419439921531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_47
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 851
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f6341e08c0f55990800000000000000
+      internalID: -7397742070865840399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_48
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 851
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ac1bc34a5ab1950800000000000000
+      internalID: 6420907818558278167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_49
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 786
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8be7bc4aff1b693b0800000000000000
+      internalID: -5506017782874276168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_50
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 786
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 224b35e9c47875a40800000000000000
+      internalID: 5356899044924044322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_51
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 787
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac488ac926c4c2380800000000000000
+      internalID: -8994730369346927414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_52
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 720
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c441f33d995eafc0800000000000000
+      internalID: -3481746930194627385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_53
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 720
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c403aa9a0c308330800000000000000
+      internalID: 3711032109195003074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_54
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 720
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d54a2ce4bed300460800000000000000
+      internalID: 7205827484640781405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_55
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 720
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d2546f9f95e82b0800000000000000
+      internalID: -5580423958152008339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_56
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 719
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c8b337fb1920520800000000000000
+      internalID: 2666854180814818426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_57
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 723
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ad7a87645678a10800000000000000
+      internalID: 1911607920188447370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_58
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 723
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d277f15dd9a6430800000000000000
+      internalID: 3777004776185081239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_59
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 659
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c03661f11c09900800000000000000
+      internalID: 689263082251422771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_60
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 659
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d073fb6b1119f32e0800000000000000
+      internalID: -2143835392338610419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_61
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 655
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d49492b0c479a70800000000000000
+      internalID: 8833612804931538228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_62
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 656
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15904a50a94829280800000000000000
+      internalID: -9038015705124697775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_63
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 656
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 914145fa7d6a4ff00800000000000000
+      internalID: 1149727250176021529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_64
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 656
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5cf7ed929aba1a80800000000000000
+      internalID: -8495272608203801506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_65
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 656
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58035576f77d80cf0800000000000000
+      internalID: -285741634143571835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_66
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 595
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d2cb92ec2304fd0800000000000000
+      internalID: -2359830343697289931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_67
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 595
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8860e04cdbb4b7200800000000000000
+      internalID: 178819888621422216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_68
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 595
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db0bbbb31b530c00800000000000000
+      internalID: 865635693697371094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_69
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 595
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 825716b8a266a0030800000000000000
+      internalID: 3461691596500727080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_70
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 595
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d38ba6d563bad10800000000000000
+      internalID: 2137862222967749895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_71
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 595
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6893c6c9f77323e40800000000000000
+      internalID: 5634627105018624390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_72
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 595
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 544b3e3fd05768490800000000000000
+      internalID: -7744373806430178235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_73
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 595
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd8d2b6c8b6fbae0800000000000000
+      internalID: -1531387097444938290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_74
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 531
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a236d6d4e4313390800000000000000
+      internalID: -7840427318813773148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_75
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 531
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d183a1b9de444af0800000000000000
+      internalID: -413118568916090411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_76
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 531
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 181c7a6c2a44d0060800000000000000
+      internalID: 6921263668246593921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_77
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 531
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e43749967fa4890800000000000000
+      internalID: -7472888598833705433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_78
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 531
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beca49dced4f2cab0800000000000000
+      internalID: -4989156199404098325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_79
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 531
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b877c9a98df65e30800000000000000
+      internalID: 4492056446049417397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_80
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 531
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 935bdcd1d86e06e00800000000000000
+      internalID: 1036081408060011833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_81
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 531
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecdf3fcd3fda248c0800000000000000
+      internalID: -4016456654765425202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_82
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 467
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a97028ae1972e040800000000000000
+      internalID: 4675432535740676514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_83
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 467
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d247707903da930800000000000000
+      internalID: 4156031456356085016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_84
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 467
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e171b3c24283f6560800000000000000
+      internalID: 7309122448257652510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_85
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 403
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a5cbf9398b1bddc0800000000000000
+      internalID: -3613263999837420123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_86
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 402
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d386474d0e33f50800000000000000
+      internalID: 6860073860506074503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_87
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 402
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcf87a3d01cba04e0800000000000000
+      internalID: -2014591102838403125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_88
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 402
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f7f7b5c104135580800000000000000
+      internalID: -8839699645753460748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_89
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 401
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46df8ba19d517b2e0800000000000000
+      internalID: -2110193878199370396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_90
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 404
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edddbe44469b69b60800000000000000
+      internalID: 7752587648869064158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_91
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 404
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70883530e145737a0800000000000000
+      internalID: -6397552257774942201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_92
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 340
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5403273dbed73750800000000000000
+      internalID: 6284736709274043484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_93
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 340
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3084b9a4614bf9d70800000000000000
+      internalID: 9052151783871956995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_94
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 337
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c76d49eb41390cf70800000000000000
+      internalID: 9205519355651348092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_95
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 338
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 896aff458530aec40800000000000000
+      internalID: 5542245969350862488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_96
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 338
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80da49147874e4d40800000000000000
+      internalID: 5570468435350301960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_97
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 338
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e6c1ca4958f9520800000000000000
+      internalID: 2711032374289526274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_98
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 339
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 655e40794e977cb40800000000000000
+      internalID: 5460467095903200598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_99
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 275
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4368e921de1ad8e00800000000000000
+      internalID: 1048672327838893620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_100
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 275
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee98631b4c47cfc80800000000000000
+      internalID: -8287620826133001746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_101
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 275
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e93c9dc29e34a930800000000000000
+      internalID: 4153513556578154985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_102
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 275
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18ab8d748b843b390800000000000000
+      internalID: -7803813772986369407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_103
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 275
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b690df53faae19fd0800000000000000
+      internalID: -2336828693382624917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_104
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 275
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b7a9eb9247158b30800000000000000
+      internalID: 4288859794991327152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_105
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 275
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ceb5df95d5beffb0800000000000000
+      internalID: -4612049039266562361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_106
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 275
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d19b3d6de2decfc0800000000000000
+      internalID: -3472606345474371118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_107
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 211
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07e2374f14bed4370800000000000000
+      internalID: 8308555556075023984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_108
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 211
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7cccaf2116e49200800000000000000
+      internalID: 186026446117719166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_109
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 211
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31f3f5cd544b297e0800000000000000
+      internalID: -1760146292205469933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_110
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 211
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d47f75133765bc110800000000000000
+      internalID: 1282213571666114381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_111
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 211
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29d2522c2c729a5f0800000000000000
+      internalID: -745020545918751342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_112
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 211
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da55ef917dc89ecf0800000000000000
+      internalID: -222491851096173139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_113
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 211
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86dc34b00234e4da0800000000000000
+      internalID: -5958751452057580184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_114
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 211
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce3e9de929e1032d0800000000000000
+      internalID: -3301104911783435284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_115
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 146
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66287f1f50b817d40800000000000000
+      internalID: 5580394270939382374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_116
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 146
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bb501b14ed9d5b50800000000000000
+      internalID: 6583591833317694388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_117
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 147
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3ad8aa16dba000a0800000000000000
+      internalID: -6917340091582457286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_118
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 80
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c0de9c481ba48340800000000000000
+      internalID: 4865201618320019653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_119
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 80
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e81be8bca091000800000000000000
+      internalID: 7048743806406235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_120
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 80
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0999cf1645ed5c8a0800000000000000
+      internalID: -6285373250923095664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_121
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 80
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68967ef6391a47870800000000000000
+      internalID: 8679740036459489670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_122
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 79
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e90c4b3afdaa1210800000000000000
+      internalID: 1304546332325448163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_123
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 83
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b76a957f73c78b0800000000000000
+      internalID: -5153182338118157470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_124
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 83
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30256fe9ad311c880800000000000000
+      internalID: -8592564784355454461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_125
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 19
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83a27c8e8556de1b0800000000000000
+      internalID: -5625728926978987464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_126
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 19
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5662c73ef3eaa35a0800000000000000
+      internalID: -6540723919379487131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_127
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 15
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff1f7744f1d170fe0800000000000000
+      internalID: -1222976753677897217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_128
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 16
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2ea538e4af546200800000000000000
+      internalID: 172367847622028845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_129
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 16
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e28201b32ee793c30800000000000000
+      internalID: 4339639226066806830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_130
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 16
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ff849a56bbbb800800000000000000
+      internalID: 629302618254540570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_hue_shift_octonid_shadow_131
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 16
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8feddc7e045e406f0800000000000000
+      internalID: -719197973542740232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      classic_hue_shift_octonid_shadow_0: -7212515655231294019
+      classic_hue_shift_octonid_shadow_1: 5117683062904285546
+      classic_hue_shift_octonid_shadow_10: 4349071220178001344
+      classic_hue_shift_octonid_shadow_100: -8287620826133001746
+      classic_hue_shift_octonid_shadow_101: 4153513556578154985
+      classic_hue_shift_octonid_shadow_102: -7803813772986369407
+      classic_hue_shift_octonid_shadow_103: -2336828693382624917
+      classic_hue_shift_octonid_shadow_104: 4288859794991327152
+      classic_hue_shift_octonid_shadow_105: -4612049039266562361
+      classic_hue_shift_octonid_shadow_106: -3472606345474371118
+      classic_hue_shift_octonid_shadow_107: 8308555556075023984
+      classic_hue_shift_octonid_shadow_108: 186026446117719166
+      classic_hue_shift_octonid_shadow_109: -1760146292205469933
+      classic_hue_shift_octonid_shadow_11: 5265701697967717586
+      classic_hue_shift_octonid_shadow_110: 1282213571666114381
+      classic_hue_shift_octonid_shadow_111: -745020545918751342
+      classic_hue_shift_octonid_shadow_112: -222491851096173139
+      classic_hue_shift_octonid_shadow_113: -5958751452057580184
+      classic_hue_shift_octonid_shadow_114: -3301104911783435284
+      classic_hue_shift_octonid_shadow_115: 5580394270939382374
+      classic_hue_shift_octonid_shadow_116: 6583591833317694388
+      classic_hue_shift_octonid_shadow_117: -6917340091582457286
+      classic_hue_shift_octonid_shadow_118: 4865201618320019653
+      classic_hue_shift_octonid_shadow_119: 7048743806406235
+      classic_hue_shift_octonid_shadow_12: -7455529369371561508
+      classic_hue_shift_octonid_shadow_120: -6285373250923095664
+      classic_hue_shift_octonid_shadow_121: 8679740036459489670
+      classic_hue_shift_octonid_shadow_122: 1304546332325448163
+      classic_hue_shift_octonid_shadow_123: -5153182338118157470
+      classic_hue_shift_octonid_shadow_124: -8592564784355454461
+      classic_hue_shift_octonid_shadow_125: -5625728926978987464
+      classic_hue_shift_octonid_shadow_126: -6540723919379487131
+      classic_hue_shift_octonid_shadow_127: -1222976753677897217
+      classic_hue_shift_octonid_shadow_128: 172367847622028845
+      classic_hue_shift_octonid_shadow_129: 4339639226066806830
+      classic_hue_shift_octonid_shadow_13: 8902102888704974383
+      classic_hue_shift_octonid_shadow_130: 629302618254540570
+      classic_hue_shift_octonid_shadow_131: -719197973542740232
+      classic_hue_shift_octonid_shadow_14: -1195350395095679200
+      classic_hue_shift_octonid_shadow_15: 6259975801068944414
+      classic_hue_shift_octonid_shadow_16: -8895727090684364237
+      classic_hue_shift_octonid_shadow_17: -4455834928561538989
+      classic_hue_shift_octonid_shadow_18: -4489088306111071315
+      classic_hue_shift_octonid_shadow_19: -1297716626890230334
+      classic_hue_shift_octonid_shadow_2: -9117951289329784452
+      classic_hue_shift_octonid_shadow_20: -7084290447702948266
+      classic_hue_shift_octonid_shadow_21: 6575226858783082583
+      classic_hue_shift_octonid_shadow_22: -1599820724050678016
+      classic_hue_shift_octonid_shadow_23: -3472149043146966972
+      classic_hue_shift_octonid_shadow_24: -1392905994909056628
+      classic_hue_shift_octonid_shadow_25: 4082891534528069151
+      classic_hue_shift_octonid_shadow_26: -1356678570839435766
+      classic_hue_shift_octonid_shadow_27: 5121930966782004158
+      classic_hue_shift_octonid_shadow_28: -8458198890871908957
+      classic_hue_shift_octonid_shadow_29: 6989742092328230972
+      classic_hue_shift_octonid_shadow_3: -5456619990700456521
+      classic_hue_shift_octonid_shadow_30: -7774720801763730094
+      classic_hue_shift_octonid_shadow_31: -3697797124158734106
+      classic_hue_shift_octonid_shadow_32: -6519369641404865563
+      classic_hue_shift_octonid_shadow_33: 4829396796688994045
+      classic_hue_shift_octonid_shadow_34: -4461943307968401646
+      classic_hue_shift_octonid_shadow_35: 701649296154334708
+      classic_hue_shift_octonid_shadow_36: -4407929204451933334
+      classic_hue_shift_octonid_shadow_37: 5301614650181164013
+      classic_hue_shift_octonid_shadow_38: -6823465100903419172
+      classic_hue_shift_octonid_shadow_39: -8735255139167370596
+      classic_hue_shift_octonid_shadow_4: 846836827848581378
+      classic_hue_shift_octonid_shadow_40: 36998509053268378
+      classic_hue_shift_octonid_shadow_41: -2260373488895385167
+      classic_hue_shift_octonid_shadow_42: 6084839656850086545
+      classic_hue_shift_octonid_shadow_43: 3695629284719905961
+      classic_hue_shift_octonid_shadow_44: -7067348790737532051
+      classic_hue_shift_octonid_shadow_45: -7477758276360149426
+      classic_hue_shift_octonid_shadow_46: 260114419439921531
+      classic_hue_shift_octonid_shadow_47: -7397742070865840399
+      classic_hue_shift_octonid_shadow_48: 6420907818558278167
+      classic_hue_shift_octonid_shadow_49: -5506017782874276168
+      classic_hue_shift_octonid_shadow_5: 5412874501523572020
+      classic_hue_shift_octonid_shadow_50: 5356899044924044322
+      classic_hue_shift_octonid_shadow_51: -8994730369346927414
+      classic_hue_shift_octonid_shadow_52: -3481746930194627385
+      classic_hue_shift_octonid_shadow_53: 3711032109195003074
+      classic_hue_shift_octonid_shadow_54: 7205827484640781405
+      classic_hue_shift_octonid_shadow_55: -5580423958152008339
+      classic_hue_shift_octonid_shadow_56: 2666854180814818426
+      classic_hue_shift_octonid_shadow_57: 1911607920188447370
+      classic_hue_shift_octonid_shadow_58: 3777004776185081239
+      classic_hue_shift_octonid_shadow_59: 689263082251422771
+      classic_hue_shift_octonid_shadow_6: 5708999301588773536
+      classic_hue_shift_octonid_shadow_60: -2143835392338610419
+      classic_hue_shift_octonid_shadow_61: 8833612804931538228
+      classic_hue_shift_octonid_shadow_62: -9038015705124697775
+      classic_hue_shift_octonid_shadow_63: 1149727250176021529
+      classic_hue_shift_octonid_shadow_64: -8495272608203801506
+      classic_hue_shift_octonid_shadow_65: -285741634143571835
+      classic_hue_shift_octonid_shadow_66: -2359830343697289931
+      classic_hue_shift_octonid_shadow_67: 178819888621422216
+      classic_hue_shift_octonid_shadow_68: 865635693697371094
+      classic_hue_shift_octonid_shadow_69: 3461691596500727080
+      classic_hue_shift_octonid_shadow_7: 413472424881644528
+      classic_hue_shift_octonid_shadow_70: 2137862222967749895
+      classic_hue_shift_octonid_shadow_71: 5634627105018624390
+      classic_hue_shift_octonid_shadow_72: -7744373806430178235
+      classic_hue_shift_octonid_shadow_73: -1531387097444938290
+      classic_hue_shift_octonid_shadow_74: -7840427318813773148
+      classic_hue_shift_octonid_shadow_75: -413118568916090411
+      classic_hue_shift_octonid_shadow_76: 6921263668246593921
+      classic_hue_shift_octonid_shadow_77: -7472888598833705433
+      classic_hue_shift_octonid_shadow_78: -4989156199404098325
+      classic_hue_shift_octonid_shadow_79: 4492056446049417397
+      classic_hue_shift_octonid_shadow_8: 5910221321070382801
+      classic_hue_shift_octonid_shadow_80: 1036081408060011833
+      classic_hue_shift_octonid_shadow_81: -4016456654765425202
+      classic_hue_shift_octonid_shadow_82: 4675432535740676514
+      classic_hue_shift_octonid_shadow_83: 4156031456356085016
+      classic_hue_shift_octonid_shadow_84: 7309122448257652510
+      classic_hue_shift_octonid_shadow_85: -3613263999837420123
+      classic_hue_shift_octonid_shadow_86: 6860073860506074503
+      classic_hue_shift_octonid_shadow_87: -2014591102838403125
+      classic_hue_shift_octonid_shadow_88: -8839699645753460748
+      classic_hue_shift_octonid_shadow_89: -2110193878199370396
+      classic_hue_shift_octonid_shadow_9: -7463127568116256110
+      classic_hue_shift_octonid_shadow_90: 7752587648869064158
+      classic_hue_shift_octonid_shadow_91: -6397552257774942201
+      classic_hue_shift_octonid_shadow_92: 6284736709274043484
+      classic_hue_shift_octonid_shadow_93: 9052151783871956995
+      classic_hue_shift_octonid_shadow_94: 9205519355651348092
+      classic_hue_shift_octonid_shadow_95: 5542245969350862488
+      classic_hue_shift_octonid_shadow_96: 5570468435350301960
+      classic_hue_shift_octonid_shadow_97: 2711032374289526274
+      classic_hue_shift_octonid_shadow_98: 5460467095903200598
+      classic_hue_shift_octonid_shadow_99: 1048672327838893620
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

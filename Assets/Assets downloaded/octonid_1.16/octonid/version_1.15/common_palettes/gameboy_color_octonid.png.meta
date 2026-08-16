@@ -1,0 +1,3588 @@
+fileFormatVersion: 2
+guid: 7ce761ad518bbe34c98a5903cb22c59c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5396295545530937771
+    second: gameboy_color_octonid_0
+  - first:
+      213: 2803169579653985806
+    second: gameboy_color_octonid_1
+  - first:
+      213: -2110425020921645876
+    second: gameboy_color_octonid_2
+  - first:
+      213: 3860628215597084455
+    second: gameboy_color_octonid_3
+  - first:
+      213: -5141940790010992664
+    second: gameboy_color_octonid_4
+  - first:
+      213: 2349917692553116598
+    second: gameboy_color_octonid_5
+  - first:
+      213: 6967439700990245574
+    second: gameboy_color_octonid_6
+  - first:
+      213: 5493679690278089497
+    second: gameboy_color_octonid_7
+  - first:
+      213: 6189245907359430051
+    second: gameboy_color_octonid_8
+  - first:
+      213: 6113369402711680662
+    second: gameboy_color_octonid_9
+  - first:
+      213: 4886621723198452792
+    second: gameboy_color_octonid_10
+  - first:
+      213: -7257129125812781261
+    second: gameboy_color_octonid_11
+  - first:
+      213: -388223563005289821
+    second: gameboy_color_octonid_12
+  - first:
+      213: -368687843039435910
+    second: gameboy_color_octonid_13
+  - first:
+      213: 7533431795944110221
+    second: gameboy_color_octonid_14
+  - first:
+      213: -4237134206381403358
+    second: gameboy_color_octonid_15
+  - first:
+      213: 7296217244955968152
+    second: gameboy_color_octonid_16
+  - first:
+      213: -8368507359628954703
+    second: gameboy_color_octonid_17
+  - first:
+      213: -5911233669557601277
+    second: gameboy_color_octonid_18
+  - first:
+      213: -8868683861662577141
+    second: gameboy_color_octonid_19
+  - first:
+      213: 2626339853725839914
+    second: gameboy_color_octonid_20
+  - first:
+      213: -5449090851929043728
+    second: gameboy_color_octonid_21
+  - first:
+      213: -6093455732528466261
+    second: gameboy_color_octonid_22
+  - first:
+      213: -5049644541828705005
+    second: gameboy_color_octonid_23
+  - first:
+      213: -6475667301800580558
+    second: gameboy_color_octonid_24
+  - first:
+      213: 6333517432092257800
+    second: gameboy_color_octonid_25
+  - first:
+      213: 2453935914691069539
+    second: gameboy_color_octonid_26
+  - first:
+      213: -2614963912504713413
+    second: gameboy_color_octonid_27
+  - first:
+      213: -701132230291100585
+    second: gameboy_color_octonid_28
+  - first:
+      213: -4882884347615516170
+    second: gameboy_color_octonid_29
+  - first:
+      213: 2447871849685956364
+    second: gameboy_color_octonid_30
+  - first:
+      213: -847510921599589939
+    second: gameboy_color_octonid_31
+  - first:
+      213: -8721210082634733926
+    second: gameboy_color_octonid_32
+  - first:
+      213: -1019109832479897505
+    second: gameboy_color_octonid_33
+  - first:
+      213: -6564912467333655123
+    second: gameboy_color_octonid_34
+  - first:
+      213: 7217961036479290024
+    second: gameboy_color_octonid_35
+  - first:
+      213: -5591938457362745652
+    second: gameboy_color_octonid_36
+  - first:
+      213: -8488919178656666249
+    second: gameboy_color_octonid_37
+  - first:
+      213: 5294112034986963454
+    second: gameboy_color_octonid_38
+  - first:
+      213: 2813600622264022373
+    second: gameboy_color_octonid_39
+  - first:
+      213: -3969447115579342397
+    second: gameboy_color_octonid_40
+  - first:
+      213: 7391578466297315731
+    second: gameboy_color_octonid_41
+  - first:
+      213: -283024072385222447
+    second: gameboy_color_octonid_42
+  - first:
+      213: 1680547528908351724
+    second: gameboy_color_octonid_43
+  - first:
+      213: 8261017496182101830
+    second: gameboy_color_octonid_44
+  - first:
+      213: 5414764705069071944
+    second: gameboy_color_octonid_45
+  - first:
+      213: -9077592009124186704
+    second: gameboy_color_octonid_46
+  - first:
+      213: 4266755840106186131
+    second: gameboy_color_octonid_47
+  - first:
+      213: -2931481469014341236
+    second: gameboy_color_octonid_48
+  - first:
+      213: -4828807042927416478
+    second: gameboy_color_octonid_49
+  - first:
+      213: 6280873761921997793
+    second: gameboy_color_octonid_50
+  - first:
+      213: -5592839032968697804
+    second: gameboy_color_octonid_51
+  - first:
+      213: 4815190651709044573
+    second: gameboy_color_octonid_52
+  - first:
+      213: -9135795104093620809
+    second: gameboy_color_octonid_53
+  - first:
+      213: -4827339915790383538
+    second: gameboy_color_octonid_54
+  - first:
+      213: 8447296924247684017
+    second: gameboy_color_octonid_55
+  - first:
+      213: -73949867197233401
+    second: gameboy_color_octonid_56
+  - first:
+      213: 6722917490673102315
+    second: gameboy_color_octonid_57
+  - first:
+      213: 8636751773982944525
+    second: gameboy_color_octonid_58
+  - first:
+      213: -9145373877186592874
+    second: gameboy_color_octonid_59
+  - first:
+      213: 6210328702568642123
+    second: gameboy_color_octonid_60
+  - first:
+      213: -7473214748904709267
+    second: gameboy_color_octonid_61
+  - first:
+      213: -3404306535231386266
+    second: gameboy_color_octonid_62
+  - first:
+      213: -3405996117758006324
+    second: gameboy_color_octonid_63
+  - first:
+      213: -1276561017353777416
+    second: gameboy_color_octonid_64
+  - first:
+      213: -7197067709900890551
+    second: gameboy_color_octonid_65
+  - first:
+      213: -5036903235175024624
+    second: gameboy_color_octonid_66
+  - first:
+      213: -5675016796716447653
+    second: gameboy_color_octonid_67
+  - first:
+      213: -3389444939465720662
+    second: gameboy_color_octonid_68
+  - first:
+      213: 1012788146190534200
+    second: gameboy_color_octonid_69
+  - first:
+      213: -7023802574904957155
+    second: gameboy_color_octonid_70
+  - first:
+      213: -7465112258270408225
+    second: gameboy_color_octonid_71
+  - first:
+      213: -9206003257088315616
+    second: gameboy_color_octonid_72
+  - first:
+      213: -5936738552547450650
+    second: gameboy_color_octonid_73
+  - first:
+      213: 5128267177957761362
+    second: gameboy_color_octonid_74
+  - first:
+      213: -8707354256948778613
+    second: gameboy_color_octonid_75
+  - first:
+      213: -9070314931585617088
+    second: gameboy_color_octonid_76
+  - first:
+      213: 7186245910139893156
+    second: gameboy_color_octonid_77
+  - first:
+      213: 3316705888704532932
+    second: gameboy_color_octonid_78
+  - first:
+      213: 9106648031687848899
+    second: gameboy_color_octonid_79
+  - first:
+      213: 2750898338235326435
+    second: gameboy_color_octonid_80
+  - first:
+      213: 3977215435675653746
+    second: gameboy_color_octonid_81
+  - first:
+      213: 5215300575876698020
+    second: gameboy_color_octonid_82
+  - first:
+      213: 4529176472274576944
+    second: gameboy_color_octonid_83
+  - first:
+      213: -8974754188426497578
+    second: gameboy_color_octonid_84
+  - first:
+      213: 6237936751006354678
+    second: gameboy_color_octonid_85
+  - first:
+      213: 2321675952423367430
+    second: gameboy_color_octonid_86
+  - first:
+      213: -2726373459681181925
+    second: gameboy_color_octonid_87
+  - first:
+      213: 4109201093931630556
+    second: gameboy_color_octonid_88
+  - first:
+      213: 2754410472872756348
+    second: gameboy_color_octonid_89
+  - first:
+      213: -5881787383436204764
+    second: gameboy_color_octonid_90
+  - first:
+      213: 5040970025791216878
+    second: gameboy_color_octonid_91
+  - first:
+      213: -33874790569313629
+    second: gameboy_color_octonid_92
+  - first:
+      213: 4370456122444918606
+    second: gameboy_color_octonid_93
+  - first:
+      213: 7867263574111154657
+    second: gameboy_color_octonid_94
+  - first:
+      213: 5652398600532680662
+    second: gameboy_color_octonid_95
+  - first:
+      213: 8299246440692258226
+    second: gameboy_color_octonid_96
+  - first:
+      213: -2147084466919206177
+    second: gameboy_color_octonid_97
+  - first:
+      213: -4405548018932661235
+    second: gameboy_color_octonid_98
+  - first:
+      213: -7959469839148622395
+    second: gameboy_color_octonid_99
+  - first:
+      213: 8983493156863717858
+    second: gameboy_color_octonid_100
+  - first:
+      213: 39417754632510615
+    second: gameboy_color_octonid_101
+  - first:
+      213: -442863013235805318
+    second: gameboy_color_octonid_102
+  - first:
+      213: -1813266890824231748
+    second: gameboy_color_octonid_103
+  - first:
+      213: -8552936836271221071
+    second: gameboy_color_octonid_104
+  - first:
+      213: 7492287615373612075
+    second: gameboy_color_octonid_105
+  - first:
+      213: -15700976395629491
+    second: gameboy_color_octonid_106
+  - first:
+      213: 6729433592003962858
+    second: gameboy_color_octonid_107
+  - first:
+      213: -6019958300712301587
+    second: gameboy_color_octonid_108
+  - first:
+      213: -2635390532208292428
+    second: gameboy_color_octonid_109
+  - first:
+      213: -3660563759117463588
+    second: gameboy_color_octonid_110
+  - first:
+      213: -4750970269333172012
+    second: gameboy_color_octonid_111
+  - first:
+      213: -7045110088432883579
+    second: gameboy_color_octonid_112
+  - first:
+      213: 3052136348977919579
+    second: gameboy_color_octonid_113
+  - first:
+      213: -3906280180484146856
+    second: gameboy_color_octonid_114
+  - first:
+      213: -3280092808642200408
+    second: gameboy_color_octonid_115
+  - first:
+      213: 218730520124581554
+    second: gameboy_color_octonid_116
+  - first:
+      213: 5267265793806413214
+    second: gameboy_color_octonid_117
+  - first:
+      213: -153641472316830754
+    second: gameboy_color_octonid_118
+  - first:
+      213: 8823926478660513323
+    second: gameboy_color_octonid_119
+  - first:
+      213: 821351728330861695
+    second: gameboy_color_octonid_120
+  - first:
+      213: 134182934826791208
+    second: gameboy_color_octonid_121
+  - first:
+      213: -7549381924356555089
+    second: gameboy_color_octonid_122
+  - first:
+      213: 7208316848183874536
+    second: gameboy_color_octonid_123
+  - first:
+      213: 1119353235941902400
+    second: gameboy_color_octonid_124
+  - first:
+      213: -7992330644530303885
+    second: gameboy_color_octonid_125
+  - first:
+      213: -7684126261628374891
+    second: gameboy_color_octonid_126
+  - first:
+      213: 5382535796565292873
+    second: gameboy_color_octonid_127
+  - first:
+      213: 6505212989616777802
+    second: gameboy_color_octonid_128
+  - first:
+      213: -3485992637996811550
+    second: gameboy_color_octonid_129
+  - first:
+      213: -4076374637405325164
+    second: gameboy_color_octonid_130
+  - first:
+      213: 721632842749059181
+    second: gameboy_color_octonid_131
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gameboy_color_octonid_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1237
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e0b99cac18c15b0800000000000000
+      internalID: -5396295545530937771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1237
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e06f47081ebd6e620800000000000000
+      internalID: 2803169579653985806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1237
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc47edeff9346b2e0800000000000000
+      internalID: -2110425020921645876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_3
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1237
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72fa38858e4b39530800000000000000
+      internalID: 3860628215597084455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_4
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1237
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e7ad4b381824a8b0800000000000000
+      internalID: -5141940790010992664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_5
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1237
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bbb804e0b59c9020800000000000000
+      internalID: 2349917692553116598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_6
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1237
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca3a733e7151b060800000000000000
+      internalID: 6967439700990245574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_7
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1237
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 913bdc052987d3c40800000000000000
+      internalID: 5493679690278089497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_8
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1171
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a5f2b75c5e94e550800000000000000
+      internalID: 6189245907359430051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_9
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1172
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6962f5de41d07d450800000000000000
+      internalID: 6113369402711680662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_10
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1173
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83473fa1194c0d340800000000000000
+      internalID: 4886621723198452792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_11
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1174
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33fb9ce828f794b90800000000000000
+      internalID: -7257129125812781261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_12
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1176
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa12a1f9b0cc9af0800000000000000
+      internalID: -388223563005289821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_13
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1175
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7321a23c5822eaf0800000000000000
+      internalID: -368687843039435910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_14
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1173
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d88b1e8fd402c8860800000000000000
+      internalID: 7533431795944110221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_15
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1172
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 223dafa73eca235c0800000000000000
+      internalID: -4237134206381403358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_16
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1108
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8920ea16dee514560800000000000000
+      internalID: 7296217244955968152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_17
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1108
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b3f21905e61ddb80800000000000000
+      internalID: -8368507359628954703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_18
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1107
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30cb0bdeb4417fda0800000000000000
+      internalID: -5911233669557601277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_19
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1043
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ecc50240b1ce480800000000000000
+      internalID: -8868683861662577141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_20
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1042
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a22b7c89e22a27420800000000000000
+      internalID: 2626339853725839914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_21
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1042
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fc40fd9db0f064b0800000000000000
+      internalID: -5449090851929043728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_22
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1042
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba6b218bb42bf6ba0800000000000000
+      internalID: -6093455732528466261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_23
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1043
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3155f4a1b0f0ce9b0800000000000000
+      internalID: -5049644541828705005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_24
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1044
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23a609806eec126a0800000000000000
+      internalID: -6475667301800580558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_25
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1044
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e6a9e4c8c25e750800000000000000
+      internalID: 6333517432092257800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_26
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 980
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3660cb086b12e0220800000000000000
+      internalID: 2453935914691069539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_27
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 980
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3fd0be1d28c5bbd0800000000000000
+      internalID: -2614963912504713413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_28
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 979
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75cebe883f31546f0800000000000000
+      internalID: -701132230291100585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_29
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 978
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f9ef057e828c3cb0800000000000000
+      internalID: -4882884347615516170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_30
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 978
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c07b5385a7698f120800000000000000
+      internalID: 2447871849685956364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_31
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 978
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc1eace9e490d34f0800000000000000
+      internalID: -847510921599589939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_32
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 979
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a96600503a908f680800000000000000
+      internalID: -8721210082634733926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_33
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 917
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f588defb1056bd1f0800000000000000
+      internalID: -1019109832479897505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_34
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 917
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da55b03b4eeb4e4a0800000000000000
+      internalID: -6564912467333655123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_35
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 917
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa55fdf1595b2460800000000000000
+      internalID: 7217961036479290024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_36
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 917
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc63c03b9917562b0800000000000000
+      internalID: -5591938457362745652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_37
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 917
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d2b25bbfc413a80800000000000000
+      internalID: -8488919178656666249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_38
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 917
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef1b48ea8d6787940800000000000000
+      internalID: 5294112034986963454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_39
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 917
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5657ddddbdaeb0720800000000000000
+      internalID: 2813600622264022373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_40
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 917
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c1c13121e0b9e8c0800000000000000
+      internalID: -3969447115579342397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_41
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 852
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 391041de379249660800000000000000
+      internalID: 7391578466297315731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_42
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 853
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d8289e0b1f721cf0800000000000000
+      internalID: -283024072385222447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_43
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 854
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce82eb8d211825710800000000000000
+      internalID: 1680547528908351724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_44
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 856
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 647983fd4a705a270800000000000000
+      internalID: 8261017496182101830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_45
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 856
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84ef6f38fcb152b40800000000000000
+      internalID: 5414764705069071944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_46
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 855
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b57a30b92ae50280800000000000000
+      internalID: -9077592009124186704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_47
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 853
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3954ad094df863b30800000000000000
+      internalID: 4266755840106186131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_48
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 852
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8982c5b2294157d0800000000000000
+      internalID: -2931481469014341236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_49
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 786
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b286d1491acfcb0800000000000000
+      internalID: -4828807042927416478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_50
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 786
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eb9e62b8652a2750800000000000000
+      internalID: 6280873761921997793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_51
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 787
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43826f9188e3262b0800000000000000
+      internalID: -5592839032968697804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_52
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 720
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5736e0c26ef2d240800000000000000
+      internalID: 4815190651709044573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_53
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 720
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b53fbf91c2273180800000000000000
+      internalID: -9135795104093620809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_54
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 720
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4600454ce7d10db0800000000000000
+      internalID: -4827339915790383538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_55
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 720
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b378020cc3da3570800000000000000
+      internalID: 8447296924247684017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_56
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 719
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7078582dcf649fef0800000000000000
+      internalID: -73949867197233401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_57
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 723
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beda4d596d99c4d50800000000000000
+      internalID: 6722917490673102315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_58
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 723
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d6a7d9af7ebd770800000000000000
+      internalID: 8636751773982944525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_59
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 659
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ff728b9ea151180800000000000000
+      internalID: -9145373877186592874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_60
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 659
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b46340f1d058f2650800000000000000
+      internalID: 6210328702568642123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_61
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 655
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d632359d7cec94890800000000000000
+      internalID: -7473214748904709267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_62
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 656
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d0ef43e3971c0d0800000000000000
+      internalID: -3404306535231386266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_63
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 656
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccbacae93987bb0d0800000000000000
+      internalID: -3405996117758006324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_64
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 656
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fe448aa48eb84ee0800000000000000
+      internalID: -1276561017353777416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_65
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 656
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e5ceeac01ee1c90800000000000000
+      internalID: -7197067709900890551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_66
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 597
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 018706bb133591ab0800000000000000
+      internalID: -5036903235175024624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_67
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 597
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5847597a4a4e31b0800000000000000
+      internalID: -5675016796716447653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_68
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 597
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aac766d19c546f0d0800000000000000
+      internalID: -3389444939465720662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_69
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 597
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 836c966f3752e0e00800000000000000
+      internalID: 1012788146190534200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_70
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 597
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d17e05695c0768e90800000000000000
+      internalID: -7023802574904957155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_71
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 597
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd1d065f3f7966890800000000000000
+      internalID: -7465112258270408225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_72
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 597
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f692c20d4bd3080800000000000000
+      internalID: -9206003257088315616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_73
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 597
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e0ea0b9db77c9da0800000000000000
+      internalID: -5936738552547450650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_74
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 533
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 251a77fd3d34b2740800000000000000
+      internalID: 5128267177957761362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_75
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 533
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b892515df63492780800000000000000
+      internalID: -8707354256948778613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_76
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 533
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 043fae550a4cf1280800000000000000
+      internalID: -9070314931585617088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_77
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 534
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a5fd76b49caab360800000000000000
+      internalID: 7186245910139893156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_78
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 534
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c11ea0ee6e470e20800000000000000
+      internalID: 3316705888704532932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_79
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 534
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c3b34fb220516e70800000000000000
+      internalID: 9106648031687848899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_80
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 535
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef9ab7b6772d2620800000000000000
+      internalID: 2750898338235326435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_81
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 534
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 276d5a6dd58e13730800000000000000
+      internalID: 3977215435675653746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_82
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 468
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4af450eed38706840800000000000000
+      internalID: 5215300575876698020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_83
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 468
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 036abf2410edade30800000000000000
+      internalID: 4529176472274576944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_84
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 470
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d1b36cad94437380800000000000000
+      internalID: -8974754188426497578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_85
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 403
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc861fcc6a919650800000000000000
+      internalID: 6237936751006354678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_86
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 402
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 603f2cb5aff383020800000000000000
+      internalID: 2321675952423367430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_87
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 402
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1f76aa88c9f92ad0800000000000000
+      internalID: -2726373459681181925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_88
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 402
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdff07a9f90d60930800000000000000
+      internalID: 4109201093931630556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_89
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 401
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7442394bb1a93620800000000000000
+      internalID: 2754410472872756348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_90
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 404
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42529eda981bf5ea0800000000000000
+      internalID: -5881787383436204764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_91
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 404
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eec5daeb78f15f540800000000000000
+      internalID: 5040970025791216878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_92
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 340
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa7645be07a78ff0800000000000000
+      internalID: -33874790569313629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_93
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 340
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4fa2cc00baf6ac30800000000000000
+      internalID: 4370456122444918606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_94
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 337
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e1f341c9822e2d60800000000000000
+      internalID: 7867263574111154657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_95
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 338
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df5aa9549a517e40800000000000000
+      internalID: 5652398600532680662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_96
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 338
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b513e0aaa8dc2370800000000000000
+      internalID: 8299246440692258226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_97
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 338
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd295869d060432e0800000000000000
+      internalID: -2147084466919206177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_98
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 339
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d04c79a1b695cd2c0800000000000000
+      internalID: -4405548018932661235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_99
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 277
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd5c153a584a8190800000000000000
+      internalID: -7959469839148622395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_100
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 277
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e1b309fd67cbac70800000000000000
+      internalID: 8983493156863717858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_101
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 277
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79cd6be2d3a0c8000800000000000000
+      internalID: 39417754632510615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_102
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 277
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a73bbe39f62aad9f0800000000000000
+      internalID: -442863013235805318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_103
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 277
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb4d171be5bf5d6e0800000000000000
+      internalID: -1813266890824231748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_104
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 277
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b653b7434ddd4980800000000000000
+      internalID: -8552936836271221071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_105
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 277
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b24176de3e3f9f760800000000000000
+      internalID: 7492287615373612075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_106
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 277
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4ccf4f8b0838cff0800000000000000
+      internalID: -15700976395629491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_107
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 212
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae72af6a230c36d50800000000000000
+      internalID: 6729433592003962858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_108
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 213
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb016312dfc47ca0800000000000000
+      internalID: -6019958300712301587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_109
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 214
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd0c4b16463d6bd0800000000000000
+      internalID: -2635390532208292428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_110
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 216
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf8224d7a0133dc0800000000000000
+      internalID: -3660563759117463588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_111
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 216
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d054f536b9211eb0800000000000000
+      internalID: -4750970269333172012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_112
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 215
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 588ef6f73bdba3e90800000000000000
+      internalID: -7045110088432883579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_113
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 213
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b56f2e6a6dd5b5a20800000000000000
+      internalID: 3052136348977919579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_114
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 212
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 859f7194fda1ac9c0800000000000000
+      internalID: -3906280180484146856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_115
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 146
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ac719e18f4ca72d0800000000000000
+      internalID: -3280092808642200408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_116
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 146
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b6ef89cf36190300800000000000000
+      internalID: 218730520124581554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_117
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 147
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9da5611556191940800000000000000
+      internalID: 5267265793806413214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_118
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 80
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb89cb15e72eddf0800000000000000
+      internalID: -153641472316830754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_119
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 80
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e29b49162e47a70800000000000000
+      internalID: 8823926478660513323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_120
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 80
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7c60d29b07066b00800000000000000
+      internalID: 821351728330861695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_121
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 80
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82135451ba6bcd100800000000000000
+      internalID: 134182934826791208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_122
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 79
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faef8fc53253b3790800000000000000
+      internalID: -7549381924356555089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_123
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 83
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e3967c6bf5190460800000000000000
+      internalID: 7208316848183874536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_124
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 83
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 048408666ddb88f00800000000000000
+      internalID: 1119353235941902400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_125
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 19
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c6d4dbf99851190800000000000000
+      internalID: -7992330644530303885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_126
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 19
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 590f36690ef7c5590800000000000000
+      internalID: -7684126261628374891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_127
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 15
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94739110acb92ba40800000000000000
+      internalID: 5382535796565292873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_128
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 16
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a6d5a7fb8274a50800000000000000
+      internalID: 6505212989616777802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_129
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 16
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eab2925a244f9fc0800000000000000
+      internalID: -3485992637996811550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_130
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 16
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4983b066ddecd67c0800000000000000
+      internalID: -4076374637405325164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameboy_color_octonid_131
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 16
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6020524f31c30a00800000000000000
+      internalID: 721632842749059181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      gameboy_color_octonid_0: -5396295545530937771
+      gameboy_color_octonid_1: 2803169579653985806
+      gameboy_color_octonid_10: 4886621723198452792
+      gameboy_color_octonid_100: 8983493156863717858
+      gameboy_color_octonid_101: 39417754632510615
+      gameboy_color_octonid_102: -442863013235805318
+      gameboy_color_octonid_103: -1813266890824231748
+      gameboy_color_octonid_104: -8552936836271221071
+      gameboy_color_octonid_105: 7492287615373612075
+      gameboy_color_octonid_106: -15700976395629491
+      gameboy_color_octonid_107: 6729433592003962858
+      gameboy_color_octonid_108: -6019958300712301587
+      gameboy_color_octonid_109: -2635390532208292428
+      gameboy_color_octonid_11: -7257129125812781261
+      gameboy_color_octonid_110: -3660563759117463588
+      gameboy_color_octonid_111: -4750970269333172012
+      gameboy_color_octonid_112: -7045110088432883579
+      gameboy_color_octonid_113: 3052136348977919579
+      gameboy_color_octonid_114: -3906280180484146856
+      gameboy_color_octonid_115: -3280092808642200408
+      gameboy_color_octonid_116: 218730520124581554
+      gameboy_color_octonid_117: 5267265793806413214
+      gameboy_color_octonid_118: -153641472316830754
+      gameboy_color_octonid_119: 8823926478660513323
+      gameboy_color_octonid_12: -388223563005289821
+      gameboy_color_octonid_120: 821351728330861695
+      gameboy_color_octonid_121: 134182934826791208
+      gameboy_color_octonid_122: -7549381924356555089
+      gameboy_color_octonid_123: 7208316848183874536
+      gameboy_color_octonid_124: 1119353235941902400
+      gameboy_color_octonid_125: -7992330644530303885
+      gameboy_color_octonid_126: -7684126261628374891
+      gameboy_color_octonid_127: 5382535796565292873
+      gameboy_color_octonid_128: 6505212989616777802
+      gameboy_color_octonid_129: -3485992637996811550
+      gameboy_color_octonid_13: -368687843039435910
+      gameboy_color_octonid_130: -4076374637405325164
+      gameboy_color_octonid_131: 721632842749059181
+      gameboy_color_octonid_14: 7533431795944110221
+      gameboy_color_octonid_15: -4237134206381403358
+      gameboy_color_octonid_16: 7296217244955968152
+      gameboy_color_octonid_17: -8368507359628954703
+      gameboy_color_octonid_18: -5911233669557601277
+      gameboy_color_octonid_19: -8868683861662577141
+      gameboy_color_octonid_2: -2110425020921645876
+      gameboy_color_octonid_20: 2626339853725839914
+      gameboy_color_octonid_21: -5449090851929043728
+      gameboy_color_octonid_22: -6093455732528466261
+      gameboy_color_octonid_23: -5049644541828705005
+      gameboy_color_octonid_24: -6475667301800580558
+      gameboy_color_octonid_25: 6333517432092257800
+      gameboy_color_octonid_26: 2453935914691069539
+      gameboy_color_octonid_27: -2614963912504713413
+      gameboy_color_octonid_28: -701132230291100585
+      gameboy_color_octonid_29: -4882884347615516170
+      gameboy_color_octonid_3: 3860628215597084455
+      gameboy_color_octonid_30: 2447871849685956364
+      gameboy_color_octonid_31: -847510921599589939
+      gameboy_color_octonid_32: -8721210082634733926
+      gameboy_color_octonid_33: -1019109832479897505
+      gameboy_color_octonid_34: -6564912467333655123
+      gameboy_color_octonid_35: 7217961036479290024
+      gameboy_color_octonid_36: -5591938457362745652
+      gameboy_color_octonid_37: -8488919178656666249
+      gameboy_color_octonid_38: 5294112034986963454
+      gameboy_color_octonid_39: 2813600622264022373
+      gameboy_color_octonid_4: -5141940790010992664
+      gameboy_color_octonid_40: -3969447115579342397
+      gameboy_color_octonid_41: 7391578466297315731
+      gameboy_color_octonid_42: -283024072385222447
+      gameboy_color_octonid_43: 1680547528908351724
+      gameboy_color_octonid_44: 8261017496182101830
+      gameboy_color_octonid_45: 5414764705069071944
+      gameboy_color_octonid_46: -9077592009124186704
+      gameboy_color_octonid_47: 4266755840106186131
+      gameboy_color_octonid_48: -2931481469014341236
+      gameboy_color_octonid_49: -4828807042927416478
+      gameboy_color_octonid_5: 2349917692553116598
+      gameboy_color_octonid_50: 6280873761921997793
+      gameboy_color_octonid_51: -5592839032968697804
+      gameboy_color_octonid_52: 4815190651709044573
+      gameboy_color_octonid_53: -9135795104093620809
+      gameboy_color_octonid_54: -4827339915790383538
+      gameboy_color_octonid_55: 8447296924247684017
+      gameboy_color_octonid_56: -73949867197233401
+      gameboy_color_octonid_57: 6722917490673102315
+      gameboy_color_octonid_58: 8636751773982944525
+      gameboy_color_octonid_59: -9145373877186592874
+      gameboy_color_octonid_6: 6967439700990245574
+      gameboy_color_octonid_60: 6210328702568642123
+      gameboy_color_octonid_61: -7473214748904709267
+      gameboy_color_octonid_62: -3404306535231386266
+      gameboy_color_octonid_63: -3405996117758006324
+      gameboy_color_octonid_64: -1276561017353777416
+      gameboy_color_octonid_65: -7197067709900890551
+      gameboy_color_octonid_66: -5036903235175024624
+      gameboy_color_octonid_67: -5675016796716447653
+      gameboy_color_octonid_68: -3389444939465720662
+      gameboy_color_octonid_69: 1012788146190534200
+      gameboy_color_octonid_7: 5493679690278089497
+      gameboy_color_octonid_70: -7023802574904957155
+      gameboy_color_octonid_71: -7465112258270408225
+      gameboy_color_octonid_72: -9206003257088315616
+      gameboy_color_octonid_73: -5936738552547450650
+      gameboy_color_octonid_74: 5128267177957761362
+      gameboy_color_octonid_75: -8707354256948778613
+      gameboy_color_octonid_76: -9070314931585617088
+      gameboy_color_octonid_77: 7186245910139893156
+      gameboy_color_octonid_78: 3316705888704532932
+      gameboy_color_octonid_79: 9106648031687848899
+      gameboy_color_octonid_8: 6189245907359430051
+      gameboy_color_octonid_80: 2750898338235326435
+      gameboy_color_octonid_81: 3977215435675653746
+      gameboy_color_octonid_82: 5215300575876698020
+      gameboy_color_octonid_83: 4529176472274576944
+      gameboy_color_octonid_84: -8974754188426497578
+      gameboy_color_octonid_85: 6237936751006354678
+      gameboy_color_octonid_86: 2321675952423367430
+      gameboy_color_octonid_87: -2726373459681181925
+      gameboy_color_octonid_88: 4109201093931630556
+      gameboy_color_octonid_89: 2754410472872756348
+      gameboy_color_octonid_9: 6113369402711680662
+      gameboy_color_octonid_90: -5881787383436204764
+      gameboy_color_octonid_91: 5040970025791216878
+      gameboy_color_octonid_92: -33874790569313629
+      gameboy_color_octonid_93: 4370456122444918606
+      gameboy_color_octonid_94: 7867263574111154657
+      gameboy_color_octonid_95: 5652398600532680662
+      gameboy_color_octonid_96: 8299246440692258226
+      gameboy_color_octonid_97: -2147084466919206177
+      gameboy_color_octonid_98: -4405548018932661235
+      gameboy_color_octonid_99: -7959469839148622395
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

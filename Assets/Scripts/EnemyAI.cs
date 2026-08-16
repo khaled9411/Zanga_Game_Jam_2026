@@ -1,42 +1,37 @@
 using UnityEngine;
 
 [RequireComponent(typeof(Rigidbody2D))]
-[RequireComponent(typeof(SpriteRenderer))]
 public class EnemyAI : MonoBehaviour
 {
     [SerializeField] private EnemyData data;
-    [SerializeField] private GameObject reskinParticlePrefab;
     [SerializeField] private GameObject deathParticlePrefab;
+
+    [Header("Visuals")]
+    [SerializeField] private SpriteRenderer visualRenderer; // drag the CHILD's SpriteRenderer here in Inspector
 
     [Header("Big Enemy Patrol")]
     [SerializeField] private float patrolRadius = 3f;
     [SerializeField] private float patrolPointReachedThreshold = 0.3f;
-    [SerializeField] private float attackRange = 1.5f; // range at which it switches from patrol to chase
+    [SerializeField] private float attackRange = 1.5f;
+
+    [Header("Contact Damage")]
+    [SerializeField] private float damageCooldown = 1f; // seconds between contact hits while touching
 
     private int currentHits = 0;
     private Transform player;
     private Rigidbody2D rb;
-    private SpriteRenderer sr;
     private bool isAggroed = false;
     private bool isDead = false;
+    private float lastDamageTime = -999f;
 
     private Vector2 patrolOrigin;
     private Vector2 currentPatrolTarget;
 
+    public int CarriedOverHits { get; set; } = 0;
+
     private void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
-        sr = GetComponent<SpriteRenderer>();
-    }
-
-    private void OnEnable()
-    {
-        GameEvents.OnDreamChanged += HandleDreamChanged;
-    }
-
-    private void OnDisable()
-    {
-        GameEvents.OnDreamChanged -= HandleDreamChanged;
     }
 
     private void Start()
@@ -47,14 +42,10 @@ public class EnemyAI : MonoBehaviour
         patrolOrigin = rb.position;
         PickNewPatrolTarget();
 
-        ApplySkinForDream(FindManagerCurrentDream());
-       
-    }
+        currentHits = CarriedOverHits;
 
-    private int FindManagerCurrentDream()
-    {
-        GameManager gm = FindObjectOfType<GameManager>();
-        return gm != null ? gm.CurrentDream : 1;
+        if (visualRenderer == null)
+            Debug.LogWarning($"[EnemyAI] {data.enemyName} has no Visual Renderer assigned — flipping won't work.");
     }
 
     private void Update()
@@ -70,21 +61,10 @@ public class EnemyAI : MonoBehaviour
             return;
         }
 
-        // Big enemy: chase only within attackRange, otherwise patrol
         if (dist <= attackRange)
         {
-            if (!isAggroed)
-            {
-                isAggroed = true;
-                Debug.Log($"[EnemyAI] Big enemy {data.enemyName} switched to chase (in attack range)");
-            }
+            isAggroed = true;
             ChasePlayer();
-        }
-        else if (dist <= data.aggroRange)
-        {
-            // In aggro range but not attack range yet — still patrol, doesn't chase from far
-            isAggroed = false;
-            Patrol();
         }
         else
         {
@@ -96,17 +76,28 @@ public class EnemyAI : MonoBehaviour
     private void ChasePlayer()
     {
         Vector2 dir = ((Vector2)player.position - rb.position).normalized;
-        rb.MovePosition(rb.position + dir * data.moveSpeed * Time.deltaTime);
+        MoveAndRotate(dir, data.moveSpeed);
     }
 
     private void Patrol()
     {
         Vector2 dir = (currentPatrolTarget - rb.position).normalized;
-        rb.MovePosition(rb.position + dir * (data.moveSpeed * 0.5f) * Time.deltaTime);
+        MoveAndRotate(dir, data.moveSpeed * 0.5f);
 
         if (Vector2.Distance(rb.position, currentPatrolTarget) <= patrolPointReachedThreshold)
         {
             PickNewPatrolTarget();
+        }
+    }
+
+    private void MoveAndRotate(Vector2 direction, float speed)
+    {
+        rb.MovePosition(rb.position + direction * speed * Time.deltaTime);
+
+        if (Mathf.Abs(direction.x) > 0.01f && visualRenderer != null)
+        {
+            // If this looks backwards on your sprite, swap to: direction.x > 0f
+            visualRenderer.flipX = direction.x < 0f;
         }
     }
 
@@ -116,70 +107,27 @@ public class EnemyAI : MonoBehaviour
         currentPatrolTarget = patrolOrigin + randomOffset;
     }
 
-    private void OnCollisionEnter2D(Collision2D collision)
+    // Fires once on first overlap
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        TryDealContactDamage(other);
+    }
+
+    // Fires every physics frame while still overlapping — fixes "standing on it = no damage"
+    private void OnTriggerStay2D(Collider2D other)
+    {
+        TryDealContactDamage(other);
+    }
+
+    private void TryDealContactDamage(Collider2D other)
     {
         if (isDead) return;
-        if (collision.gameObject.CompareTag("Player"))
-        {
-            GameEvents.TriggerRequestTakeDamage(1);
-            Debug.Log($"[EnemyAI] {data.enemyName} hit player on contact");
-        }
-    }
+        if (!other.CompareTag("Player")) return;
+        if (Time.time - lastDamageTime < damageCooldown) return;
 
-    public void TakeHit()
-    {
-        if (isDead) return;
-
-        currentHits++;
-        Debug.Log($"[EnemyAI] {data.enemyName} took hit {currentHits}/{data.maxHits}");
-
-        if (currentHits >= data.maxHits)
-        {
-            Die();
-        }
-    }
-
-    private void Die()
-    {
-        isDead = true;
-        Debug.Log($"[EnemyAI] {data.enemyName} died, playing death sequence");
-
-        rb.simulated = false; // stop physics/collisions immediately so it can't hit the player while dying
-        GetComponent<Collider2D>().enabled = false;
-
-        // Placeholder death handling until real animations exist:
-        // spawns a particle burst and destroys after a short delay so it doesn't just vanish instantly.
-        // Once you have a real death animation, replace this block with:
-        //   animator.SetTrigger("Die"); then Destroy(gameObject, animationClipLength);
-        if (deathParticlePrefab != null)
-            Instantiate(deathParticlePrefab, transform.position, Quaternion.identity);
-
-        GameEvents.TriggerEnemyDied(gameObject);
-        Destroy(gameObject, 0.3f); // small buffer so particle isn't cut off; swap to animation length later
-    }
-
-    private void HandleDreamChanged(int dreamIndex)
-    {
-        ApplySkinForDream(dreamIndex);
-
-        if (reskinParticlePrefab != null)
-            Instantiate(reskinParticlePrefab, transform.position, Quaternion.identity);
-
-        Debug.Log($"[EnemyAI] {data.enemyName} reskinned for dream {dreamIndex}");
-    }
-
-    private void ApplySkinForDream(int dreamIndex)
-    {
-        if (data.skinsPerDream == null) return;
-
-        foreach (var skin in data.skinsPerDream)
-        {
-            if (skin.dreamIndex == dreamIndex)
-            {
-                sr.sprite = skin.skinSprite;
-                return;
-            }
-        }
+        lastDamageTime = Time.time;
+        GameEvents.TriggerRequestTakeDamage(1);
+        Debug.Log($"{data.enemyName} damaged player");
     }
 
     public void TakeHit(Vector2 knockbackDirection, float knockbackForce = 4f)
@@ -187,7 +135,7 @@ public class EnemyAI : MonoBehaviour
         if (isDead) return;
 
         currentHits++;
-        Debug.Log($"[EnemyAI] {data.enemyName} took hit {currentHits}/{data.maxHits}");
+        Debug.Log($"{data.enemyName} hit {currentHits}/{data.maxHits}");
 
         rb.AddForce(knockbackDirection.normalized * knockbackForce, ForceMode2D.Impulse);
 
@@ -195,5 +143,23 @@ public class EnemyAI : MonoBehaviour
         {
             Die();
         }
+    }
+
+    public int CurrentHits => currentHits;
+    public bool IsBig => data.isBig;
+
+    private void Die()
+    {
+        isDead = true;
+        Debug.Log($"{data.enemyName} died");
+
+        rb.simulated = false;
+        GetComponent<Collider2D>().enabled = false;
+
+        if (deathParticlePrefab != null)
+            Instantiate(deathParticlePrefab, transform.position, Quaternion.identity);
+
+        GameEvents.TriggerEnemyDied(gameObject);
+        Destroy(gameObject, 0.3f);
     }
 }

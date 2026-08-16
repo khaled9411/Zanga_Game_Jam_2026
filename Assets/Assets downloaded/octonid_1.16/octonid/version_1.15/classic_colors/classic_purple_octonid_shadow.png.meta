@@ -1,0 +1,3588 @@
+fileFormatVersion: 2
+guid: 28cf24f805292ed4c9a035e837355887
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1046589123598293354
+    second: classic_purple_octonid_shadow_0
+  - first:
+      213: 1536657259957451400
+    second: classic_purple_octonid_shadow_1
+  - first:
+      213: 644025869006486145
+    second: classic_purple_octonid_shadow_2
+  - first:
+      213: -5985723914032863599
+    second: classic_purple_octonid_shadow_3
+  - first:
+      213: 760584173199510782
+    second: classic_purple_octonid_shadow_4
+  - first:
+      213: -4115089159091240803
+    second: classic_purple_octonid_shadow_5
+  - first:
+      213: 5643131192097360846
+    second: classic_purple_octonid_shadow_6
+  - first:
+      213: -427770878405104148
+    second: classic_purple_octonid_shadow_7
+  - first:
+      213: -652497212120188399
+    second: classic_purple_octonid_shadow_8
+  - first:
+      213: 8302047478294597726
+    second: classic_purple_octonid_shadow_9
+  - first:
+      213: 7198342935487512263
+    second: classic_purple_octonid_shadow_10
+  - first:
+      213: 1535735254481345641
+    second: classic_purple_octonid_shadow_11
+  - first:
+      213: 1851731789129073353
+    second: classic_purple_octonid_shadow_12
+  - first:
+      213: -3042217116314829656
+    second: classic_purple_octonid_shadow_13
+  - first:
+      213: 2090166080373929931
+    second: classic_purple_octonid_shadow_14
+  - first:
+      213: 8164675798866908596
+    second: classic_purple_octonid_shadow_15
+  - first:
+      213: -5224013891108565845
+    second: classic_purple_octonid_shadow_16
+  - first:
+      213: -1046834879681021350
+    second: classic_purple_octonid_shadow_17
+  - first:
+      213: -3588177506999206094
+    second: classic_purple_octonid_shadow_18
+  - first:
+      213: -8732806031724114572
+    second: classic_purple_octonid_shadow_19
+  - first:
+      213: 227151060372569326
+    second: classic_purple_octonid_shadow_20
+  - first:
+      213: -5716335035000370114
+    second: classic_purple_octonid_shadow_21
+  - first:
+      213: 5604376483799510276
+    second: classic_purple_octonid_shadow_22
+  - first:
+      213: -325105645622157726
+    second: classic_purple_octonid_shadow_23
+  - first:
+      213: 5164377083701365633
+    second: classic_purple_octonid_shadow_24
+  - first:
+      213: 2868778393885454947
+    second: classic_purple_octonid_shadow_25
+  - first:
+      213: 2961840005536143539
+    second: classic_purple_octonid_shadow_26
+  - first:
+      213: -4686861890037803299
+    second: classic_purple_octonid_shadow_27
+  - first:
+      213: 625731273634274097
+    second: classic_purple_octonid_shadow_28
+  - first:
+      213: -8041895070087575620
+    second: classic_purple_octonid_shadow_29
+  - first:
+      213: -7505732092325042026
+    second: classic_purple_octonid_shadow_30
+  - first:
+      213: -8675566788454134161
+    second: classic_purple_octonid_shadow_31
+  - first:
+      213: -8803617261924797714
+    second: classic_purple_octonid_shadow_32
+  - first:
+      213: 6692150911022948988
+    second: classic_purple_octonid_shadow_33
+  - first:
+      213: -1437882060580677834
+    second: classic_purple_octonid_shadow_34
+  - first:
+      213: -1635961189448159741
+    second: classic_purple_octonid_shadow_35
+  - first:
+      213: 936573635078430695
+    second: classic_purple_octonid_shadow_36
+  - first:
+      213: 8522749055609283758
+    second: classic_purple_octonid_shadow_37
+  - first:
+      213: -1141589495984198560
+    second: classic_purple_octonid_shadow_38
+  - first:
+      213: 6534487536848081502
+    second: classic_purple_octonid_shadow_39
+  - first:
+      213: 976066332801553623
+    second: classic_purple_octonid_shadow_40
+  - first:
+      213: 4496008314608812451
+    second: classic_purple_octonid_shadow_41
+  - first:
+      213: -2761814665593142340
+    second: classic_purple_octonid_shadow_42
+  - first:
+      213: 1557522724913469425
+    second: classic_purple_octonid_shadow_43
+  - first:
+      213: -4411803288641092069
+    second: classic_purple_octonid_shadow_44
+  - first:
+      213: 3692691349057075378
+    second: classic_purple_octonid_shadow_45
+  - first:
+      213: -1663280695491868193
+    second: classic_purple_octonid_shadow_46
+  - first:
+      213: 8598601005749934058
+    second: classic_purple_octonid_shadow_47
+  - first:
+      213: 7842922086703102692
+    second: classic_purple_octonid_shadow_48
+  - first:
+      213: -6564695617675602011
+    second: classic_purple_octonid_shadow_49
+  - first:
+      213: -6367086232169011390
+    second: classic_purple_octonid_shadow_50
+  - first:
+      213: -4297156703610072738
+    second: classic_purple_octonid_shadow_51
+  - first:
+      213: 856583548578114328
+    second: classic_purple_octonid_shadow_52
+  - first:
+      213: 7713434888627022778
+    second: classic_purple_octonid_shadow_53
+  - first:
+      213: 3304826324241507617
+    second: classic_purple_octonid_shadow_54
+  - first:
+      213: -3761390998040768066
+    second: classic_purple_octonid_shadow_55
+  - first:
+      213: -2378214809054647686
+    second: classic_purple_octonid_shadow_56
+  - first:
+      213: 6609021445269505801
+    second: classic_purple_octonid_shadow_57
+  - first:
+      213: 7840025220665946033
+    second: classic_purple_octonid_shadow_58
+  - first:
+      213: -8256543149547133533
+    second: classic_purple_octonid_shadow_59
+  - first:
+      213: 7989082649335019800
+    second: classic_purple_octonid_shadow_60
+  - first:
+      213: -4783423699961783627
+    second: classic_purple_octonid_shadow_61
+  - first:
+      213: -4903275528863795447
+    second: classic_purple_octonid_shadow_62
+  - first:
+      213: -875903495091395152
+    second: classic_purple_octonid_shadow_63
+  - first:
+      213: 2835944257767091600
+    second: classic_purple_octonid_shadow_64
+  - first:
+      213: 9094894076666789802
+    second: classic_purple_octonid_shadow_65
+  - first:
+      213: -1252073524093342106
+    second: classic_purple_octonid_shadow_66
+  - first:
+      213: -7452743482940028973
+    second: classic_purple_octonid_shadow_67
+  - first:
+      213: 5715214481934810128
+    second: classic_purple_octonid_shadow_68
+  - first:
+      213: 8510510908136394028
+    second: classic_purple_octonid_shadow_69
+  - first:
+      213: -3481304898550064052
+    second: classic_purple_octonid_shadow_70
+  - first:
+      213: 3621242220403415460
+    second: classic_purple_octonid_shadow_71
+  - first:
+      213: -3460960792327657435
+    second: classic_purple_octonid_shadow_72
+  - first:
+      213: 6964120197421808615
+    second: classic_purple_octonid_shadow_73
+  - first:
+      213: 4456988213521870857
+    second: classic_purple_octonid_shadow_74
+  - first:
+      213: 5954285945792728868
+    second: classic_purple_octonid_shadow_75
+  - first:
+      213: -6944781336695456349
+    second: classic_purple_octonid_shadow_76
+  - first:
+      213: 3442915302766688310
+    second: classic_purple_octonid_shadow_77
+  - first:
+      213: 8062507911573707085
+    second: classic_purple_octonid_shadow_78
+  - first:
+      213: -6016719624791035589
+    second: classic_purple_octonid_shadow_79
+  - first:
+      213: -6473823635285210582
+    second: classic_purple_octonid_shadow_80
+  - first:
+      213: -242538720289736505
+    second: classic_purple_octonid_shadow_81
+  - first:
+      213: 5308929213322560563
+    second: classic_purple_octonid_shadow_82
+  - first:
+      213: 7860708565991966722
+    second: classic_purple_octonid_shadow_83
+  - first:
+      213: -3416115454664935507
+    second: classic_purple_octonid_shadow_84
+  - first:
+      213: 1518583984861182801
+    second: classic_purple_octonid_shadow_85
+  - first:
+      213: -2761128409506079933
+    second: classic_purple_octonid_shadow_86
+  - first:
+      213: 5427069635024062101
+    second: classic_purple_octonid_shadow_87
+  - first:
+      213: -2549928078392041015
+    second: classic_purple_octonid_shadow_88
+  - first:
+      213: -1145940870254846110
+    second: classic_purple_octonid_shadow_89
+  - first:
+      213: 7188680789955909724
+    second: classic_purple_octonid_shadow_90
+  - first:
+      213: -1658588309020848097
+    second: classic_purple_octonid_shadow_91
+  - first:
+      213: -1016233820881769966
+    second: classic_purple_octonid_shadow_92
+  - first:
+      213: -4966001900165246916
+    second: classic_purple_octonid_shadow_93
+  - first:
+      213: 2220186088269875665
+    second: classic_purple_octonid_shadow_94
+  - first:
+      213: -3075947429760560525
+    second: classic_purple_octonid_shadow_95
+  - first:
+      213: 2107831975040358407
+    second: classic_purple_octonid_shadow_96
+  - first:
+      213: 4432949373273366060
+    second: classic_purple_octonid_shadow_97
+  - first:
+      213: 6232894395944104606
+    second: classic_purple_octonid_shadow_98
+  - first:
+      213: -8251462763478459727
+    second: classic_purple_octonid_shadow_99
+  - first:
+      213: 7945311826283842672
+    second: classic_purple_octonid_shadow_100
+  - first:
+      213: 3042713627474389032
+    second: classic_purple_octonid_shadow_101
+  - first:
+      213: -3309350134264683725
+    second: classic_purple_octonid_shadow_102
+  - first:
+      213: 533167297492906939
+    second: classic_purple_octonid_shadow_103
+  - first:
+      213: -1034043214050990829
+    second: classic_purple_octonid_shadow_104
+  - first:
+      213: -7449639731158759843
+    second: classic_purple_octonid_shadow_105
+  - first:
+      213: -5810338102338090418
+    second: classic_purple_octonid_shadow_106
+  - first:
+      213: 7770792593145940590
+    second: classic_purple_octonid_shadow_107
+  - first:
+      213: 8918982712122548652
+    second: classic_purple_octonid_shadow_108
+  - first:
+      213: 2171007239496804487
+    second: classic_purple_octonid_shadow_109
+  - first:
+      213: -2868022211489392125
+    second: classic_purple_octonid_shadow_110
+  - first:
+      213: -6177857460140720988
+    second: classic_purple_octonid_shadow_111
+  - first:
+      213: 8540683275984304261
+    second: classic_purple_octonid_shadow_112
+  - first:
+      213: 9173882460142547385
+    second: classic_purple_octonid_shadow_113
+  - first:
+      213: 2924302762314450002
+    second: classic_purple_octonid_shadow_114
+  - first:
+      213: 1449104319158556966
+    second: classic_purple_octonid_shadow_115
+  - first:
+      213: 7252175841864353042
+    second: classic_purple_octonid_shadow_116
+  - first:
+      213: -6199614883054068786
+    second: classic_purple_octonid_shadow_117
+  - first:
+      213: -1769375301565453116
+    second: classic_purple_octonid_shadow_118
+  - first:
+      213: -8561887730054683933
+    second: classic_purple_octonid_shadow_119
+  - first:
+      213: -3792852353374135909
+    second: classic_purple_octonid_shadow_120
+  - first:
+      213: 1906557600789775056
+    second: classic_purple_octonid_shadow_121
+  - first:
+      213: 8484318013763490395
+    second: classic_purple_octonid_shadow_122
+  - first:
+      213: -20415346492211558
+    second: classic_purple_octonid_shadow_123
+  - first:
+      213: -9204722648661314095
+    second: classic_purple_octonid_shadow_124
+  - first:
+      213: 1888793886147434453
+    second: classic_purple_octonid_shadow_125
+  - first:
+      213: 7168695683452144786
+    second: classic_purple_octonid_shadow_126
+  - first:
+      213: -5092645398474687646
+    second: classic_purple_octonid_shadow_127
+  - first:
+      213: 6561488217852034983
+    second: classic_purple_octonid_shadow_128
+  - first:
+      213: -5373898673165637566
+    second: classic_purple_octonid_shadow_129
+  - first:
+      213: -302321140863071190
+    second: classic_purple_octonid_shadow_130
+  - first:
+      213: 4404603366526954326
+    second: classic_purple_octonid_shadow_131
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1235
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 696e226bcb4c971f0800000000000000
+      internalID: -1046589123598293354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1235
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88af949e2ad435510800000000000000
+      internalID: 1536657259957451400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1235
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a3b4c9d1a00f800800000000000000
+      internalID: 644025869006486145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_3
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1235
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 196a28c50df6eeca0800000000000000
+      internalID: -5985723914032863599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_4
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1235
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc475996432e8a00800000000000000
+      internalID: 760584173199510782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_5
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1235
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d904e45663444e6c0800000000000000
+      internalID: -4115089159091240803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_6
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1235
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecbc3edabed605e40800000000000000
+      internalID: 5643131192097360846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_7
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1235
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ced286b07a0401af0800000000000000
+      internalID: -427770878405104148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_8
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1171
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ab4ae1e3dd1f6f0800000000000000
+      internalID: -652497212120188399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_9
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1171
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e505d24023cc63370800000000000000
+      internalID: 8302047478294597726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_10
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1171
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cefc29e2c6a5e360800000000000000
+      internalID: 7198342935487512263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_11
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1171
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c9768c317005510800000000000000
+      internalID: 1535735254481345641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_12
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1171
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c24656504ca2b910800000000000000
+      internalID: 1851731789129073353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_13
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1171
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8acf07ca6afd7c5d0800000000000000
+      internalID: -3042217116314829656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_14
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1171
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc73246d9f2c10d10800000000000000
+      internalID: 2090166080373929931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_15
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1171
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b5d0b97161ce4170800000000000000
+      internalID: 8164675798866908596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_16
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1107
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac84c64b039087b0800000000000000
+      internalID: -5224013891108565845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_17
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1107
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5abf1a2935e871f0800000000000000
+      internalID: -1046834879681021350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_18
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1107
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23ff340819b343ec0800000000000000
+      internalID: -3588177506999206094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_19
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1043
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d02babe27dec680800000000000000
+      internalID: -8732806031724114572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_20
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1042
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eec3cd79fa0072300800000000000000
+      internalID: 227151060372569326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_21
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1042
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ccea5729f7ba0b0800000000000000
+      internalID: -5716335035000370114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_22
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1042
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40d2c6008beb6cd40800000000000000
+      internalID: 5604376483799510276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_23
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1043
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e9736432efc7bf0800000000000000
+      internalID: -325105645622157726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_24
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1044
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b0038789d8ba740800000000000000
+      internalID: 5164377083701365633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_25
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1044
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 362bbd2ffb2ffc720800000000000000
+      internalID: 2868778393885454947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_26
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 980
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b8d583eac19a1920800000000000000
+      internalID: 2961840005536143539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_27
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 980
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd61bfc61fbe4feb0800000000000000
+      internalID: -4686861890037803299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_28
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 979
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13bd2d1374b0fa800800000000000000
+      internalID: 625731273634274097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_29
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 978
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb70772aa03756090800000000000000
+      internalID: -8041895070087575620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_30
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 978
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69867b9dd6846d790800000000000000
+      internalID: -7505732092325042026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_31
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 978
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ec30598f13a9780800000000000000
+      internalID: -8675566788454134161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_32
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 979
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee2b97c6eb443d580800000000000000
+      internalID: -8803617261924797714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_33
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 915
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7264da0ccb4fdc50800000000000000
+      internalID: 6692150911022948988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_34
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 915
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6379e2652ed9b0ce0800000000000000
+      internalID: -1437882060580677834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_35
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 915
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30eed9447f5eb49e0800000000000000
+      internalID: -1635961189448159741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_36
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 915
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef98d842c06ffc00800000000000000
+      internalID: 936573635078430695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_37
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 915
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea423615c13e64670800000000000000
+      internalID: 8522749055609283758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_38
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 915
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c6b8cd6624820f0800000000000000
+      internalID: -1141589495984198560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_39
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 915
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e521c072bc92faa50800000000000000
+      internalID: 6534487536848081502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_40
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 915
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d4dad3882fab8d00800000000000000
+      internalID: 976066332801553623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_41
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 851
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a10673cdb7056e30800000000000000
+      internalID: 4496008314608812451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_42
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 851
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb34bd1c1301ca9d0800000000000000
+      internalID: -2761814665593142340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_43
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 851
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f7d01c8aae6d9510800000000000000
+      internalID: 1557522724913469425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_44
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 851
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b16c5a1a84026c2c0800000000000000
+      internalID: -4411803288641092069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_45
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 851
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b874bd97331f3330800000000000000
+      internalID: 3692691349057075378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_46
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 851
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd941771507dae8e0800000000000000
+      internalID: -1663280695491868193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_47
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 851
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae79a01be0e545770800000000000000
+      internalID: 8598601005749934058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_48
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 851
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eaf0039518a7dc60800000000000000
+      internalID: 7842922086703102692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_49
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 786
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a7d1e1fd1485e4a0800000000000000
+      internalID: -6564695617675602011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_50
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 786
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 247294d5ec093a7a0800000000000000
+      internalID: -6367086232169011390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_51
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 787
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e511221debe6d54c0800000000000000
+      internalID: -4297156703610072738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_52
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 720
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b2175f23233eb00800000000000000
+      internalID: 856583548578114328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_53
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 720
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abbe7b6e920ab0b60800000000000000
+      internalID: 7713434888627022778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_54
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 720
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12566cc380a1ddd20800000000000000
+      internalID: 3304826324241507617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_55
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 720
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb19d64e0dadccbc0800000000000000
+      internalID: -3761390998040768066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_56
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 719
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a69b24b32eefed0800000000000000
+      internalID: -2378214809054647686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_57
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 723
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9074a360df5f7bb50800000000000000
+      internalID: 6609021445269505801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_58
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 723
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bfa5e3666d5dcc60800000000000000
+      internalID: 7840025220665946033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_59
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 659
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a5ee8220cdda6d80800000000000000
+      internalID: -8256543149547133533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_60
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 659
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 819b9d2775ceede60800000000000000
+      internalID: 7989082649335019800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_61
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 655
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bad7911d7ddd9db0800000000000000
+      internalID: -4783423699961783627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_62
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 656
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 907353a92e014fbb0800000000000000
+      internalID: -4903275528863795447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_63
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 656
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b5ed85796a28d3f0800000000000000
+      internalID: -875903495091395152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_64
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 656
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d2407e64c4b5720800000000000000
+      internalID: 2835944257767091600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_65
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 656
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaf3785d9fd873e70800000000000000
+      internalID: 9094894076666789802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_66
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 595
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66eaebb73cdbf9ee0800000000000000
+      internalID: -1252073524093342106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_67
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 595
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d78041e949829890800000000000000
+      internalID: -7452743482940028973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_68
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 595
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c74e27a45805f40800000000000000
+      internalID: 5715214481934810128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_69
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 595
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d8e8094986b1670800000000000000
+      internalID: 8510510908136394028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_70
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 595
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c9817b3abefafc0800000000000000
+      internalID: -3481304898550064052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_71
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 595
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a9dac00d9c314230800000000000000
+      internalID: 3621242220403415460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_72
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 595
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52861cf0f7238ffc0800000000000000
+      internalID: -3460960792327657435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_73
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 595
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb337c0c6685a060800000000000000
+      internalID: 6964120197421808615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_74
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 531
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 900f2138a276add30800000000000000
+      internalID: 4456988213521870857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_75
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 531
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f8312458fd1a250800000000000000
+      internalID: 5954285945792728868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_76
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 531
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ad31875b2e2f9f90800000000000000
+      internalID: -6944781336695456349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_77
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 531
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6383a2df931b7cf20800000000000000
+      internalID: 3442915302766688310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_78
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 531
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4990248a38c3ef60800000000000000
+      internalID: 8062507911573707085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_79
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 531
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3175331161508ca0800000000000000
+      internalID: -6016719624791035589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_80
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 531
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a0c4814bb5826a0800000000000000
+      internalID: -6473823635285210582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_81
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 531
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c83ad4a15452acf0800000000000000
+      internalID: -242538720289736505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_82
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 467
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33409c9ddfa1da940800000000000000
+      internalID: 5308929213322560563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_83
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 467
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20842defac8d61d60800000000000000
+      internalID: 7860708565991966722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_84
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 467
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da779f4e7158790d0800000000000000
+      internalID: -3416115454664935507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_85
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 403
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15b7f33a618131510800000000000000
+      internalID: 1518583984861182801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_86
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 402
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b962437508ea9d0800000000000000
+      internalID: -2761128409506079933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_87
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 402
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5960be64413d05b40800000000000000
+      internalID: 5427069635024062101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_88
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 402
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1e5ac3ce5dc9cd0800000000000000
+      internalID: -2549928078392041015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_89
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 401
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f9bd699dcc810f0800000000000000
+      internalID: -1145940870254846110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_90
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 404
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c581ff8571353c360800000000000000
+      internalID: 7188680789955909724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_91
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 404
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f10523478b28bf8e0800000000000000
+      internalID: -1658588309020848097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_92
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 340
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21aaa9169bc95e1f0800000000000000
+      internalID: -1016233820881769966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_93
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 340
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c305cb23597351bb0800000000000000
+      internalID: -4966001900165246916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_94
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 337
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d90796fb7fafce10800000000000000
+      internalID: 2220186088269875665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_95
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 338
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37298551c1a0055d0800000000000000
+      internalID: -3075947429760560525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_96
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 338
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7089d767306804d10800000000000000
+      internalID: 2107831975040358407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_97
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 338
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2edf3dd7fff48d30800000000000000
+      internalID: 4432949373273366060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_98
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 339
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9275c80e60bf7650800000000000000
+      internalID: 6232894395944104606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_99
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 275
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bad081b55aec7d80800000000000000
+      internalID: -8251462763478459727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_100
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 275
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ccb5b820b634e60800000000000000
+      internalID: 7945311826283842672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_101
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 275
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 828e9d65ce3e93a20800000000000000
+      internalID: 3042713627474389032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_102
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 275
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33323c92693d212d0800000000000000
+      internalID: -3309350134264683725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_103
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 275
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb37bec05d0366700800000000000000
+      internalID: 533167297492906939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_104
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 275
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3156618ec2756a1f0800000000000000
+      internalID: -1034043214050990829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_105
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 275
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5645a762209d9890800000000000000
+      internalID: -7449639731158759843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_106
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 275
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a8839c7488d5fa0800000000000000
+      internalID: -5810338102338090418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_107
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 211
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a43b921b667db60800000000000000
+      internalID: 7770792593145940590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_108
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 211
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca12ae9958796cb70800000000000000
+      internalID: 8918982712122548652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_109
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 211
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7882203f497f02e10800000000000000
+      internalID: 2171007239496804487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_110
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 211
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a9e3c7efcb238d0800000000000000
+      internalID: -2868022211489392125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_111
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 211
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4acb0572f57d34aa0800000000000000
+      internalID: -6177857460140720988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_112
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 211
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 588f924603a968670800000000000000
+      internalID: 8540683275984304261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_113
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 211
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b1bbfffd7d205f70800000000000000
+      internalID: 9173882460142547385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_114
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 211
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25442736ed5359820800000000000000
+      internalID: 2924302762314450002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_115
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 146
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6291ee953b04c1410800000000000000
+      internalID: 1449104319158556966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_116
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 146
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2158ef62187e4a460800000000000000
+      internalID: 7252175841864353042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_117
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 147
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb565f5c1b86f9a0800000000000000
+      internalID: -6199614883054068786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_118
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 80
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc67dba98ae177e0800000000000000
+      internalID: -1769375301565453116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_119
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 80
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e2a05be8701e2980800000000000000
+      internalID: -8561887730054683933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_120
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 80
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9951a741e41d5bc0800000000000000
+      internalID: -3792852353374135909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_121
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 80
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d245ea5904757a10800000000000000
+      internalID: 1906557600789775056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_122
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 79
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5212db184a5eb570800000000000000
+      internalID: 8484318013763490395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_123
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 83
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e7d5cb95877bff0800000000000000
+      internalID: -20415346492211558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_124
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 83
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d5bc8e0581424080800000000000000
+      internalID: -9204722648661314095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_125
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 19
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d75fbd3808563a10800000000000000
+      internalID: 1888793886147434453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_126
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 19
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c8a032eb25c7360800000000000000
+      internalID: 7168695683452144786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_127
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 15
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b73e8fdf94359b0800000000000000
+      internalID: -5092645398474687646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_128
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 16
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7af3bf615c61f0b50800000000000000
+      internalID: 6561488217852034983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_129
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 16
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 248e40ff0a31c65b0800000000000000
+      internalID: -5373898673165637566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_130
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 16
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c04ce2680fdcbf0800000000000000
+      internalID: -302321140863071190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_purple_octonid_shadow_131
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 16
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b245edc6b402d30800000000000000
+      internalID: 4404603366526954326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      classic_purple_octonid_shadow_0: -1046589123598293354
+      classic_purple_octonid_shadow_1: 1536657259957451400
+      classic_purple_octonid_shadow_10: 7198342935487512263
+      classic_purple_octonid_shadow_100: 7945311826283842672
+      classic_purple_octonid_shadow_101: 3042713627474389032
+      classic_purple_octonid_shadow_102: -3309350134264683725
+      classic_purple_octonid_shadow_103: 533167297492906939
+      classic_purple_octonid_shadow_104: -1034043214050990829
+      classic_purple_octonid_shadow_105: -7449639731158759843
+      classic_purple_octonid_shadow_106: -5810338102338090418
+      classic_purple_octonid_shadow_107: 7770792593145940590
+      classic_purple_octonid_shadow_108: 8918982712122548652
+      classic_purple_octonid_shadow_109: 2171007239496804487
+      classic_purple_octonid_shadow_11: 1535735254481345641
+      classic_purple_octonid_shadow_110: -2868022211489392125
+      classic_purple_octonid_shadow_111: -6177857460140720988
+      classic_purple_octonid_shadow_112: 8540683275984304261
+      classic_purple_octonid_shadow_113: 9173882460142547385
+      classic_purple_octonid_shadow_114: 2924302762314450002
+      classic_purple_octonid_shadow_115: 1449104319158556966
+      classic_purple_octonid_shadow_116: 7252175841864353042
+      classic_purple_octonid_shadow_117: -6199614883054068786
+      classic_purple_octonid_shadow_118: -1769375301565453116
+      classic_purple_octonid_shadow_119: -8561887730054683933
+      classic_purple_octonid_shadow_12: 1851731789129073353
+      classic_purple_octonid_shadow_120: -3792852353374135909
+      classic_purple_octonid_shadow_121: 1906557600789775056
+      classic_purple_octonid_shadow_122: 8484318013763490395
+      classic_purple_octonid_shadow_123: -20415346492211558
+      classic_purple_octonid_shadow_124: -9204722648661314095
+      classic_purple_octonid_shadow_125: 1888793886147434453
+      classic_purple_octonid_shadow_126: 7168695683452144786
+      classic_purple_octonid_shadow_127: -5092645398474687646
+      classic_purple_octonid_shadow_128: 6561488217852034983
+      classic_purple_octonid_shadow_129: -5373898673165637566
+      classic_purple_octonid_shadow_13: -3042217116314829656
+      classic_purple_octonid_shadow_130: -302321140863071190
+      classic_purple_octonid_shadow_131: 4404603366526954326
+      classic_purple_octonid_shadow_14: 2090166080373929931
+      classic_purple_octonid_shadow_15: 8164675798866908596
+      classic_purple_octonid_shadow_16: -5224013891108565845
+      classic_purple_octonid_shadow_17: -1046834879681021350
+      classic_purple_octonid_shadow_18: -3588177506999206094
+      classic_purple_octonid_shadow_19: -8732806031724114572
+      classic_purple_octonid_shadow_2: 644025869006486145
+      classic_purple_octonid_shadow_20: 227151060372569326
+      classic_purple_octonid_shadow_21: -5716335035000370114
+      classic_purple_octonid_shadow_22: 5604376483799510276
+      classic_purple_octonid_shadow_23: -325105645622157726
+      classic_purple_octonid_shadow_24: 5164377083701365633
+      classic_purple_octonid_shadow_25: 2868778393885454947
+      classic_purple_octonid_shadow_26: 2961840005536143539
+      classic_purple_octonid_shadow_27: -4686861890037803299
+      classic_purple_octonid_shadow_28: 625731273634274097
+      classic_purple_octonid_shadow_29: -8041895070087575620
+      classic_purple_octonid_shadow_3: -5985723914032863599
+      classic_purple_octonid_shadow_30: -7505732092325042026
+      classic_purple_octonid_shadow_31: -8675566788454134161
+      classic_purple_octonid_shadow_32: -8803617261924797714
+      classic_purple_octonid_shadow_33: 6692150911022948988
+      classic_purple_octonid_shadow_34: -1437882060580677834
+      classic_purple_octonid_shadow_35: -1635961189448159741
+      classic_purple_octonid_shadow_36: 936573635078430695
+      classic_purple_octonid_shadow_37: 8522749055609283758
+      classic_purple_octonid_shadow_38: -1141589495984198560
+      classic_purple_octonid_shadow_39: 6534487536848081502
+      classic_purple_octonid_shadow_4: 760584173199510782
+      classic_purple_octonid_shadow_40: 976066332801553623
+      classic_purple_octonid_shadow_41: 4496008314608812451
+      classic_purple_octonid_shadow_42: -2761814665593142340
+      classic_purple_octonid_shadow_43: 1557522724913469425
+      classic_purple_octonid_shadow_44: -4411803288641092069
+      classic_purple_octonid_shadow_45: 3692691349057075378
+      classic_purple_octonid_shadow_46: -1663280695491868193
+      classic_purple_octonid_shadow_47: 8598601005749934058
+      classic_purple_octonid_shadow_48: 7842922086703102692
+      classic_purple_octonid_shadow_49: -6564695617675602011
+      classic_purple_octonid_shadow_5: -4115089159091240803
+      classic_purple_octonid_shadow_50: -6367086232169011390
+      classic_purple_octonid_shadow_51: -4297156703610072738
+      classic_purple_octonid_shadow_52: 856583548578114328
+      classic_purple_octonid_shadow_53: 7713434888627022778
+      classic_purple_octonid_shadow_54: 3304826324241507617
+      classic_purple_octonid_shadow_55: -3761390998040768066
+      classic_purple_octonid_shadow_56: -2378214809054647686
+      classic_purple_octonid_shadow_57: 6609021445269505801
+      classic_purple_octonid_shadow_58: 7840025220665946033
+      classic_purple_octonid_shadow_59: -8256543149547133533
+      classic_purple_octonid_shadow_6: 5643131192097360846
+      classic_purple_octonid_shadow_60: 7989082649335019800
+      classic_purple_octonid_shadow_61: -4783423699961783627
+      classic_purple_octonid_shadow_62: -4903275528863795447
+      classic_purple_octonid_shadow_63: -875903495091395152
+      classic_purple_octonid_shadow_64: 2835944257767091600
+      classic_purple_octonid_shadow_65: 9094894076666789802
+      classic_purple_octonid_shadow_66: -1252073524093342106
+      classic_purple_octonid_shadow_67: -7452743482940028973
+      classic_purple_octonid_shadow_68: 5715214481934810128
+      classic_purple_octonid_shadow_69: 8510510908136394028
+      classic_purple_octonid_shadow_7: -427770878405104148
+      classic_purple_octonid_shadow_70: -3481304898550064052
+      classic_purple_octonid_shadow_71: 3621242220403415460
+      classic_purple_octonid_shadow_72: -3460960792327657435
+      classic_purple_octonid_shadow_73: 6964120197421808615
+      classic_purple_octonid_shadow_74: 4456988213521870857
+      classic_purple_octonid_shadow_75: 5954285945792728868
+      classic_purple_octonid_shadow_76: -6944781336695456349
+      classic_purple_octonid_shadow_77: 3442915302766688310
+      classic_purple_octonid_shadow_78: 8062507911573707085
+      classic_purple_octonid_shadow_79: -6016719624791035589
+      classic_purple_octonid_shadow_8: -652497212120188399
+      classic_purple_octonid_shadow_80: -6473823635285210582
+      classic_purple_octonid_shadow_81: -242538720289736505
+      classic_purple_octonid_shadow_82: 5308929213322560563
+      classic_purple_octonid_shadow_83: 7860708565991966722
+      classic_purple_octonid_shadow_84: -3416115454664935507
+      classic_purple_octonid_shadow_85: 1518583984861182801
+      classic_purple_octonid_shadow_86: -2761128409506079933
+      classic_purple_octonid_shadow_87: 5427069635024062101
+      classic_purple_octonid_shadow_88: -2549928078392041015
+      classic_purple_octonid_shadow_89: -1145940870254846110
+      classic_purple_octonid_shadow_9: 8302047478294597726
+      classic_purple_octonid_shadow_90: 7188680789955909724
+      classic_purple_octonid_shadow_91: -1658588309020848097
+      classic_purple_octonid_shadow_92: -1016233820881769966
+      classic_purple_octonid_shadow_93: -4966001900165246916
+      classic_purple_octonid_shadow_94: 2220186088269875665
+      classic_purple_octonid_shadow_95: -3075947429760560525
+      classic_purple_octonid_shadow_96: 2107831975040358407
+      classic_purple_octonid_shadow_97: 4432949373273366060
+      classic_purple_octonid_shadow_98: 6232894395944104606
+      classic_purple_octonid_shadow_99: -8251462763478459727
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

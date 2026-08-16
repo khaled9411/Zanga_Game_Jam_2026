@@ -17,6 +17,10 @@ public class EnemyAI : MonoBehaviour
     [Header("Contact Damage")]
     [SerializeField] private float damageCooldown = 1f; // seconds between contact hits while touching
 
+    [Header("Chase")]
+    [SerializeField] private float stopChaseDistance = 0.6f; // stop moving once this close, prevents jitter/overlap
+
+
     private int currentHits = 0;
     private Transform player;
     private Rigidbody2D rb;
@@ -72,9 +76,14 @@ public class EnemyAI : MonoBehaviour
             Patrol();
         }
     }
-
     private void ChasePlayer()
     {
+        float dist = Vector2.Distance(rb.position, player.position);
+        if (dist <= stopChaseDistance)
+        {
+            return; // close enough — stop pushing into the player, contact damage still applies via trigger
+        }
+
         Vector2 dir = ((Vector2)player.position - rb.position).normalized;
         MoveAndRotate(dir, data.moveSpeed);
     }

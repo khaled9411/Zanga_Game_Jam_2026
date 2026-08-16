@@ -1,10 +1,6 @@
 using System.Collections;
 using UnityEngine;
 
-/// <summary>
-/// Handles camera punch-zoom on attack and shake on rewind key-mash.
-/// Attach to Main Camera alongside CameraFollow.
-/// </summary>
 [RequireComponent(typeof(Camera))]
 public class CameraEffects : MonoBehaviour
 {
@@ -16,11 +12,16 @@ public class CameraEffects : MonoBehaviour
     [SerializeField] private float shakeAmount = 0.15f;
     [SerializeField] private float shakeDuration = 0.1f;
 
+    [Header("Death Zoom")]
+    [SerializeField] private float deathZoomTargetSize = 2.5f;
+    [SerializeField] private float deathZoomDuration = 1.2f;
+    [SerializeField] private CameraFollow cameraFollow; // drag the same Main Camera's CameraFollow here
+
     private Camera cam;
     private float baseOrthoSize;
     private Coroutine zoomRoutine;
     private Coroutine shakeRoutine;
-    private Vector3 shakeOriginPos;
+    private Coroutine deathZoomRoutine;
 
     private void Awake()
     {
@@ -32,12 +33,14 @@ public class CameraEffects : MonoBehaviour
     {
         GameEvents.OnWeaponAttackUsed += HandleAttackUsed;
         GameEvents.OnRewindKeyPressed += HandleRewindKeyPressed;
+        GameEvents.OnHeartsChanged += HandleHeartsChanged;
     }
 
     private void OnDisable()
     {
         GameEvents.OnWeaponAttackUsed -= HandleAttackUsed;
         GameEvents.OnRewindKeyPressed -= HandleRewindKeyPressed;
+        GameEvents.OnHeartsChanged -= HandleHeartsChanged;
     }
 
     private void HandleAttackUsed()
@@ -91,5 +94,44 @@ public class CameraEffects : MonoBehaviour
         }
 
         transform.localPosition = originalLocalPos;
+    }
+
+    private void HandleHeartsChanged(int hearts)
+    {
+        if (hearts <= 0)
+        {
+            if (deathZoomRoutine != null) StopCoroutine(deathZoomRoutine);
+            deathZoomRoutine = StartCoroutine(DeathZoom());
+        }
+    }
+
+
+    private IEnumerator DeathZoom()
+    {
+        if (cameraFollow != null)
+            cameraFollow.enabled = false; // stop the lagged follow so our direct move isn't fought
+
+        Transform target = cameraFollow != null ? cameraFollow.GetTarget() : null;
+
+        float t = 0f;
+        float startSize = cam.orthographicSize;
+        Vector3 startPos = transform.position;
+        Vector3 targetPos = target != null
+            ? new Vector3(target.position.x, target.position.y, transform.position.z)
+            : transform.position;
+
+        while (t < deathZoomDuration)
+        {
+            t += Time.unscaledDeltaTime;
+            float progress = t / deathZoomDuration;
+
+            cam.orthographicSize = Mathf.Lerp(startSize, deathZoomTargetSize, progress);
+            transform.position = Vector3.Lerp(startPos, targetPos, progress);
+
+            yield return null;
+        }
+
+        cam.orthographicSize = deathZoomTargetSize;
+        transform.position = targetPos;
     }
 }

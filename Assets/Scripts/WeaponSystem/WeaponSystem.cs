@@ -63,7 +63,8 @@ public class WeaponSystem : MonoBehaviour
     {
         if (currentCharges <= 0) return;
 
-        // Simple radius hit — no facing/cone check for now
+        Vector2 facing = playerController != null ? playerController.GetFacingDirection() : Vector2.down;
+
         Collider2D[] hits = Physics2D.OverlapCircleAll(transform.position, currentWeapon.attackRange, enemyLayer);
         HashSet<EnemyAI> alreadyHit = new HashSet<EnemyAI>();
         int hitCount = 0;
@@ -71,15 +72,20 @@ public class WeaponSystem : MonoBehaviour
         foreach (var hit in hits)
         {
             Vector2 dirToEnemy = (hit.transform.position - transform.position).normalized;
-            EnemyAI enemy = hit.GetComponent<EnemyAI>();
-            if (enemy != null && alreadyHit.Add(enemy))
+            float angle = Vector2.Angle(facing, dirToEnemy);
+
+            if (angle <= currentWeapon.attackConeAngle / 2f)
             {
-                enemy.TakeHit(dirToEnemy);
-                hitCount++;
+                EnemyAI enemy = hit.GetComponent<EnemyAI>();
+                if (enemy != null && alreadyHit.Add(enemy))
+                {
+                    enemy.TakeHit(dirToEnemy);
+                    hitCount++;
+                }
             }
         }
 
-        Debug.Log($"Attack fired — hit {hitCount} enemies, range {currentWeapon.attackRange}. Charges left: {currentCharges - 1}");
+        Debug.Log($"Attack fired — hit {hitCount} enemies (cone {currentWeapon.attackConeAngle}°, range {currentWeapon.attackRange})");
         GameEvents.TriggerWeaponAttackUsed();
 
         currentCharges--;

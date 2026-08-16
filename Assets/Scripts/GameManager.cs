@@ -15,6 +15,10 @@ public class GameManager : MonoBehaviour
     private float remainingSeconds;
     private float secondsPerDream;
 
+    [Header("Death Delay")]
+    [SerializeField] private float deathScreenDelay = 4f;
+
+
     private bool gameStarted = false;
     private bool gameEnded = false;
     private bool isPaused = false;
@@ -53,6 +57,7 @@ public class GameManager : MonoBehaviour
 
     private void HandleGameStarted()
     {
+        CancelInvoke(nameof(ShowLoseScreen));
         rewindWindowOpen = false;
         currentHearts = maxHearts;
         currentDream = 1;
@@ -188,6 +193,13 @@ public class GameManager : MonoBehaviour
         gameEnded = true;
         gameStarted = false;
         Time.timeScale = 1f;
+
+        Debug.Log($"Player died — lose screen in {deathScreenDelay}s");
+        Invoke(nameof(ShowLoseScreen), deathScreenDelay);
+    }
+
+    private void ShowLoseScreen()
+    {
         GameEvents.TriggerGameLost();
     }
 

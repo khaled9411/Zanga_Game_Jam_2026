@@ -989,6 +989,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1696450162004410996, guid: 6d32db3dad0de6f458d2441dffca043c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.06
+      objectReference: {fileID: 0}
     - target: {fileID: 7991986315963607739, guid: 6d32db3dad0de6f458d2441dffca043c, type: 3}
       propertyPath: m_Name
       value: Player
@@ -1256,7 +1260,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5ccd2ba45df87bd4eb02cde9f5bfb130, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::CameraFollow
-  target: {fileID: 0}
+  target: {fileID: 975361707}
   smoothTime: 0.35
   offset: {x: 0, y: 0, z: -10}
 --- !u!114 &519420034
@@ -1275,6 +1279,9 @@ MonoBehaviour:
   zoomPunchDuration: 0.15
   shakeAmount: 0.3
   shakeDuration: 0.15
+  deathZoomTargetSize: 2.5
+  deathZoomDuration: 1.2
+  cameraFollow: {fileID: 519420033}
 --- !u!1 &556109455
 GameObject:
   m_ObjectHideFlags: 0
@@ -1444,6 +1451,7 @@ MonoBehaviour:
   maxHearts: 3
   totalDreams: 4
   totalGameSeconds: 360
+  deathScreenDelay: 4
 --- !u!4 &562907141
 Transform:
   m_ObjectHideFlags: 0
@@ -2696,6 +2704,11 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 972784530}
   m_CullTransparentMesh: 1
+--- !u!4 &975361707 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 153373246037462885, guid: 6d32db3dad0de6f458d2441dffca043c, type: 3}
+  m_PrefabInstance: {fileID: 478871288}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &991798347
 GameObject:
   m_ObjectHideFlags: 0

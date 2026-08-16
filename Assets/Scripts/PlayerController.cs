@@ -18,18 +18,44 @@ public class PlayerController : MonoBehaviour
     private static readonly int MovingParam = Animator.StringToHash("Moving");
     private static readonly int XParam = Animator.StringToHash("X");
     private static readonly int YParam = Animator.StringToHash("Y");
+    private static readonly int HurtParam = Animator.StringToHash("Hurt");
+    private static readonly int DeathParam = Animator.StringToHash("Death");
 
     private Rigidbody2D rb;
     private Vector2 moveInput;
     private Vector2 lastMoveDir = Vector2.down;
+    private bool isDead = false;
 
     private void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
     }
 
+    private void OnEnable()
+    {
+        GameEvents.OnRequestTakeDamage += HandleTookDamage;
+        GameEvents.OnHeartsChanged += HandleHeartsChanged;
+    }
+
+    private void OnDisable()
+    {
+        GameEvents.OnRequestTakeDamage -= HandleTookDamage;
+        GameEvents.OnHeartsChanged -= HandleHeartsChanged;
+    }
+
+
+    private void HandleHeartsChanged(int hearts)
+    {
+        if (hearts <= 0 && !isDead)
+        {
+            HandlePlayerDeath();
+        }
+    }
+
     public void OnMove(InputValue value)
     {
+        if (isDead) return;
+
         moveInput = value.Get<Vector2>();
         if (moveInput.sqrMagnitude > 0.01f)
             lastMoveDir = moveInput.normalized;
@@ -37,7 +63,7 @@ public class PlayerController : MonoBehaviour
 
     public void OnInteract(InputValue value)
     {
-        if (!value.isPressed) return;
+        if (isDead || !value.isPressed) return;
         TryInteract();
     }
 
@@ -47,24 +73,26 @@ public class PlayerController : MonoBehaviour
         if (hit == null) return;
     }
 
+    private void Update()
+    {
+        UpdateAnimator();
+    }
+
     private void FixedUpdate()
     {
-        rb.MovePosition(rb.position + moveInput.normalized * moveSpeed * Time.fixedDeltaTime);
-        UpdateAnimator();
+        if (isDead) return;
 
+        rb.MovePosition(rb.position + moveInput.normalized * moveSpeed * Time.fixedDeltaTime);
         GameEvents.TriggerPlayerPositionChanged(rb.position);
     }
 
     private void UpdateAnimator()
     {
+        if (animator == null || isDead) return;
+
         bool isMoving = moveInput.sqrMagnitude > 0.01f;
-
-        if (animator == null) return;
-
         animator.SetBool(MovingParam, isMoving);
 
-        // Feed the blend tree X as always-positive (so it always samples the Right pose),
-        // and mirror visually via flipX when actually facing left.
         float blendX = Mathf.Abs(lastMoveDir.x);
         float blendY = lastMoveDir.y;
 
@@ -75,6 +103,25 @@ public class PlayerController : MonoBehaviour
         {
             visualRenderer.flipX = lastMoveDir.x < 0f;
         }
+    }
+
+    private void HandleTookDamage(int amount)
+    {
+        if (isDead || animator == null) return;
+        animator.SetTrigger(HurtParam);
+        Debug.Log("Player hurt animation triggered");
+    }
+
+    private void HandlePlayerDeath()
+    {
+        if (isDead) return;
+        isDead = true;
+        moveInput = Vector2.zero;
+
+        if (animator != null)
+            animator.SetTrigger(DeathParam);
+
+        Debug.Log("Player death animation triggered");
     }
 
     public Vector2 GetFacingDirection() => lastMoveDir;

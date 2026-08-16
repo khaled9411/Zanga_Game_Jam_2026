@@ -5,7 +5,8 @@ public class WeaponSystem : MonoBehaviour
 {
     [SerializeField] private LayerMask enemyLayer;
     [SerializeField] private GameObject depletionParticlePrefab;
-    [SerializeField] private GameObject attackConeVisualPrefab; // spawned once, kept alive, rotates with player
+    [SerializeField] private GameObject attackConeVisualPrefab;
+    [SerializeField] private bool showConeVisual = false; // toggle back on later once art/positioning is ready
     [SerializeField] private PlayerController playerController;
 
     private WeaponData currentWeapon;
@@ -23,7 +24,7 @@ public class WeaponSystem : MonoBehaviour
         {
             coneVisualInstance = Instantiate(attackConeVisualPrefab, transform);
             coneVisualInstance.transform.localPosition = Vector3.zero;
-            coneVisualInstance.SetActive(false); // hidden until a weapon is equipped
+            coneVisualInstance.SetActive(false);
         }
     }
 
@@ -41,18 +42,17 @@ public class WeaponSystem : MonoBehaviour
         currentCharges = weapon.maxCharges;
         hasWeapon = true;
 
-        if (coneVisualInstance != null)
+        if (coneVisualInstance != null && showConeVisual)
             coneVisualInstance.SetActive(true);
 
-        Debug.Log($"[WeaponSystem] Equipped {weapon.weaponName}, charges: {currentCharges}");
+        Debug.Log($"Equipped {weapon.weaponName}, charges: {currentCharges}");
     }
 
     private void Attack()
     {
         if (currentCharges <= 0) return;
 
-        Vector2 facing = playerController != null ? playerController.GetFacingDirection() : Vector2.down;
-
+        // Simple radius hit — no facing/cone check for now
         Collider2D[] hits = Physics2D.OverlapCircleAll(transform.position, currentWeapon.attackRange, enemyLayer);
         HashSet<EnemyAI> alreadyHit = new HashSet<EnemyAI>();
         int hitCount = 0;
@@ -60,19 +60,15 @@ public class WeaponSystem : MonoBehaviour
         foreach (var hit in hits)
         {
             Vector2 dirToEnemy = (hit.transform.position - transform.position).normalized;
-            float angle = Vector2.Angle(facing, dirToEnemy);
-            if (angle <= currentWeapon.attackConeAngle / 2f)
+            EnemyAI enemy = hit.GetComponent<EnemyAI>();
+            if (enemy != null && alreadyHit.Add(enemy))
             {
-                EnemyAI enemy = hit.GetComponent<EnemyAI>();
-                if (enemy != null && alreadyHit.Add(enemy))
-                {
-                    enemy.TakeHit(dirToEnemy);
-                    hitCount++;
-                }
+                enemy.TakeHit(dirToEnemy);
+                hitCount++;
             }
         }
 
-        Debug.Log($"[WeaponSystem] Attack fired — hit {hitCount} enemies. Charges left: {currentCharges - 1}");
+        Debug.Log($"Attack fired — hit {hitCount} enemies, range {currentWeapon.attackRange}. Charges left: {currentCharges - 1}");
         GameEvents.TriggerWeaponAttackUsed();
 
         currentCharges--;

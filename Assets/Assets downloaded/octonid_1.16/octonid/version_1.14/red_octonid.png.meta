@@ -1,0 +1,2028 @@
+fileFormatVersion: 2
+guid: a4a020b825fe3324db8c62faa9c89fe4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3861169209387647837
+    second: red_octonid_0
+  - first:
+      213: -6374824870210020261
+    second: red_octonid_1
+  - first:
+      213: -8432704688602291564
+    second: red_octonid_2
+  - first:
+      213: -5419209896948772592
+    second: red_octonid_3
+  - first:
+      213: 6737746676969549405
+    second: red_octonid_4
+  - first:
+      213: 1414224095879518867
+    second: red_octonid_5
+  - first:
+      213: 3703571371811744097
+    second: red_octonid_6
+  - first:
+      213: -2288043684774095641
+    second: red_octonid_7
+  - first:
+      213: -2222779458920360274
+    second: red_octonid_8
+  - first:
+      213: -6950527462261950795
+    second: red_octonid_9
+  - first:
+      213: -6830231385000243265
+    second: red_octonid_10
+  - first:
+      213: 4101119038202942197
+    second: red_octonid_11
+  - first:
+      213: -4066343770133975304
+    second: red_octonid_12
+  - first:
+      213: -5485236184552694813
+    second: red_octonid_13
+  - first:
+      213: 8766921877469457632
+    second: red_octonid_14
+  - first:
+      213: -5848647349440930604
+    second: red_octonid_15
+  - first:
+      213: -6938486192152766166
+    second: red_octonid_16
+  - first:
+      213: 6635344528422264088
+    second: red_octonid_17
+  - first:
+      213: 3093378538787064959
+    second: red_octonid_18
+  - first:
+      213: -5083970468136228829
+    second: red_octonid_19
+  - first:
+      213: -4701474510401292834
+    second: red_octonid_20
+  - first:
+      213: -515713610970718540
+    second: red_octonid_21
+  - first:
+      213: -8906887241618145105
+    second: red_octonid_22
+  - first:
+      213: 6701250699847583180
+    second: red_octonid_23
+  - first:
+      213: -674446819247400184
+    second: red_octonid_24
+  - first:
+      213: 4925963776714538238
+    second: red_octonid_25
+  - first:
+      213: 8582153285519025957
+    second: red_octonid_26
+  - first:
+      213: 7802429566063777347
+    second: red_octonid_27
+  - first:
+      213: -2238506793738243060
+    second: red_octonid_28
+  - first:
+      213: -736149249116183731
+    second: red_octonid_29
+  - first:
+      213: 243488982414938523
+    second: red_octonid_30
+  - first:
+      213: 5238820343738891499
+    second: red_octonid_31
+  - first:
+      213: 6128360418837331547
+    second: red_octonid_32
+  - first:
+      213: -8238220176588266165
+    second: red_octonid_33
+  - first:
+      213: 877262582424473962
+    second: red_octonid_34
+  - first:
+      213: 6430447267478113123
+    second: red_octonid_35
+  - first:
+      213: 8408874438125177952
+    second: red_octonid_36
+  - first:
+      213: 6921263440734481643
+    second: red_octonid_37
+  - first:
+      213: 68963632440451644
+    second: red_octonid_38
+  - first:
+      213: 6695541729497475131
+    second: red_octonid_39
+  - first:
+      213: 5430583735744776197
+    second: red_octonid_40
+  - first:
+      213: -2650847587450612056
+    second: red_octonid_41
+  - first:
+      213: -632699375256243925
+    second: red_octonid_42
+  - first:
+      213: 438027654398412707
+    second: red_octonid_43
+  - first:
+      213: -1247945618945188531
+    second: red_octonid_44
+  - first:
+      213: 7686447108503296677
+    second: red_octonid_45
+  - first:
+      213: -1023116802472321894
+    second: red_octonid_46
+  - first:
+      213: 3786668477854491388
+    second: red_octonid_47
+  - first:
+      213: 4443019358091612365
+    second: red_octonid_48
+  - first:
+      213: -8453797172186056186
+    second: red_octonid_49
+  - first:
+      213: 8228869915215542222
+    second: red_octonid_50
+  - first:
+      213: 2644449635861557447
+    second: red_octonid_51
+  - first:
+      213: -1621051765874302882
+    second: red_octonid_52
+  - first:
+      213: 6679481538314207321
+    second: red_octonid_53
+  - first:
+      213: -6566226135191168810
+    second: red_octonid_54
+  - first:
+      213: -6955606384636313449
+    second: red_octonid_55
+  - first:
+      213: 282533772281583514
+    second: red_octonid_56
+  - first:
+      213: -6079942008045565944
+    second: red_octonid_57
+  - first:
+      213: -5718624767652273824
+    second: red_octonid_58
+  - first:
+      213: -559824944883393114
+    second: red_octonid_59
+  - first:
+      213: 7454908806164801781
+    second: red_octonid_60
+  - first:
+      213: 754433678600852647
+    second: red_octonid_61
+  - first:
+      213: -5772658507983476519
+    second: red_octonid_62
+  - first:
+      213: -7306921054773641176
+    second: red_octonid_63
+  - first:
+      213: 8297818180060358692
+    second: red_octonid_64
+  - first:
+      213: 2694206554876852882
+    second: red_octonid_65
+  - first:
+      213: -1041920101108179525
+    second: red_octonid_66
+  - first:
+      213: 1884376910641057794
+    second: red_octonid_67
+  - first:
+      213: 222924721312929551
+    second: red_octonid_68
+  - first:
+      213: 4952117966497326940
+    second: red_octonid_69
+  - first:
+      213: 8092501940010425852
+    second: red_octonid_70
+  - first:
+      213: -7602685808166902968
+    second: red_octonid_71
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: red_octonid_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 533
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d530a3740f0a59530800000000000000
+      internalID: 3861169209387647837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_octonid_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 533
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c5ec94e821887a0800000000000000
+      internalID: -6374824870210020261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_octonid_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 533
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 492e61c93c309fa80800000000000000
+      internalID: -8432704688602291564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_octonid_3
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 533
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01156199f491bc4b0800000000000000
+      internalID: -5419209896948772592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_octonid_4
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 533
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ea65397e8418d50800000000000000
+      internalID: 6737746676969549405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_octonid_5
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 533
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a52b3825550a310800000000000000
+      internalID: 1414224095879518867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_octonid_6
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 533
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16925215a8ab56330800000000000000
+      internalID: 3703571371811744097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_octonid_7
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 533
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e4d67a246c3f30e0800000000000000
+      internalID: -2288043684774095641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_octonid_8
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 467
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea65401ebd91721e0800000000000000
+      internalID: -2222779458920360274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_octonid_9
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 468
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b6774a3914ca8f90800000000000000
+      internalID: -6950527462261950795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_octonid_10
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 469
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf06535eb42631a0800000000000000
+      internalID: -6830231385000243265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_octonid_11
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 470
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f29dad590a1ae830800000000000000
+      internalID: 4101119038202942197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_octonid_12
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 472
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8feaa8ea2e17197c0800000000000000
+      internalID: -4066343770133975304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_octonid_13
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 471
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eb1e9e80c680e3b0800000000000000
+      internalID: -5485236184552694813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_octonid_14
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 469
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ecea289ffc5aa970800000000000000
+      internalID: 8766921877469457632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_octonid_15
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 468
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc1b00293e65dea0800000000000000
+      internalID: -5848647349440930604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_octonid_16
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 404
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2918c5e19b85bf90800000000000000
+      internalID: -6938486192152766166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_octonid_17
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 405
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81dd0fa61ba751c50800000000000000
+      internalID: 6635344528422264088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_octonid_18
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 406
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7c48304463edea20800000000000000
+      internalID: 3093378538787064959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_octonid_19
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 408
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 328e9269bcb1279b0800000000000000
+      internalID: -5083970468136228829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_octonid_20
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 408
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed53afe97d101ceb0800000000000000
+      internalID: -4701474510401292834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_octonid_21
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 407
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be91440431d7d8f0800000000000000
+      internalID: -515713610970718540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_octonid_22
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 405
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa044e49e31646480800000000000000
+      internalID: -8906887241618145105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_octonid_23
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 404
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc5c04bb100affc50800000000000000
+      internalID: 6701250699847583180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_octonid_24
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 341
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80bddd6f032e3a6f0800000000000000
+      internalID: -674446819247400184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_octonid_25
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 341
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efcf28fb4f98c5440800000000000000
+      internalID: 4925963776714538238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_octonid_26
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 341
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 527205761fee91770800000000000000
+      internalID: 8582153285519025957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_octonid_27
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 342
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3469c3ee95cc74c60800000000000000
+      internalID: 7802429566063777347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_octonid_28
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 342
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c04fee36ee93fe0e0800000000000000
+      internalID: -2238506793738243060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_octonid_29
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 342
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4362c0882ca8c5f0800000000000000
+      internalID: -736149249116183731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_octonid_30
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 343
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b91509f70fb016300800000000000000
+      internalID: 243488982414938523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_octonid_31
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 342
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec75ae985704b840800000000000000
+      internalID: 5238820343738891499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_octonid_32
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 276
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5efc5cd45f4c0550800000000000000
+      internalID: 6128360418837331547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_octonid_33
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 277
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b452009b566fbad80800000000000000
+      internalID: -8238220176588266165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_octonid_34
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 278
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a611728bba9ac2c00800000000000000
+      internalID: 877262582424473962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_octonid_35
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 280
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b0ae448b98d3950800000000000000
+      internalID: 6430447267478113123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_octonid_36
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 280
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c4055dfb252b470800000000000000
+      internalID: 8408874438125177952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_octonid_37
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 279
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec60edcd644d0060800000000000000
+      internalID: 6921263440734481643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_octonid_38
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 277
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c32a80eee0205f000800000000000000
+      internalID: 68963632440451644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_octonid_39
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 276
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b38608d7ab75bec50800000000000000
+      internalID: 6695541729497475131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_octonid_40
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 212
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 508c41c922f4d5b40800000000000000
+      internalID: 5430583735744776197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_octonid_41
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 211
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a61e4cf92c463bd0800000000000000
+      internalID: -2650847587450612056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_octonid_42
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 210
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b217d3835433837f0800000000000000
+      internalID: -632699375256243925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_octonid_43
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 210
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a70736b4df241600800000000000000
+      internalID: 438027654398412707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_octonid_44
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 210
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d54cb42186eaee0800000000000000
+      internalID: -1247945618945188531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_octonid_45
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 211
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aada2fabeebbaa60800000000000000
+      internalID: 7686447108503296677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_octonid_46
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 212
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c57e850b82dc1f0800000000000000
+      internalID: -1023116802472321894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_octonid_47
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 212
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2afa00be2fc8430800000000000000
+      internalID: 3786668477854491388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_octonid_48
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 146
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc01c39e096c8ad30800000000000000
+      internalID: 4443019358091612365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_octonid_49
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 144
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60af5a413441eaa80800000000000000
+      internalID: -8453797172186056186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_octonid_50
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 144
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec73257e691d23270800000000000000
+      internalID: 8228869915215542222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_octonid_51
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 144
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c070f3dee8f2b420800000000000000
+      internalID: 2644449635861557447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_octonid_52
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 144
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e50ea84f10ed089e0800000000000000
+      internalID: -1621051765874302882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_octonid_53
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 143
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9508ff6d11942bc50800000000000000
+      internalID: 6679481538314207321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_octonid_54
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 147
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d85b019e1410e4a0800000000000000
+      internalID: -6566226135191168810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_octonid_55
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 147
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 790405678d8b87f90800000000000000
+      internalID: -6955606384636313449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_octonid_56
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 84
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9715ed08f2cbe300800000000000000
+      internalID: 282533772281583514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_octonid_57
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 83
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8080873e4f4bf9ba0800000000000000
+      internalID: -6079942008045565944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_octonid_58
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 82
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 061e558821d53a0b0800000000000000
+      internalID: -5718624767652273824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_octonid_59
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 82
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ad92dfbd2a1b38f0800000000000000
+      internalID: -559824944883393114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_octonid_60
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 82
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f86268bf08257760800000000000000
+      internalID: 7454908806164801781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_octonid_61
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 81
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a4589bfe69487a00800000000000000
+      internalID: 754433678600852647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_octonid_62
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 84
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d8220efba563efa0800000000000000
+      internalID: -5772658507983476519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_octonid_63
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 84
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8200560b30a989a90800000000000000
+      internalID: -7306921054773641176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_octonid_64
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 18
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 428a649cba5c72370800000000000000
+      internalID: 8297818180060358692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_octonid_65
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 16
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29ab6fe469eb36520800000000000000
+      internalID: 2694206554876852882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_octonid_66
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 16
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbd9b19303b5a81f0800000000000000
+      internalID: -1041920101108179525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_octonid_67
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 16
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20055bdf0d6a62a10800000000000000
+      internalID: 1884376910641057794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_octonid_68
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 16
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0792895adcf71300800000000000000
+      internalID: 222924721312929551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_octonid_69
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 15
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5727e69d0579b440800000000000000
+      internalID: 4952117966497326940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_octonid_70
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 19
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfd1b7673a75e4070800000000000000
+      internalID: 8092501940010425852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_octonid_71
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 19
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 843ee49c985dd7690800000000000000
+      internalID: -7602685808166902968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      red_octonid_0: 3861169209387647837
+      red_octonid_1: -6374824870210020261
+      red_octonid_10: -6830231385000243265
+      red_octonid_11: 4101119038202942197
+      red_octonid_12: -4066343770133975304
+      red_octonid_13: -5485236184552694813
+      red_octonid_14: 8766921877469457632
+      red_octonid_15: -5848647349440930604
+      red_octonid_16: -6938486192152766166
+      red_octonid_17: 6635344528422264088
+      red_octonid_18: 3093378538787064959
+      red_octonid_19: -5083970468136228829
+      red_octonid_2: -8432704688602291564
+      red_octonid_20: -4701474510401292834
+      red_octonid_21: -515713610970718540
+      red_octonid_22: -8906887241618145105
+      red_octonid_23: 6701250699847583180
+      red_octonid_24: -674446819247400184
+      red_octonid_25: 4925963776714538238
+      red_octonid_26: 8582153285519025957
+      red_octonid_27: 7802429566063777347
+      red_octonid_28: -2238506793738243060
+      red_octonid_29: -736149249116183731
+      red_octonid_3: -5419209896948772592
+      red_octonid_30: 243488982414938523
+      red_octonid_31: 5238820343738891499
+      red_octonid_32: 6128360418837331547
+      red_octonid_33: -8238220176588266165
+      red_octonid_34: 877262582424473962
+      red_octonid_35: 6430447267478113123
+      red_octonid_36: 8408874438125177952
+      red_octonid_37: 6921263440734481643
+      red_octonid_38: 68963632440451644
+      red_octonid_39: 6695541729497475131
+      red_octonid_4: 6737746676969549405
+      red_octonid_40: 5430583735744776197
+      red_octonid_41: -2650847587450612056
+      red_octonid_42: -632699375256243925
+      red_octonid_43: 438027654398412707
+      red_octonid_44: -1247945618945188531
+      red_octonid_45: 7686447108503296677
+      red_octonid_46: -1023116802472321894
+      red_octonid_47: 3786668477854491388
+      red_octonid_48: 4443019358091612365
+      red_octonid_49: -8453797172186056186
+      red_octonid_5: 1414224095879518867
+      red_octonid_50: 8228869915215542222
+      red_octonid_51: 2644449635861557447
+      red_octonid_52: -1621051765874302882
+      red_octonid_53: 6679481538314207321
+      red_octonid_54: -6566226135191168810
+      red_octonid_55: -6955606384636313449
+      red_octonid_56: 282533772281583514
+      red_octonid_57: -6079942008045565944
+      red_octonid_58: -5718624767652273824
+      red_octonid_59: -559824944883393114
+      red_octonid_6: 3703571371811744097
+      red_octonid_60: 7454908806164801781
+      red_octonid_61: 754433678600852647
+      red_octonid_62: -5772658507983476519
+      red_octonid_63: -7306921054773641176
+      red_octonid_64: 8297818180060358692
+      red_octonid_65: 2694206554876852882
+      red_octonid_66: -1041920101108179525
+      red_octonid_67: 1884376910641057794
+      red_octonid_68: 222924721312929551
+      red_octonid_69: 4952117966497326940
+      red_octonid_7: -2288043684774095641
+      red_octonid_70: 8092501940010425852
+      red_octonid_71: -7602685808166902968
+      red_octonid_8: -2222779458920360274
+      red_octonid_9: -6950527462261950795
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

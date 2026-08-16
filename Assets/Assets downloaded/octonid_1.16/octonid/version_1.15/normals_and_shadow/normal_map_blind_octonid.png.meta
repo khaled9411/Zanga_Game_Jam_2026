@@ -1,0 +1,3588 @@
+fileFormatVersion: 2
+guid: a70c3268bb437f54fb7babeaca89b1bf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5708841033329779492
+    second: normal_map_blind_octonid_0
+  - first:
+      213: -4863489481081432496
+    second: normal_map_blind_octonid_1
+  - first:
+      213: -971145665810557058
+    second: normal_map_blind_octonid_2
+  - first:
+      213: -8078095963355798130
+    second: normal_map_blind_octonid_3
+  - first:
+      213: -1090248481425683197
+    second: normal_map_blind_octonid_4
+  - first:
+      213: 6410323548328965364
+    second: normal_map_blind_octonid_5
+  - first:
+      213: 7639891903364674457
+    second: normal_map_blind_octonid_6
+  - first:
+      213: 5748622795638559616
+    second: normal_map_blind_octonid_7
+  - first:
+      213: 7788743465433044782
+    second: normal_map_blind_octonid_8
+  - first:
+      213: -4879425813494173223
+    second: normal_map_blind_octonid_9
+  - first:
+      213: -924448238561747104
+    second: normal_map_blind_octonid_10
+  - first:
+      213: 4925308676124055987
+    second: normal_map_blind_octonid_11
+  - first:
+      213: -5767848946539986590
+    second: normal_map_blind_octonid_12
+  - first:
+      213: -5176669271401375289
+    second: normal_map_blind_octonid_13
+  - first:
+      213: 9189623167957989072
+    second: normal_map_blind_octonid_14
+  - first:
+      213: 5943876840997345559
+    second: normal_map_blind_octonid_15
+  - first:
+      213: 2156038233882893762
+    second: normal_map_blind_octonid_16
+  - first:
+      213: -9011676578855907788
+    second: normal_map_blind_octonid_17
+  - first:
+      213: -5301611651019106151
+    second: normal_map_blind_octonid_18
+  - first:
+      213: 7414071893572290080
+    second: normal_map_blind_octonid_19
+  - first:
+      213: 7363995835717900188
+    second: normal_map_blind_octonid_20
+  - first:
+      213: 1262170980993722274
+    second: normal_map_blind_octonid_21
+  - first:
+      213: -2078218399884292331
+    second: normal_map_blind_octonid_22
+  - first:
+      213: -6405499734779489571
+    second: normal_map_blind_octonid_23
+  - first:
+      213: -1163065819847315120
+    second: normal_map_blind_octonid_24
+  - first:
+      213: -5884973731198125817
+    second: normal_map_blind_octonid_25
+  - first:
+      213: -4837613129143634674
+    second: normal_map_blind_octonid_26
+  - first:
+      213: 3333915014045041610
+    second: normal_map_blind_octonid_27
+  - first:
+      213: -1760273103108167162
+    second: normal_map_blind_octonid_28
+  - first:
+      213: 1328090514209938270
+    second: normal_map_blind_octonid_29
+  - first:
+      213: 7411349956023908387
+    second: normal_map_blind_octonid_30
+  - first:
+      213: 5093035761195552889
+    second: normal_map_blind_octonid_31
+  - first:
+      213: -7913085351508913764
+    second: normal_map_blind_octonid_32
+  - first:
+      213: 7529644863533684274
+    second: normal_map_blind_octonid_33
+  - first:
+      213: 1842855155813713579
+    second: normal_map_blind_octonid_34
+  - first:
+      213: 7645082334513161256
+    second: normal_map_blind_octonid_35
+  - first:
+      213: 2054332401071067427
+    second: normal_map_blind_octonid_36
+  - first:
+      213: -4328509185157029809
+    second: normal_map_blind_octonid_37
+  - first:
+      213: -8754318049879850327
+    second: normal_map_blind_octonid_38
+  - first:
+      213: -753224364026854167
+    second: normal_map_blind_octonid_39
+  - first:
+      213: 7530017752834948447
+    second: normal_map_blind_octonid_40
+  - first:
+      213: -349961411072189776
+    second: normal_map_blind_octonid_41
+  - first:
+      213: 361890974899648952
+    second: normal_map_blind_octonid_42
+  - first:
+      213: 4380361825275435892
+    second: normal_map_blind_octonid_43
+  - first:
+      213: -6729265769438598113
+    second: normal_map_blind_octonid_44
+  - first:
+      213: 7475348441547635283
+    second: normal_map_blind_octonid_45
+  - first:
+      213: 7672777547239844902
+    second: normal_map_blind_octonid_46
+  - first:
+      213: 5189737244563868807
+    second: normal_map_blind_octonid_47
+  - first:
+      213: 964519297395897060
+    second: normal_map_blind_octonid_48
+  - first:
+      213: 3180433397384228939
+    second: normal_map_blind_octonid_49
+  - first:
+      213: -4541186491054674161
+    second: normal_map_blind_octonid_50
+  - first:
+      213: 4833915249879239897
+    second: normal_map_blind_octonid_51
+  - first:
+      213: 6007941907383469654
+    second: normal_map_blind_octonid_52
+  - first:
+      213: -5199413705976453142
+    second: normal_map_blind_octonid_53
+  - first:
+      213: 5944880699196989647
+    second: normal_map_blind_octonid_54
+  - first:
+      213: 5718530264019060371
+    second: normal_map_blind_octonid_55
+  - first:
+      213: 6825275674613424464
+    second: normal_map_blind_octonid_56
+  - first:
+      213: -6280689365213921839
+    second: normal_map_blind_octonid_57
+  - first:
+      213: -5875879096115875361
+    second: normal_map_blind_octonid_58
+  - first:
+      213: -1655034929140406994
+    second: normal_map_blind_octonid_59
+  - first:
+      213: 3941366174174052123
+    second: normal_map_blind_octonid_60
+  - first:
+      213: 1497985858880840999
+    second: normal_map_blind_octonid_61
+  - first:
+      213: 1405490338612036608
+    second: normal_map_blind_octonid_62
+  - first:
+      213: -6086736635115020159
+    second: normal_map_blind_octonid_63
+  - first:
+      213: -1556753986303972315
+    second: normal_map_blind_octonid_64
+  - first:
+      213: 3183445425988197628
+    second: normal_map_blind_octonid_65
+  - first:
+      213: -6293926612312158208
+    second: normal_map_blind_octonid_66
+  - first:
+      213: 7107936899851217700
+    second: normal_map_blind_octonid_67
+  - first:
+      213: -7532743786061013146
+    second: normal_map_blind_octonid_68
+  - first:
+      213: -2855902683559627526
+    second: normal_map_blind_octonid_69
+  - first:
+      213: -4871269194813695148
+    second: normal_map_blind_octonid_70
+  - first:
+      213: 4436140714725923364
+    second: normal_map_blind_octonid_71
+  - first:
+      213: -3381780297942776860
+    second: normal_map_blind_octonid_72
+  - first:
+      213: -5295029372376081045
+    second: normal_map_blind_octonid_73
+  - first:
+      213: -2193407232620825748
+    second: normal_map_blind_octonid_74
+  - first:
+      213: 4710874070145230988
+    second: normal_map_blind_octonid_75
+  - first:
+      213: -3645978273933765185
+    second: normal_map_blind_octonid_76
+  - first:
+      213: -5539257250849663608
+    second: normal_map_blind_octonid_77
+  - first:
+      213: 309076054306213159
+    second: normal_map_blind_octonid_78
+  - first:
+      213: -3012031249040958734
+    second: normal_map_blind_octonid_79
+  - first:
+      213: 7377595664199725617
+    second: normal_map_blind_octonid_80
+  - first:
+      213: 5864396968236477028
+    second: normal_map_blind_octonid_81
+  - first:
+      213: 5737583480210950244
+    second: normal_map_blind_octonid_82
+  - first:
+      213: 1448866111033681926
+    second: normal_map_blind_octonid_83
+  - first:
+      213: -715855596899284285
+    second: normal_map_blind_octonid_84
+  - first:
+      213: 622061640291014787
+    second: normal_map_blind_octonid_85
+  - first:
+      213: -7147503546796194382
+    second: normal_map_blind_octonid_86
+  - first:
+      213: -8485601733214041848
+    second: normal_map_blind_octonid_87
+  - first:
+      213: -2639623918946790851
+    second: normal_map_blind_octonid_88
+  - first:
+      213: -1881811092239662562
+    second: normal_map_blind_octonid_89
+  - first:
+      213: -7010946667018300992
+    second: normal_map_blind_octonid_90
+  - first:
+      213: 7784903301310838470
+    second: normal_map_blind_octonid_91
+  - first:
+      213: -7208908633261133785
+    second: normal_map_blind_octonid_92
+  - first:
+      213: -5736590910276670139
+    second: normal_map_blind_octonid_93
+  - first:
+      213: 8539386244688818933
+    second: normal_map_blind_octonid_94
+  - first:
+      213: 7465343379239278448
+    second: normal_map_blind_octonid_95
+  - first:
+      213: 8043754481831784478
+    second: normal_map_blind_octonid_96
+  - first:
+      213: -7718633515251159810
+    second: normal_map_blind_octonid_97
+  - first:
+      213: -7217437495662485490
+    second: normal_map_blind_octonid_98
+  - first:
+      213: 1666252867737974218
+    second: normal_map_blind_octonid_99
+  - first:
+      213: -1609253696218817616
+    second: normal_map_blind_octonid_100
+  - first:
+      213: -4852166008207250753
+    second: normal_map_blind_octonid_101
+  - first:
+      213: 9107245857421047260
+    second: normal_map_blind_octonid_102
+  - first:
+      213: 7663626149830521540
+    second: normal_map_blind_octonid_103
+  - first:
+      213: 9113452060502470289
+    second: normal_map_blind_octonid_104
+  - first:
+      213: -5204592155068824550
+    second: normal_map_blind_octonid_105
+  - first:
+      213: 1661573207329025014
+    second: normal_map_blind_octonid_106
+  - first:
+      213: -5837534909183733272
+    second: normal_map_blind_octonid_107
+  - first:
+      213: -7333327341619870270
+    second: normal_map_blind_octonid_108
+  - first:
+      213: 4954453593215225617
+    second: normal_map_blind_octonid_109
+  - first:
+      213: -3652478870364869466
+    second: normal_map_blind_octonid_110
+  - first:
+      213: -7630932140517380
+    second: normal_map_blind_octonid_111
+  - first:
+      213: 3664317918720783002
+    second: normal_map_blind_octonid_112
+  - first:
+      213: 9018897074546427583
+    second: normal_map_blind_octonid_113
+  - first:
+      213: -8155023646704782664
+    second: normal_map_blind_octonid_114
+  - first:
+      213: -1638062007074160181
+    second: normal_map_blind_octonid_115
+  - first:
+      213: -1145295005230050703
+    second: normal_map_blind_octonid_116
+  - first:
+      213: -8651461244811167773
+    second: normal_map_blind_octonid_117
+  - first:
+      213: -5095475157003366809
+    second: normal_map_blind_octonid_118
+  - first:
+      213: 1602332165896189598
+    second: normal_map_blind_octonid_119
+  - first:
+      213: 3151651000544294575
+    second: normal_map_blind_octonid_120
+  - first:
+      213: -9171015521649992624
+    second: normal_map_blind_octonid_121
+  - first:
+      213: -4580117303904954370
+    second: normal_map_blind_octonid_122
+  - first:
+      213: -2542207298679442225
+    second: normal_map_blind_octonid_123
+  - first:
+      213: -7274284268415548898
+    second: normal_map_blind_octonid_124
+  - first:
+      213: -1866267363967550247
+    second: normal_map_blind_octonid_125
+  - first:
+      213: -6306828152539493442
+    second: normal_map_blind_octonid_126
+  - first:
+      213: 1416458119958465782
+    second: normal_map_blind_octonid_127
+  - first:
+      213: -4252313796063132027
+    second: normal_map_blind_octonid_128
+  - first:
+      213: 7785766685164803008
+    second: normal_map_blind_octonid_129
+  - first:
+      213: 6283611729307204048
+    second: normal_map_blind_octonid_130
+  - first:
+      213: 5941310631540895091
+    second: normal_map_blind_octonid_131
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1237
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc5431b35f16c0b0800000000000000
+      internalID: -5708841033329779492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1237
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 056da47b51a618cb0800000000000000
+      internalID: -4863489481081432496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1237
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e77933c892cc582f0800000000000000
+      internalID: -971145665810557058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_3
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1237
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8529aa5586d4ef80800000000000000
+      internalID: -8078095963355798130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_4
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1237
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d86b358c8aed0f0800000000000000
+      internalID: -1090248481425683197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_5
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1237
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f43879cd4b06f850800000000000000
+      internalID: 6410323548328965364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_6
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1237
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9933f6e4539560a60800000000000000
+      internalID: 7639891903364674457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_7
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1237
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 083dfb1a9f537cf40800000000000000
+      internalID: 5748622795638559616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_8
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1171
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2718cf4aec271c60800000000000000
+      internalID: 7788743465433044782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_9
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1172
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d1fece231cc84cb0800000000000000
+      internalID: -4879425813494173223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_10
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1173
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f9a479933bb23f0800000000000000
+      internalID: -924448238561747104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_11
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1174
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9168145263a5440800000000000000
+      internalID: 4925308676124055987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_12
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1176
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2618f5741fb74ffa0800000000000000
+      internalID: -5767848946539986590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_13
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1175
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c9d07e89b6c828b0800000000000000
+      internalID: -5176669271401375289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_14
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1173
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d6f5d12599188f70800000000000000
+      internalID: 9189623167957989072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_15
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1172
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7195150be74ec7250800000000000000
+      internalID: 5943876840997345559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_16
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1108
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cd10ccb959cbed10800000000000000
+      internalID: 2156038233882893762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_17
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1108
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e069eb5e710f280800000000000000
+      internalID: -9011676578855907788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_18
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1107
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9981fe3ea44ec66b0800000000000000
+      internalID: -5301611651019106151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_19
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1043
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02685931b1314e660800000000000000
+      internalID: 7414071893572290080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_20
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1042
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c97db6b423b223660800000000000000
+      internalID: 7363995835717900188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_21
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1042
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a7efe7e1d1248110800000000000000
+      internalID: 1262170980993722274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_22
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1042
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f473d406fa823e0800000000000000
+      internalID: -2078218399884292331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_23
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1043
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd21c93dde71b17a0800000000000000
+      internalID: -6405499734779489571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_24
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1044
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0513a9d8cc5fbdfe0800000000000000
+      internalID: -1163065819847315120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_25
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1044
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7093e67429f545ea0800000000000000
+      internalID: -5884973731198125817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_26
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 980
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e05b0a46d785ddcb0800000000000000
+      internalID: -4837613129143634674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_27
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 980
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac30f7b9a02744e20800000000000000
+      internalID: 3333915014045041610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_28
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 979
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a209560f04297e0800000000000000
+      internalID: -1760273103108167162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_29
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 978
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b9c0149435e6210800000000000000
+      internalID: 1328090514209938270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_30
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 978
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32879ea94876ad660800000000000000
+      internalID: 7411349956023908387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_31
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 978
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9701c6e6a091ea640800000000000000
+      internalID: 5093035761195552889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_32
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 979
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c91d6f15cc21f2290800000000000000
+      internalID: -7913085351508913764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_33
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 917
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23615cf0c1cae7860800000000000000
+      internalID: 7529644863533684274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_34
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 917
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba606c61003239910800000000000000
+      internalID: 1842855155813713579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_35
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 917
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 824654bb0e9c81a60800000000000000
+      internalID: 7645082334513161256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_36
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 917
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3219a683f64728c10800000000000000
+      internalID: 2054332401071067427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_37
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 917
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4023bb54db0ee3c0800000000000000
+      internalID: -4328509185157029809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_38
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 917
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a20f12bd1a628680800000000000000
+      internalID: -8754318049879850327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_39
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 917
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e482028e620c85f0800000000000000
+      internalID: -753224364026854167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_40
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 917
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5dbc1e104fff7860800000000000000
+      internalID: 7530017752834948447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_41
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 852
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba92f763ffa42bf0800000000000000
+      internalID: -349961411072189776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_42
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 853
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b9305e9ce1b50500800000000000000
+      internalID: 361890974899648952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_43
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 854
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b59373fdb2acc30800000000000000
+      internalID: 4380361825275435892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_44
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 856
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1caa659f68dc92a0800000000000000
+      internalID: -6729265769438598113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_45
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 856
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a77be2dc5cdb760800000000000000
+      internalID: 7475348441547635283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_46
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 855
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62ce2dfe68e2b7a60800000000000000
+      internalID: 7672777547239844902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_47
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 853
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c08db0786a50840800000000000000
+      internalID: 5189737244563868807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_48
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 852
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e2ba44d039a26d00800000000000000
+      internalID: 964519297395897060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_49
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 786
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4030e2035b232c20800000000000000
+      internalID: 3180433397384228939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_50
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 786
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f22e552f67af0c0800000000000000
+      internalID: -4541186491054674161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_51
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 787
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dc456ffe44851340800000000000000
+      internalID: 4833915249879239897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_52
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 720
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65646c4555f706350800000000000000
+      internalID: 6007941907383469654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_53
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 720
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae7e9f638c8f7d7b0800000000000000
+      internalID: -5199413705976453142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_54
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 720
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc066b3af75708250800000000000000
+      internalID: 5944880699196989647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_55
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 720
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3964d202afc4c5f40800000000000000
+      internalID: 5718530264019060371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_56
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 719
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 051a27f601048be50800000000000000
+      internalID: 6825275674613424464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_57
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 723
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ddb9d18c4286d8a0800000000000000
+      internalID: -6280689365213921839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_58
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 723
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd1bed4081fa47ea0800000000000000
+      internalID: -5875879096115875361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_59
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 659
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e25e8bd20822809e0800000000000000
+      internalID: -1655034929140406994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_60
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 659
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1f726537ab82b630800000000000000
+      internalID: 3941366174174052123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_61
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 655
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 725a625b33ae9c410800000000000000
+      internalID: 1497985858880840999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_62
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 656
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 004c630340e418310800000000000000
+      internalID: 1405490338612036608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_63
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 656
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 180ec9e7741978ba0800000000000000
+      internalID: -6086736635115020159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_64
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 656
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52cadab5f7c456ae0800000000000000
+      internalID: -1556753986303972315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_65
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 656
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc5ed19fbedd2c20800000000000000
+      internalID: 3183445425988197628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_66
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 597
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00091ceb71b77a8a0800000000000000
+      internalID: -6293926612312158208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_67
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 597
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42be58173f674a260800000000000000
+      internalID: 7107936899851217700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_68
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 597
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f5dcfcf61567790800000000000000
+      internalID: -7532743786061013146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_69
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 597
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af4f759f3abcd58d0800000000000000
+      internalID: -2855902683559627526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_70
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 597
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b93d5f976c56cb0800000000000000
+      internalID: -4871269194813695148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_71
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 597
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42ad2e2f976509d30800000000000000
+      internalID: 4436140714725923364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_72
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 597
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e3c4b88cb08111d0800000000000000
+      internalID: -3381780297942776860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_73
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 597
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d934017d64486b0800000000000000
+      internalID: -5295029372376081045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_74
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 533
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c63fcdb3eb37f81e0800000000000000
+      internalID: -2193407232620825748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_75
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 533
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c88ea9ce103606140800000000000000
+      internalID: 4710874070145230988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_76
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 533
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb5d26bb312e66dc0800000000000000
+      internalID: -3645978273933765185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_77
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 534
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 885599be0ea9023b0800000000000000
+      internalID: -5539257250849663608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_78
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 534
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d4089a80f0a4400800000000000000
+      internalID: 309076054306213159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_79
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 534
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa9984998d1336d0800000000000000
+      internalID: -3012031249040958734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_80
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 535
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 132361d1b2c726660800000000000000
+      internalID: 7377595664199725617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_81
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 534
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46aec91c8f5826150800000000000000
+      internalID: 5864396968236477028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_82
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 468
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4688f17b6cdff9f40800000000000000
+      internalID: 5737583480210950244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_83
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 468
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 608a3433d086b1410800000000000000
+      internalID: 1448866111033681926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_84
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 470
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cac75c9025c016f0800000000000000
+      internalID: -715855596899284285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_85
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 403
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38851f914c102a800800000000000000
+      internalID: 622061640291014787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_86
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 402
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b54e5ea467fecc90800000000000000
+      internalID: -7147503546796194382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_87
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 402
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 809865aae261d3a80800000000000000
+      internalID: -8485601733214041848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_88
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 402
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d325d82f70c2e5bd0800000000000000
+      internalID: -2639623918946790851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_89
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 401
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e124aa828c672e5e0800000000000000
+      internalID: -1881811092239662562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_90
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 404
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c15a25e62d14be90800000000000000
+      internalID: -7010946667018300992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_91
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 404
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c6f56d6e48890c60800000000000000
+      internalID: 7784903301310838470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_92
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 340
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7203930eacfc4fb90800000000000000
+      internalID: -7208908633261133785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_93
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 340
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54d693bf5f88360b0800000000000000
+      internalID: -5736590910276670139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_94
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 337
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f2b882cb8ef18670800000000000000
+      internalID: 8539386244688818933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_95
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 338
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0771fd5104a3a9760800000000000000
+      internalID: 7465343379239278448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_96
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 338
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e103a06651821af60800000000000000
+      internalID: 8043754481831784478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_97
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 338
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efca70486b7e1e490800000000000000
+      internalID: -7718633515251159810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_98
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 339
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e00e37a56d286db90800000000000000
+      internalID: -7217437495662485490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_99
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 277
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac57f7fa728bf1710800000000000000
+      internalID: 1666252867737974218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_100
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 277
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb946b1a48caa9e0800000000000000
+      internalID: -1609253696218817616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_101
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 277
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbae49139b4a9acb0800000000000000
+      internalID: -4852166008207250753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_102
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 277
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd5bab5eadf636e70800000000000000
+      internalID: 9107245857421047260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_103
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 277
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c2fa00316baa5a60800000000000000
+      internalID: 7663626149830521540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_104
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 277
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e2dc72d5c797e70800000000000000
+      internalID: 9113452060502470289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_105
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 277
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a148654920395c7b0800000000000000
+      internalID: -5204592155068824550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_106
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 277
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb272757081f0710800000000000000
+      internalID: 1661573207329025014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_107
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 212
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e1592ebde8ecfea0800000000000000
+      internalID: -5837534909183733272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_108
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 213
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c5861de2a9ca3a90800000000000000
+      internalID: -7333327341619870270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_109
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 214
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f40cf0b41c1c440800000000000000
+      internalID: 4954453593215225617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_110
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 216
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac284ea1d9cf4dc0800000000000000
+      internalID: -3652478870364869466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_111
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 216
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf7957825b3e4eff0800000000000000
+      internalID: -7630932140517380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_112
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 215
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9273719bb54ad230800000000000000
+      internalID: 3664317918720783002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_113
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 213
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb6462aea1f892d70800000000000000
+      internalID: 9018897074546427583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_114
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 212
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b23043533983de80800000000000000
+      internalID: -8155023646704782664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_115
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 146
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc1084c884f6449e0800000000000000
+      internalID: -1638062007074160181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_116
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 146
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 172db32c2481b10f0800000000000000
+      internalID: -1145295005230050703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_117
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 147
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e7b8f2d5d5dfe780800000000000000
+      internalID: -8651461244811167773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_118
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 80
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e8cf8775c3949b0800000000000000
+      internalID: -5095475157003366809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_119
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 80
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e96bc688d90ac3610800000000000000
+      internalID: 1602332165896189598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_120
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 80
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa6727703e9ecbb20800000000000000
+      internalID: 3151651000544294575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_121
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 80
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05c557229f10ab080800000000000000
+      internalID: -9171015521649992624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_122
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 79
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef7102f14972070c0800000000000000
+      internalID: -4580117303904954370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_123
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 83
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc47ec85ee348bcd0800000000000000
+      internalID: -2542207298679442225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_124
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 83
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1201e9affc8c0b90800000000000000
+      internalID: -7274284268415548898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_125
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 19
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dc3fca68bfa916e0800000000000000
+      internalID: -1866267363967550247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_126
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 19
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb4374d535a978a0800000000000000
+      internalID: -6306828152539493442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_127
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 15
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc8757c72548a310800000000000000
+      internalID: 1416458119958465782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_128
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 16
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5860a28d12fbcf4c0800000000000000
+      internalID: -4252313796063132027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_129
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 16
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c39155ac899c0c60800000000000000
+      internalID: 7785766685164803008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_130
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 16
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d975d7639fd33750800000000000000
+      internalID: 6283611729307204048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_map_blind_octonid_131
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 16
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d2f3d7a86c37250800000000000000
+      internalID: 5941310631540895091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      normal_map_blind_octonid_0: -5708841033329779492
+      normal_map_blind_octonid_1: -4863489481081432496
+      normal_map_blind_octonid_10: -924448238561747104
+      normal_map_blind_octonid_100: -1609253696218817616
+      normal_map_blind_octonid_101: -4852166008207250753
+      normal_map_blind_octonid_102: 9107245857421047260
+      normal_map_blind_octonid_103: 7663626149830521540
+      normal_map_blind_octonid_104: 9113452060502470289
+      normal_map_blind_octonid_105: -5204592155068824550
+      normal_map_blind_octonid_106: 1661573207329025014
+      normal_map_blind_octonid_107: -5837534909183733272
+      normal_map_blind_octonid_108: -7333327341619870270
+      normal_map_blind_octonid_109: 4954453593215225617
+      normal_map_blind_octonid_11: 4925308676124055987
+      normal_map_blind_octonid_110: -3652478870364869466
+      normal_map_blind_octonid_111: -7630932140517380
+      normal_map_blind_octonid_112: 3664317918720783002
+      normal_map_blind_octonid_113: 9018897074546427583
+      normal_map_blind_octonid_114: -8155023646704782664
+      normal_map_blind_octonid_115: -1638062007074160181
+      normal_map_blind_octonid_116: -1145295005230050703
+      normal_map_blind_octonid_117: -8651461244811167773
+      normal_map_blind_octonid_118: -5095475157003366809
+      normal_map_blind_octonid_119: 1602332165896189598
+      normal_map_blind_octonid_12: -5767848946539986590
+      normal_map_blind_octonid_120: 3151651000544294575
+      normal_map_blind_octonid_121: -9171015521649992624
+      normal_map_blind_octonid_122: -4580117303904954370
+      normal_map_blind_octonid_123: -2542207298679442225
+      normal_map_blind_octonid_124: -7274284268415548898
+      normal_map_blind_octonid_125: -1866267363967550247
+      normal_map_blind_octonid_126: -6306828152539493442
+      normal_map_blind_octonid_127: 1416458119958465782
+      normal_map_blind_octonid_128: -4252313796063132027
+      normal_map_blind_octonid_129: 7785766685164803008
+      normal_map_blind_octonid_13: -5176669271401375289
+      normal_map_blind_octonid_130: 6283611729307204048
+      normal_map_blind_octonid_131: 5941310631540895091
+      normal_map_blind_octonid_14: 9189623167957989072
+      normal_map_blind_octonid_15: 5943876840997345559
+      normal_map_blind_octonid_16: 2156038233882893762
+      normal_map_blind_octonid_17: -9011676578855907788
+      normal_map_blind_octonid_18: -5301611651019106151
+      normal_map_blind_octonid_19: 7414071893572290080
+      normal_map_blind_octonid_2: -971145665810557058
+      normal_map_blind_octonid_20: 7363995835717900188
+      normal_map_blind_octonid_21: 1262170980993722274
+      normal_map_blind_octonid_22: -2078218399884292331
+      normal_map_blind_octonid_23: -6405499734779489571
+      normal_map_blind_octonid_24: -1163065819847315120
+      normal_map_blind_octonid_25: -5884973731198125817
+      normal_map_blind_octonid_26: -4837613129143634674
+      normal_map_blind_octonid_27: 3333915014045041610
+      normal_map_blind_octonid_28: -1760273103108167162
+      normal_map_blind_octonid_29: 1328090514209938270
+      normal_map_blind_octonid_3: -8078095963355798130
+      normal_map_blind_octonid_30: 7411349956023908387
+      normal_map_blind_octonid_31: 5093035761195552889
+      normal_map_blind_octonid_32: -7913085351508913764
+      normal_map_blind_octonid_33: 7529644863533684274
+      normal_map_blind_octonid_34: 1842855155813713579
+      normal_map_blind_octonid_35: 7645082334513161256
+      normal_map_blind_octonid_36: 2054332401071067427
+      normal_map_blind_octonid_37: -4328509185157029809
+      normal_map_blind_octonid_38: -8754318049879850327
+      normal_map_blind_octonid_39: -753224364026854167
+      normal_map_blind_octonid_4: -1090248481425683197
+      normal_map_blind_octonid_40: 7530017752834948447
+      normal_map_blind_octonid_41: -349961411072189776
+      normal_map_blind_octonid_42: 361890974899648952
+      normal_map_blind_octonid_43: 4380361825275435892
+      normal_map_blind_octonid_44: -6729265769438598113
+      normal_map_blind_octonid_45: 7475348441547635283
+      normal_map_blind_octonid_46: 7672777547239844902
+      normal_map_blind_octonid_47: 5189737244563868807
+      normal_map_blind_octonid_48: 964519297395897060
+      normal_map_blind_octonid_49: 3180433397384228939
+      normal_map_blind_octonid_5: 6410323548328965364
+      normal_map_blind_octonid_50: -4541186491054674161
+      normal_map_blind_octonid_51: 4833915249879239897
+      normal_map_blind_octonid_52: 6007941907383469654
+      normal_map_blind_octonid_53: -5199413705976453142
+      normal_map_blind_octonid_54: 5944880699196989647
+      normal_map_blind_octonid_55: 5718530264019060371
+      normal_map_blind_octonid_56: 6825275674613424464
+      normal_map_blind_octonid_57: -6280689365213921839
+      normal_map_blind_octonid_58: -5875879096115875361
+      normal_map_blind_octonid_59: -1655034929140406994
+      normal_map_blind_octonid_6: 7639891903364674457
+      normal_map_blind_octonid_60: 3941366174174052123
+      normal_map_blind_octonid_61: 1497985858880840999
+      normal_map_blind_octonid_62: 1405490338612036608
+      normal_map_blind_octonid_63: -6086736635115020159
+      normal_map_blind_octonid_64: -1556753986303972315
+      normal_map_blind_octonid_65: 3183445425988197628
+      normal_map_blind_octonid_66: -6293926612312158208
+      normal_map_blind_octonid_67: 7107936899851217700
+      normal_map_blind_octonid_68: -7532743786061013146
+      normal_map_blind_octonid_69: -2855902683559627526
+      normal_map_blind_octonid_7: 5748622795638559616
+      normal_map_blind_octonid_70: -4871269194813695148
+      normal_map_blind_octonid_71: 4436140714725923364
+      normal_map_blind_octonid_72: -3381780297942776860
+      normal_map_blind_octonid_73: -5295029372376081045
+      normal_map_blind_octonid_74: -2193407232620825748
+      normal_map_blind_octonid_75: 4710874070145230988
+      normal_map_blind_octonid_76: -3645978273933765185
+      normal_map_blind_octonid_77: -5539257250849663608
+      normal_map_blind_octonid_78: 309076054306213159
+      normal_map_blind_octonid_79: -3012031249040958734
+      normal_map_blind_octonid_8: 7788743465433044782
+      normal_map_blind_octonid_80: 7377595664199725617
+      normal_map_blind_octonid_81: 5864396968236477028
+      normal_map_blind_octonid_82: 5737583480210950244
+      normal_map_blind_octonid_83: 1448866111033681926
+      normal_map_blind_octonid_84: -715855596899284285
+      normal_map_blind_octonid_85: 622061640291014787
+      normal_map_blind_octonid_86: -7147503546796194382
+      normal_map_blind_octonid_87: -8485601733214041848
+      normal_map_blind_octonid_88: -2639623918946790851
+      normal_map_blind_octonid_89: -1881811092239662562
+      normal_map_blind_octonid_9: -4879425813494173223
+      normal_map_blind_octonid_90: -7010946667018300992
+      normal_map_blind_octonid_91: 7784903301310838470
+      normal_map_blind_octonid_92: -7208908633261133785
+      normal_map_blind_octonid_93: -5736590910276670139
+      normal_map_blind_octonid_94: 8539386244688818933
+      normal_map_blind_octonid_95: 7465343379239278448
+      normal_map_blind_octonid_96: 8043754481831784478
+      normal_map_blind_octonid_97: -7718633515251159810
+      normal_map_blind_octonid_98: -7217437495662485490
+      normal_map_blind_octonid_99: 1666252867737974218
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,38 @@
+Animation Data for 1.15
+
+Notes:
+I use this sprite at 60 ms/frame except the whiteout hurt frame which I put at 240ms
+This is a new layout that coincides with the long aseprite file in 1.15
+I reorganized to allow Aseprite to export metadata to to octonid.json
+The .json metadata enables use with Unity/Godot/(GMS?) importing plugins which I highly recommend.
+The idle animation is the same for each direction, I thought it would make some graphics maths more convenient to leave the south facing placeholder there.
+Seperate left/right frames were used in case someone's engine made HFlipping a hassle.
+The subfolder 1.15/Packed/ uses minimal space and is intended for aseprite spritesheet importer plugins or people who could otherwise parse and implement the octonid.packed.json file for use in their project.
+
+Animation Key:
+
+8 Frames : South Idle
+8 Frames : South Move
+3 Frames : South Hurt
+7 Frames : South Shrink / Die
+7 Frames : South Grow / Spawn
+
+8 Frames : South Idle
+8 Frames : East Move
+3 Frames : East Hurt
+7 Frames : East Shrink / Die
+7 Frames : East Grow / Spawn
+
+
+8 Frames : South Idle
+8 Frames : North Move
+3 Frames : North Hurt
+7 Frames : North Shrink / Die
+7 Frames : North Grow / Spawn
+
+
+8 Frames : South Idle
+8 Frames : West Move
+3 Frames : West Hurt
+7 Frames : West Shrink / Die
+7 Frames : West Grow / Spawn

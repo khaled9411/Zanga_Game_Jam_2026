@@ -1,0 +1,3588 @@
+fileFormatVersion: 2
+guid: d49b3bf7871c5f444a1a815c87562487
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2683691095440295560
+    second: octonid_normals_y_invert_0
+  - first:
+      213: -465310064407102218
+    second: octonid_normals_y_invert_1
+  - first:
+      213: -3600551581548643559
+    second: octonid_normals_y_invert_2
+  - first:
+      213: 164882034870745568
+    second: octonid_normals_y_invert_3
+  - first:
+      213: -7367343768065089809
+    second: octonid_normals_y_invert_4
+  - first:
+      213: -3570700101177560830
+    second: octonid_normals_y_invert_5
+  - first:
+      213: -3753371665520477962
+    second: octonid_normals_y_invert_6
+  - first:
+      213: 4246561336351741272
+    second: octonid_normals_y_invert_7
+  - first:
+      213: 4846385506523717327
+    second: octonid_normals_y_invert_8
+  - first:
+      213: 2232756956775916539
+    second: octonid_normals_y_invert_9
+  - first:
+      213: 1697556957507050352
+    second: octonid_normals_y_invert_10
+  - first:
+      213: -8741185233396295794
+    second: octonid_normals_y_invert_11
+  - first:
+      213: -7349101065896561058
+    second: octonid_normals_y_invert_12
+  - first:
+      213: 4976127558110218051
+    second: octonid_normals_y_invert_13
+  - first:
+      213: -2793767124518728124
+    second: octonid_normals_y_invert_14
+  - first:
+      213: -1624048946294696838
+    second: octonid_normals_y_invert_15
+  - first:
+      213: 6761956005088120014
+    second: octonid_normals_y_invert_16
+  - first:
+      213: -5281819870970013804
+    second: octonid_normals_y_invert_17
+  - first:
+      213: -5234451599911324748
+    second: octonid_normals_y_invert_18
+  - first:
+      213: -1026486527862697639
+    second: octonid_normals_y_invert_19
+  - first:
+      213: 5504807354160842450
+    second: octonid_normals_y_invert_20
+  - first:
+      213: 2090841051966933310
+    second: octonid_normals_y_invert_21
+  - first:
+      213: -3403387540004116335
+    second: octonid_normals_y_invert_22
+  - first:
+      213: -1165332665448270607
+    second: octonid_normals_y_invert_23
+  - first:
+      213: -4791886526680396168
+    second: octonid_normals_y_invert_24
+  - first:
+      213: 257408930398031039
+    second: octonid_normals_y_invert_25
+  - first:
+      213: 4953985837158156934
+    second: octonid_normals_y_invert_26
+  - first:
+      213: -2784867243023280138
+    second: octonid_normals_y_invert_27
+  - first:
+      213: -559682122872446589
+    second: octonid_normals_y_invert_28
+  - first:
+      213: 6944238343706856796
+    second: octonid_normals_y_invert_29
+  - first:
+      213: -6970444514081524154
+    second: octonid_normals_y_invert_30
+  - first:
+      213: -6024184212688052586
+    second: octonid_normals_y_invert_31
+  - first:
+      213: -2196159082548720642
+    second: octonid_normals_y_invert_32
+  - first:
+      213: -5664517060357846870
+    second: octonid_normals_y_invert_33
+  - first:
+      213: 2001430704606461053
+    second: octonid_normals_y_invert_34
+  - first:
+      213: -6706065580916453984
+    second: octonid_normals_y_invert_35
+  - first:
+      213: 4399737593858071996
+    second: octonid_normals_y_invert_36
+  - first:
+      213: -5320864090075029195
+    second: octonid_normals_y_invert_37
+  - first:
+      213: -5966334776449568392
+    second: octonid_normals_y_invert_38
+  - first:
+      213: -7574796224374585856
+    second: octonid_normals_y_invert_39
+  - first:
+      213: 2620447382280266647
+    second: octonid_normals_y_invert_40
+  - first:
+      213: 6208781131272338277
+    second: octonid_normals_y_invert_41
+  - first:
+      213: -4205291322598901201
+    second: octonid_normals_y_invert_42
+  - first:
+      213: 3556712532696792699
+    second: octonid_normals_y_invert_43
+  - first:
+      213: -8651113031127779287
+    second: octonid_normals_y_invert_44
+  - first:
+      213: 723546560945338411
+    second: octonid_normals_y_invert_45
+  - first:
+      213: 8722091219963015869
+    second: octonid_normals_y_invert_46
+  - first:
+      213: -1056270169915815217
+    second: octonid_normals_y_invert_47
+  - first:
+      213: 1819930551503947844
+    second: octonid_normals_y_invert_48
+  - first:
+      213: -793315704959556679
+    second: octonid_normals_y_invert_49
+  - first:
+      213: 8429960286101888747
+    second: octonid_normals_y_invert_50
+  - first:
+      213: 7899950361610629741
+    second: octonid_normals_y_invert_51
+  - first:
+      213: -7082347705938630554
+    second: octonid_normals_y_invert_52
+  - first:
+      213: -2200767115195946068
+    second: octonid_normals_y_invert_53
+  - first:
+      213: -673033918157332896
+    second: octonid_normals_y_invert_54
+  - first:
+      213: 3403666843582767802
+    second: octonid_normals_y_invert_55
+  - first:
+      213: 5652805579100932631
+    second: octonid_normals_y_invert_56
+  - first:
+      213: -5439645581313728407
+    second: octonid_normals_y_invert_57
+  - first:
+      213: 402074629799589713
+    second: octonid_normals_y_invert_58
+  - first:
+      213: -3549597110417143498
+    second: octonid_normals_y_invert_59
+  - first:
+      213: -2152133610118499974
+    second: octonid_normals_y_invert_60
+  - first:
+      213: -2082675173287857075
+    second: octonid_normals_y_invert_61
+  - first:
+      213: 4515540096226706808
+    second: octonid_normals_y_invert_62
+  - first:
+      213: -2413812065715520856
+    second: octonid_normals_y_invert_63
+  - first:
+      213: 3607495281856585537
+    second: octonid_normals_y_invert_64
+  - first:
+      213: 6626731495883380444
+    second: octonid_normals_y_invert_65
+  - first:
+      213: 3643901104254983834
+    second: octonid_normals_y_invert_66
+  - first:
+      213: 662480095090114742
+    second: octonid_normals_y_invert_67
+  - first:
+      213: 1633110941679063573
+    second: octonid_normals_y_invert_68
+  - first:
+      213: 6932711949395380972
+    second: octonid_normals_y_invert_69
+  - first:
+      213: -6098283861528732909
+    second: octonid_normals_y_invert_70
+  - first:
+      213: 2167306785098774488
+    second: octonid_normals_y_invert_71
+  - first:
+      213: -7663182507561677772
+    second: octonid_normals_y_invert_72
+  - first:
+      213: 3801089400440411430
+    second: octonid_normals_y_invert_73
+  - first:
+      213: 693499434367540357
+    second: octonid_normals_y_invert_74
+  - first:
+      213: 3105583279082449370
+    second: octonid_normals_y_invert_75
+  - first:
+      213: -312556499240884237
+    second: octonid_normals_y_invert_76
+  - first:
+      213: 5468439627820263227
+    second: octonid_normals_y_invert_77
+  - first:
+      213: 8335460806945756660
+    second: octonid_normals_y_invert_78
+  - first:
+      213: 6924264224974317476
+    second: octonid_normals_y_invert_79
+  - first:
+      213: -2829401783784866406
+    second: octonid_normals_y_invert_80
+  - first:
+      213: 9027166252127542272
+    second: octonid_normals_y_invert_81
+  - first:
+      213: -2621569775385016042
+    second: octonid_normals_y_invert_82
+  - first:
+      213: 8622692101137063231
+    second: octonid_normals_y_invert_83
+  - first:
+      213: -2743826072115265135
+    second: octonid_normals_y_invert_84
+  - first:
+      213: -8176161339847775487
+    second: octonid_normals_y_invert_85
+  - first:
+      213: -5280320931865347972
+    second: octonid_normals_y_invert_86
+  - first:
+      213: 466060265092765538
+    second: octonid_normals_y_invert_87
+  - first:
+      213: 2325406076248181595
+    second: octonid_normals_y_invert_88
+  - first:
+      213: -4402621166895301934
+    second: octonid_normals_y_invert_89
+  - first:
+      213: -7603813071941814536
+    second: octonid_normals_y_invert_90
+  - first:
+      213: 9067733723097519480
+    second: octonid_normals_y_invert_91
+  - first:
+      213: -3615615582163780612
+    second: octonid_normals_y_invert_92
+  - first:
+      213: 8331865749160361820
+    second: octonid_normals_y_invert_93
+  - first:
+      213: 2663792911421501600
+    second: octonid_normals_y_invert_94
+  - first:
+      213: -4428093170736947592
+    second: octonid_normals_y_invert_95
+  - first:
+      213: 9124599878935735880
+    second: octonid_normals_y_invert_96
+  - first:
+      213: -5441423287087150678
+    second: octonid_normals_y_invert_97
+  - first:
+      213: 713858686818007215
+    second: octonid_normals_y_invert_98
+  - first:
+      213: 3849590278622445758
+    second: octonid_normals_y_invert_99
+  - first:
+      213: 8050880218343464532
+    second: octonid_normals_y_invert_100
+  - first:
+      213: -8499418715636080407
+    second: octonid_normals_y_invert_101
+  - first:
+      213: 6894933069497690154
+    second: octonid_normals_y_invert_102
+  - first:
+      213: -693197799638173173
+    second: octonid_normals_y_invert_103
+  - first:
+      213: 1601921827608774908
+    second: octonid_normals_y_invert_104
+  - first:
+      213: -352161957243799807
+    second: octonid_normals_y_invert_105
+  - first:
+      213: -8177780724063350277
+    second: octonid_normals_y_invert_106
+  - first:
+      213: -1763804101777017253
+    second: octonid_normals_y_invert_107
+  - first:
+      213: 1228531858583643532
+    second: octonid_normals_y_invert_108
+  - first:
+      213: -5847686444166277574
+    second: octonid_normals_y_invert_109
+  - first:
+      213: -8945195273270299181
+    second: octonid_normals_y_invert_110
+  - first:
+      213: 86784999898326268
+    second: octonid_normals_y_invert_111
+  - first:
+      213: 4199905373895940039
+    second: octonid_normals_y_invert_112
+  - first:
+      213: 3361862935560894772
+    second: octonid_normals_y_invert_113
+  - first:
+      213: 7689868520255426401
+    second: octonid_normals_y_invert_114
+  - first:
+      213: -4638148391487611193
+    second: octonid_normals_y_invert_115
+  - first:
+      213: -5374639860744009923
+    second: octonid_normals_y_invert_116
+  - first:
+      213: -4875154513228883238
+    second: octonid_normals_y_invert_117
+  - first:
+      213: -2462915570888951653
+    second: octonid_normals_y_invert_118
+  - first:
+      213: -179639556029433852
+    second: octonid_normals_y_invert_119
+  - first:
+      213: -203536867785317429
+    second: octonid_normals_y_invert_120
+  - first:
+      213: -7650676648426872173
+    second: octonid_normals_y_invert_121
+  - first:
+      213: 8820423519049040885
+    second: octonid_normals_y_invert_122
+  - first:
+      213: -7186869080989729940
+    second: octonid_normals_y_invert_123
+  - first:
+      213: 7332279344678359073
+    second: octonid_normals_y_invert_124
+  - first:
+      213: 3375483689884250409
+    second: octonid_normals_y_invert_125
+  - first:
+      213: -2017625703712203570
+    second: octonid_normals_y_invert_126
+  - first:
+      213: -3201178922311526955
+    second: octonid_normals_y_invert_127
+  - first:
+      213: -531241137233037630
+    second: octonid_normals_y_invert_128
+  - first:
+      213: 2240608807174303218
+    second: octonid_normals_y_invert_129
+  - first:
+      213: 8201942838456762027
+    second: octonid_normals_y_invert_130
+  - first:
+      213: 3935057408922296719
+    second: octonid_normals_y_invert_131
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1229
+        width: 48
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 886099e15d26e3520800000000000000
+      internalID: 2683691095440295560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1229
+        width: 52
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fcb99436f2ea89f0800000000000000
+      internalID: -465310064407102218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_2
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1229
+        width: 52
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91b7252c965480ec0800000000000000
+      internalID: -3600551581548643559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_3
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1229
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e9705e4657c94200800000000000000
+      internalID: 164882034870745568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_4
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1229
+        width: 48
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feeda4670efe1c990800000000000000
+      internalID: -7367343768065089809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_5
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1229
+        width: 48
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2013cd52d23527ec0800000000000000
+      internalID: -3570700101177560830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_6
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1229
+        width: 48
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f8b2ae3b5859ebc0800000000000000
+      internalID: -3753371665520477962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_7
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1229
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85557224901deea30800000000000000
+      internalID: 4246561336351741272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1162
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce92f0e0f1d14340800000000000000
+      internalID: 4846385506523717327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1163
+        width: 48
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf3296e5f985cfe10800000000000000
+      internalID: 2232756956775916539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_10
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1165
+        width: 49
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07b533e0f0fee8710800000000000000
+      internalID: 1697556957507050352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_11
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1167
+        width: 54
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e87168fc75211b680800000000000000
+      internalID: -8741185233396295794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_12
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1171
+        width: 54
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e567acc848fb20a90800000000000000
+      internalID: -7349101065896561058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_13
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1169
+        width: 52
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 347013246a1ce0540800000000000000
+      internalID: 4976127558110218051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_14
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1165
+        width: 52
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e85ed2a9b8a39d0800000000000000
+      internalID: -2793767124518728124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_15
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 1163
+        width: 50
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a74d14286183679e0800000000000000
+      internalID: -1624048946294696838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_16
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1099
+        width: 54
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eccc816092b47dd50800000000000000
+      internalID: 6761956005088120014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_17
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1098
+        width: 56
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4979b37cfc433b6b0800000000000000
+      internalID: -5281819870970013804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_18
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1098
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b37f41d00e7b57b0800000000000000
+      internalID: -5234451599911324748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_19
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1033
+        width: 46
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 951150401ff21c1f0800000000000000
+      internalID: -1026486527862697639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_20
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1031
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d607b57f11056c40800000000000000
+      internalID: 5504807354160842450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_21
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1031
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e390b48ebd8240d10800000000000000
+      internalID: 2090841051966933310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_22
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1031
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1986015701db4c0d0800000000000000
+      internalID: -3403387540004116335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_23
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1032
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f4fbce6d18e3dfe0800000000000000
+      internalID: -1165332665448270607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_24
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1034
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e0c3da79ccf7db0800000000000000
+      internalID: -4791886526680396168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_25
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1035
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc4362fe00829300800000000000000
+      internalID: 257408930398031039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_26
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 971
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68ac02e1fd710c440800000000000000
+      internalID: 4953985837158156934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_27
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 970
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f7d9f05ff92a59d0800000000000000
+      internalID: -2784867243023280138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_28
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 968
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3812d07131c9b38f0800000000000000
+      internalID: -559682122872446589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_29
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 967
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d4b404bf3ee5060800000000000000
+      internalID: 6944238343706856796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_30
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 967
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 646b99b35a1044f90800000000000000
+      internalID: -6970444514081524154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_31
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 967
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69e5635406cc56ca0800000000000000
+      internalID: -6024184212688052586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_32
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 969
+        width: 46
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb8f6e33fca581e0800000000000000
+      internalID: -2196159082548720642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_33
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 909
+        width: 48
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa80b39deb79361b0800000000000000
+      internalID: -5664517060357846870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_34
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 909
+        width: 52
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7cb0ae2f9286cb10800000000000000
+      internalID: 2001430704606461053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_35
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 909
+        width: 52
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad400962e44fe2a0800000000000000
+      internalID: -6706065580916453984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_36
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 909
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd97d2e7020f0d30800000000000000
+      internalID: 4399737593858071996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_37
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 909
+        width: 48
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53122fc1d4e7826b0800000000000000
+      internalID: -5320864090075029195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_38
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 909
+        width: 48
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871f9aeb122533da0800000000000000
+      internalID: -5966334776449568392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_39
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 909
+        width: 48
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 006ce2887fae0e690800000000000000
+      internalID: -7574796224374585856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_40
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 909
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 793ea6da203bd5420800000000000000
+      internalID: 2620447382280266647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_41
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 843
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56bb2a91b850a2650800000000000000
+      internalID: 6208781131272338277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_42
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 846
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ab57b92ddc3a5c0800000000000000
+      internalID: -4205291322598901201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_43
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 847
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7e7297443bfb5130800000000000000
+      internalID: 3556712532696792699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_44
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 851
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92830e3a88211f780800000000000000
+      internalID: -8651113031127779287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_45
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 852
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b283a9f73cd8a0a00800000000000000
+      internalID: 723546560945338411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_46
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 850
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2f270c0c71b0970800000000000000
+      internalID: 8722091219963015869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_47
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 845
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fca835770ef5751f0800000000000000
+      internalID: -1056270169915815217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_48
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 843
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4480646b131b14910800000000000000
+      internalID: 1819930551503947844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_49
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 775
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b3a52bc1939df4f0800000000000000
+      internalID: -793315704959556679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_50
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 774
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beed0c3673c3df470800000000000000
+      internalID: 8429960286101888747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_51
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 778
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6235078ff242ad60800000000000000
+      internalID: 7899950361610629741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_52
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 708
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 668a9bb094276bd90800000000000000
+      internalID: -7082347705938630554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_53
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 707
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cab626908fd4571e0800000000000000
+      internalID: -2200767115195946068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_54
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 707
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e5172a737e8a6f0800000000000000
+      internalID: -673033918157332896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_55
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 707
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab2a689f5f04c3f20800000000000000
+      internalID: 3403666843582767802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_56
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 706
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a48ae69bcc27e40800000000000000
+      internalID: 5652805579100932631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_57
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 712
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 960a5cd0a2f7284b0800000000000000
+      internalID: -5439645581313728407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_58
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 713
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 157b66adeb4749500800000000000000
+      internalID: 402074629799589713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_59
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 649
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63945d11c3c4dbec0800000000000000
+      internalID: -3549597110417143498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_60
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 648
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7135b352e51222e0800000000000000
+      internalID: -2152133610118499974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_61
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 642
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d44f6a1e6f9d813e0800000000000000
+      internalID: -2082675173287857075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_62
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 643
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87540ac0bcb6aae30800000000000000
+      internalID: 4515540096226706808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_63
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 643
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa797417ba608ed0800000000000000
+      internalID: -2413812065715520856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_64
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 643
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14f95f378d5601230800000000000000
+      internalID: 3607495281856585537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_65
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 644
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd695028f21e6fb50800000000000000
+      internalID: 6626731495883380444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_66
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 589
+        width: 48
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e95c38fbcb19230800000000000000
+      internalID: 3643901104254983834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_67
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 589
+        width: 52
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b00d92f22a913900800000000000000
+      internalID: 662480095090114742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_68
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 589
+        width: 52
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5129595bfb9f9a610800000000000000
+      internalID: 1633110941679063573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_69
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 589
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea41d179c0f53060800000000000000
+      internalID: 6932711949395380972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_70
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 589
+        width: 48
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b1516532b8e5ba0800000000000000
+      internalID: -6098283861528732909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_71
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 589
+        width: 48
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d73b15c902d31e10800000000000000
+      internalID: 2167306785098774488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_72
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 589
+        width: 48
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c8cc35c18e6a590800000000000000
+      internalID: -7663182507561677772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_73
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 589
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 625d0c0bbae20c430800000000000000
+      internalID: 3801089400440411430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_74
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 525
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c596daf0ecf9900800000000000000
+      internalID: 693499434367540357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_75
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 525
+        width: 50
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad92a1ac98f391b20800000000000000
+      internalID: 3105583279082449370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_76
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 525
+        width: 50
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f7e18a158399abf0800000000000000
+      internalID: -312556499240884237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_77
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 527
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3765e35edcc3eb40800000000000000
+      internalID: 5468439627820263227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_78
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 528
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f55135d0718da370800000000000000
+      internalID: 8335460806945756660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_79
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 528
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a72a8450ade71060800000000000000
+      internalID: 6924264224974317476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_80
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 529
+        width: 50
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d75a68112fbb8d0800000000000000
+      internalID: -2829401783784866406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_81
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 527
+        width: 50
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00cd47ad0efe64d70800000000000000
+      internalID: 9027166252127542272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_82
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 459
+        width: 54
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6198640dd205e9bd0800000000000000
+      internalID: -2621569775385016042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_83
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 458
+        width: 56
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d57dfe7c4f9a770800000000000000
+      internalID: 8622692101137063231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_84
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 463
+        width: 50
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1914d1e89b8fbe9d0800000000000000
+      internalID: -2743826072115265135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_85
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 393
+        width: 46
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b6710a490788e80800000000000000
+      internalID: -8176161339847775487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_86
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 391
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c783b1cb61888b6b0800000000000000
+      internalID: -5280320931865347972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_87
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 391
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26757c08757c77600800000000000000
+      internalID: 466060265092765538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_88
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 391
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5bce4d7180854020800000000000000
+      internalID: 2325406076248181595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_89
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 388
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2daf692ff5fb6e2c0800000000000000
+      internalID: -4402621166895301934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_90
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 394
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f6bf6c3c44d97690800000000000000
+      internalID: -7603813071941814536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_91
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 395
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 875de0b37cf07dd70800000000000000
+      internalID: 9067733723097519480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_92
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 331
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfbb2ccc8c0c2ddc0800000000000000
+      internalID: -3615615582163780612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_93
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 330
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f72f631cbb0a370800000000000000
+      internalID: 8331865749160361820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_94
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 324
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a07b702a81b7f420800000000000000
+      internalID: 2663792911421501600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_95
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 327
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e14e5e8b04c82c0800000000000000
+      internalID: -4428093170736947592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_96
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 327
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e6985ee3711ae70800000000000000
+      internalID: 9124599878935735880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_97
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 327
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa9c1aca95e2c74b0800000000000000
+      internalID: -5441423287087150678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_98
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 329
+        width: 46
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa83d9781b228e900800000000000000
+      internalID: 713858686818007215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_99
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 269
+        width: 48
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb0861066fd7c6530800000000000000
+      internalID: 3849590278622445758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_100
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 269
+        width: 52
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ed49737e87abf60800000000000000
+      internalID: 8050880218343464532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_101
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 269
+        width: 52
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e06431c5bffb0a80800000000000000
+      internalID: -8499418715636080407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_102
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 269
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a28e0858819bfaf50800000000000000
+      internalID: 6894933069497690154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_103
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 269
+        width: 48
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0afb7126444166f0800000000000000
+      internalID: -693197799638173173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_104
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 269
+        width: 48
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf8c0943a6b2b3610800000000000000
+      internalID: 1601921827608774908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_105
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 269
+        width: 48
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 107b313d09edc1bf0800000000000000
+      internalID: -352161957243799807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_106
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 269
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf1da2b52cfa28e80800000000000000
+      internalID: -8177780724063350277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_107
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 203
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b563434b385b587e0800000000000000
+      internalID: -1763804101777017253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_108
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 206
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c85e022673f9c0110800000000000000
+      internalID: 1228531858583643532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_109
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 207
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a361a915928d8dea0800000000000000
+      internalID: -5847686444166277574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_110
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 211
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d5783aea484cd380800000000000000
+      internalID: -8945195273270299181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_111
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 212
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf4a5c26f72543100800000000000000
+      internalID: 86784999898326268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_112
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 210
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c7525d7faf094a30800000000000000
+      internalID: 4199905373895940039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_113
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 205
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 439b8a9278cb7ae20800000000000000
+      internalID: 3361862935560894772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_114
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 203
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f884f2da6e7ba60800000000000000
+      internalID: 7689868520255426401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_115
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 135
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ced4d5ac9cf1afb0800000000000000
+      internalID: -4638148391487611193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_116
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 134
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37c2b0d5817965b0800000000000000
+      internalID: -5374639860744009923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_117
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 138
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ada99d5ccc8f75cb0800000000000000
+      internalID: -4875154513228883238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_118
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 68
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b98b26d5657f1ddd0800000000000000
+      internalID: -2462915570888951653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_119
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 67
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 408b14b86cac18df0800000000000000
+      internalID: -179639556029433852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_120
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 67
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc3e5f01c44ec2df0800000000000000
+      internalID: -203536867785317429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_121
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 67
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 392e32f8f1653d590800000000000000
+      internalID: -7650676648426872173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_122
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 66
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f34b6d3570786a70800000000000000
+      internalID: 8820423519049040885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_123
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 72
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b7e5406ac134c90800000000000000
+      internalID: -7186869080989729940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_124
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 73
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 120dc75473d71c560800000000000000
+      internalID: 7332279344678359073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_125
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 9
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 921fca8288028de20800000000000000
+      internalID: 3375483689884250409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_126
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 8
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc5980cc14fff3e0800000000000000
+      internalID: -2017625703712203570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_127
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 2
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d557211bb02393d0800000000000000
+      internalID: -3201178922311526955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_128
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 3
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c676251007a0a8f0800000000000000
+      internalID: -531241137233037630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_129
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 3
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd6c30c6dd381f10800000000000000
+      internalID: 2240608807174303218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_130
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 3
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bae364a4e8723d170800000000000000
+      internalID: 8201942838456762027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_y_invert_131
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 4
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8125955dd12c9630800000000000000
+      internalID: 3935057408922296719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      octonid_normals_y_invert_0: 2683691095440295560
+      octonid_normals_y_invert_1: -465310064407102218
+      octonid_normals_y_invert_10: 1697556957507050352
+      octonid_normals_y_invert_100: 8050880218343464532
+      octonid_normals_y_invert_101: -8499418715636080407
+      octonid_normals_y_invert_102: 6894933069497690154
+      octonid_normals_y_invert_103: -693197799638173173
+      octonid_normals_y_invert_104: 1601921827608774908
+      octonid_normals_y_invert_105: -352161957243799807
+      octonid_normals_y_invert_106: -8177780724063350277
+      octonid_normals_y_invert_107: -1763804101777017253
+      octonid_normals_y_invert_108: 1228531858583643532
+      octonid_normals_y_invert_109: -5847686444166277574
+      octonid_normals_y_invert_11: -8741185233396295794
+      octonid_normals_y_invert_110: -8945195273270299181
+      octonid_normals_y_invert_111: 86784999898326268
+      octonid_normals_y_invert_112: 4199905373895940039
+      octonid_normals_y_invert_113: 3361862935560894772
+      octonid_normals_y_invert_114: 7689868520255426401
+      octonid_normals_y_invert_115: -4638148391487611193
+      octonid_normals_y_invert_116: -5374639860744009923
+      octonid_normals_y_invert_117: -4875154513228883238
+      octonid_normals_y_invert_118: -2462915570888951653
+      octonid_normals_y_invert_119: -179639556029433852
+      octonid_normals_y_invert_12: -7349101065896561058
+      octonid_normals_y_invert_120: -203536867785317429
+      octonid_normals_y_invert_121: -7650676648426872173
+      octonid_normals_y_invert_122: 8820423519049040885
+      octonid_normals_y_invert_123: -7186869080989729940
+      octonid_normals_y_invert_124: 7332279344678359073
+      octonid_normals_y_invert_125: 3375483689884250409
+      octonid_normals_y_invert_126: -2017625703712203570
+      octonid_normals_y_invert_127: -3201178922311526955
+      octonid_normals_y_invert_128: -531241137233037630
+      octonid_normals_y_invert_129: 2240608807174303218
+      octonid_normals_y_invert_13: 4976127558110218051
+      octonid_normals_y_invert_130: 8201942838456762027
+      octonid_normals_y_invert_131: 3935057408922296719
+      octonid_normals_y_invert_14: -2793767124518728124
+      octonid_normals_y_invert_15: -1624048946294696838
+      octonid_normals_y_invert_16: 6761956005088120014
+      octonid_normals_y_invert_17: -5281819870970013804
+      octonid_normals_y_invert_18: -5234451599911324748
+      octonid_normals_y_invert_19: -1026486527862697639
+      octonid_normals_y_invert_2: -3600551581548643559
+      octonid_normals_y_invert_20: 5504807354160842450
+      octonid_normals_y_invert_21: 2090841051966933310
+      octonid_normals_y_invert_22: -3403387540004116335
+      octonid_normals_y_invert_23: -1165332665448270607
+      octonid_normals_y_invert_24: -4791886526680396168
+      octonid_normals_y_invert_25: 257408930398031039
+      octonid_normals_y_invert_26: 4953985837158156934
+      octonid_normals_y_invert_27: -2784867243023280138
+      octonid_normals_y_invert_28: -559682122872446589
+      octonid_normals_y_invert_29: 6944238343706856796
+      octonid_normals_y_invert_3: 164882034870745568
+      octonid_normals_y_invert_30: -6970444514081524154
+      octonid_normals_y_invert_31: -6024184212688052586
+      octonid_normals_y_invert_32: -2196159082548720642
+      octonid_normals_y_invert_33: -5664517060357846870
+      octonid_normals_y_invert_34: 2001430704606461053
+      octonid_normals_y_invert_35: -6706065580916453984
+      octonid_normals_y_invert_36: 4399737593858071996
+      octonid_normals_y_invert_37: -5320864090075029195
+      octonid_normals_y_invert_38: -5966334776449568392
+      octonid_normals_y_invert_39: -7574796224374585856
+      octonid_normals_y_invert_4: -7367343768065089809
+      octonid_normals_y_invert_40: 2620447382280266647
+      octonid_normals_y_invert_41: 6208781131272338277
+      octonid_normals_y_invert_42: -4205291322598901201
+      octonid_normals_y_invert_43: 3556712532696792699
+      octonid_normals_y_invert_44: -8651113031127779287
+      octonid_normals_y_invert_45: 723546560945338411
+      octonid_normals_y_invert_46: 8722091219963015869
+      octonid_normals_y_invert_47: -1056270169915815217
+      octonid_normals_y_invert_48: 1819930551503947844
+      octonid_normals_y_invert_49: -793315704959556679
+      octonid_normals_y_invert_5: -3570700101177560830
+      octonid_normals_y_invert_50: 8429960286101888747
+      octonid_normals_y_invert_51: 7899950361610629741
+      octonid_normals_y_invert_52: -7082347705938630554
+      octonid_normals_y_invert_53: -2200767115195946068
+      octonid_normals_y_invert_54: -673033918157332896
+      octonid_normals_y_invert_55: 3403666843582767802
+      octonid_normals_y_invert_56: 5652805579100932631
+      octonid_normals_y_invert_57: -5439645581313728407
+      octonid_normals_y_invert_58: 402074629799589713
+      octonid_normals_y_invert_59: -3549597110417143498
+      octonid_normals_y_invert_6: -3753371665520477962
+      octonid_normals_y_invert_60: -2152133610118499974
+      octonid_normals_y_invert_61: -2082675173287857075
+      octonid_normals_y_invert_62: 4515540096226706808
+      octonid_normals_y_invert_63: -2413812065715520856
+      octonid_normals_y_invert_64: 3607495281856585537
+      octonid_normals_y_invert_65: 6626731495883380444
+      octonid_normals_y_invert_66: 3643901104254983834
+      octonid_normals_y_invert_67: 662480095090114742
+      octonid_normals_y_invert_68: 1633110941679063573
+      octonid_normals_y_invert_69: 6932711949395380972
+      octonid_normals_y_invert_7: 4246561336351741272
+      octonid_normals_y_invert_70: -6098283861528732909
+      octonid_normals_y_invert_71: 2167306785098774488
+      octonid_normals_y_invert_72: -7663182507561677772
+      octonid_normals_y_invert_73: 3801089400440411430
+      octonid_normals_y_invert_74: 693499434367540357
+      octonid_normals_y_invert_75: 3105583279082449370
+      octonid_normals_y_invert_76: -312556499240884237
+      octonid_normals_y_invert_77: 5468439627820263227
+      octonid_normals_y_invert_78: 8335460806945756660
+      octonid_normals_y_invert_79: 6924264224974317476
+      octonid_normals_y_invert_8: 4846385506523717327
+      octonid_normals_y_invert_80: -2829401783784866406
+      octonid_normals_y_invert_81: 9027166252127542272
+      octonid_normals_y_invert_82: -2621569775385016042
+      octonid_normals_y_invert_83: 8622692101137063231
+      octonid_normals_y_invert_84: -2743826072115265135
+      octonid_normals_y_invert_85: -8176161339847775487
+      octonid_normals_y_invert_86: -5280320931865347972
+      octonid_normals_y_invert_87: 466060265092765538
+      octonid_normals_y_invert_88: 2325406076248181595
+      octonid_normals_y_invert_89: -4402621166895301934
+      octonid_normals_y_invert_9: 2232756956775916539
+      octonid_normals_y_invert_90: -7603813071941814536
+      octonid_normals_y_invert_91: 9067733723097519480
+      octonid_normals_y_invert_92: -3615615582163780612
+      octonid_normals_y_invert_93: 8331865749160361820
+      octonid_normals_y_invert_94: 2663792911421501600
+      octonid_normals_y_invert_95: -4428093170736947592
+      octonid_normals_y_invert_96: 9124599878935735880
+      octonid_normals_y_invert_97: -5441423287087150678
+      octonid_normals_y_invert_98: 713858686818007215
+      octonid_normals_y_invert_99: 3849590278622445758
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

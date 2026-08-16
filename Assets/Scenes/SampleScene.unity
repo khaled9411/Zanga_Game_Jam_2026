@@ -951,11 +951,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 153373246037462885, guid: 6d32db3dad0de6f458d2441dffca043c, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 3.27221
+      value: 1.41
       objectReference: {fileID: 0}
     - target: {fileID: 153373246037462885, guid: 6d32db3dad0de6f458d2441dffca043c, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.17719
+      value: 0.39
       objectReference: {fileID: 0}
     - target: {fileID: 153373246037462885, guid: 6d32db3dad0de6f458d2441dffca043c, type: 3}
       propertyPath: m_LocalPosition.z
@@ -989,9 +989,9 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 1696450162004410996, guid: 6d32db3dad0de6f458d2441dffca043c, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -0.06
+    - target: {fileID: 4124106851944392935, guid: 6d32db3dad0de6f458d2441dffca043c, type: 3}
+      propertyPath: weaponOrbitDistance
+      value: 0.12
       objectReference: {fileID: 0}
     - target: {fileID: 7991986315963607739, guid: 6d32db3dad0de6f458d2441dffca043c, type: 3}
       propertyPath: m_Name
@@ -1498,8 +1498,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::WeaponSpawner
   weaponPickupPrefabs:
   - {fileID: 8721196310184978716, guid: bfaa129d78e981842b3d616361168bab, type: 3}
-  - {fileID: 8296089450221087157, guid: f9172079514af4846911e30cc5a32368, type: 3}
-  - {fileID: 8721196310184978716, guid: 1abc0d73bca83e4468ebabd2318cec64, type: 3}
   minSpawnDistance: 3
   maxSpawnDistance: 5
 --- !u!4 &571396227

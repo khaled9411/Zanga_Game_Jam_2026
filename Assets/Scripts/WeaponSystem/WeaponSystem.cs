@@ -32,8 +32,19 @@ public class WeaponSystem : MonoBehaviour
     {
         if (!hasWeapon) return;
 
+        UpdateConeRotation();
+
         if (Input.GetKeyDown(KeyCode.Space))
             Attack();
+    }
+
+    private void UpdateConeRotation()
+    {
+        if (coneVisualInstance == null || playerController == null) return;
+
+        Vector2 facing = playerController.GetFacingDirection();
+        float angle = Mathf.Atan2(facing.y, facing.x) * Mathf.Rad2Deg;
+        coneVisualInstance.transform.rotation = Quaternion.Euler(0, 0, angle);
     }
 
     public void EquipWeapon(WeaponData weapon)

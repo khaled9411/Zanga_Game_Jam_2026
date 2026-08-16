@@ -11,6 +11,14 @@ public class PlayerController : MonoBehaviour
     [SerializeField] private float interactRange = 1.5f;
     [SerializeField] private LayerMask interactableLayer;
 
+    [Header("Visuals")]
+    [SerializeField] private SpriteRenderer visualRenderer;
+    [SerializeField] private Animator animator;
+
+    private static readonly int MovingParam = Animator.StringToHash("Moving");
+    private static readonly int XParam = Animator.StringToHash("X");
+    private static readonly int YParam = Animator.StringToHash("Y");
+
     private Rigidbody2D rb;
     private Vector2 moveInput;
     private Vector2 lastMoveDir = Vector2.down;
@@ -42,14 +50,31 @@ public class PlayerController : MonoBehaviour
     private void FixedUpdate()
     {
         rb.MovePosition(rb.position + moveInput.normalized * moveSpeed * Time.fixedDeltaTime);
-
-        if (moveInput.sqrMagnitude > 0.01f)
-        {
-            float angle = Mathf.Atan2(lastMoveDir.y, lastMoveDir.x) * Mathf.Rad2Deg;
-            rb.MoveRotation(angle);
-        }
+        UpdateAnimator();
 
         GameEvents.TriggerPlayerPositionChanged(rb.position);
+    }
+
+    private void UpdateAnimator()
+    {
+        bool isMoving = moveInput.sqrMagnitude > 0.01f;
+
+        if (animator == null) return;
+
+        animator.SetBool(MovingParam, isMoving);
+
+        // Feed the blend tree X as always-positive (so it always samples the Right pose),
+        // and mirror visually via flipX when actually facing left.
+        float blendX = Mathf.Abs(lastMoveDir.x);
+        float blendY = lastMoveDir.y;
+
+        animator.SetFloat(XParam, blendX);
+        animator.SetFloat(YParam, blendY);
+
+        if (Mathf.Abs(lastMoveDir.x) > 0.01f && visualRenderer != null)
+        {
+            visualRenderer.flipX = lastMoveDir.x < 0f;
+        }
     }
 
     public Vector2 GetFacingDirection() => lastMoveDir;

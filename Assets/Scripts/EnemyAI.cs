@@ -7,19 +7,23 @@ public class EnemyAI : MonoBehaviour
     [SerializeField] private GameObject deathParticlePrefab;
 
     [Header("Visuals")]
-    [SerializeField] private SpriteRenderer visualRenderer; // drag the CHILD's SpriteRenderer here in Inspector
+    [SerializeField] private SpriteRenderer visualRenderer;
+    [SerializeField] private Animator animator;
 
     [Header("Big Enemy Patrol")]
     [SerializeField] private float patrolRadius = 3f;
     [SerializeField] private float patrolPointReachedThreshold = 0.3f;
     [SerializeField] private float attackRange = 1.5f;
 
-    [Header("Contact Damage")]
-    [SerializeField] private float damageCooldown = 1f; // seconds between contact hits while touching
-
     [Header("Chase")]
-    [SerializeField] private float stopChaseDistance = 0.6f; // stop moving once this close, prevents jitter/overlap
+    [SerializeField] private float stopChaseDistance = 0.6f;
 
+    [Header("Contact Damage")]
+    [SerializeField] private float damageCooldown = 1f;
+
+    private static readonly int MovingParam = Animator.StringToHash("Moving");
+    private static readonly int HurtParam = Animator.StringToHash("Hurt");
+    private static readonly int DeathParam = Animator.StringToHash("Death");
 
     private int currentHits = 0;
     private Transform player;
@@ -47,9 +51,6 @@ public class EnemyAI : MonoBehaviour
         PickNewPatrolTarget();
 
         currentHits = CarriedOverHits;
-
-        if (visualRenderer == null)
-            Debug.LogWarning($"[EnemyAI] {data.enemyName} has no Visual Renderer assigned — flipping won't work.");
     }
 
     private void Update()
@@ -76,22 +77,37 @@ public class EnemyAI : MonoBehaviour
             Patrol();
         }
     }
+
     private void ChasePlayer()
     {
         float dist = Vector2.Distance(rb.position, player.position);
+        Vector2 dirToPlayer = ((Vector2)player.position - rb.position).normalized;
+
+        // Always face the player, even when close enough to stop moving
+        UpdateFacing(dirToPlayer);
+
         if (dist <= stopChaseDistance)
         {
-            return; // close enough — stop pushing into the player, contact damage still applies via trigger
+            SetMoving(false);
+            return;
         }
 
-        Vector2 dir = ((Vector2)player.position - rb.position).normalized;
-        MoveAndRotate(dir, data.moveSpeed);
+        rb.MovePosition(rb.position + dirToPlayer * data.moveSpeed * Time.deltaTime);
+        SetMoving(true);
+    }
+
+    private void UpdateFacing(Vector2 direction)
+    {
+        if (Mathf.Abs(direction.x) > 0.01f && visualRenderer != null)
+        {
+            visualRenderer.flipX = direction.x < 0f;
+        }
     }
 
     private void Patrol()
     {
         Vector2 dir = (currentPatrolTarget - rb.position).normalized;
-        MoveAndRotate(dir, data.moveSpeed * 0.5f);
+        MoveAndAnimate(dir, data.moveSpeed * 0.5f);
 
         if (Vector2.Distance(rb.position, currentPatrolTarget) <= patrolPointReachedThreshold)
         {
@@ -99,15 +115,21 @@ public class EnemyAI : MonoBehaviour
         }
     }
 
-    private void MoveAndRotate(Vector2 direction, float speed)
+    private void MoveAndAnimate(Vector2 direction, float speed)
     {
         rb.MovePosition(rb.position + direction * speed * Time.deltaTime);
+        SetMoving(true);
 
         if (Mathf.Abs(direction.x) > 0.01f && visualRenderer != null)
         {
-            // If this looks backwards on your sprite, swap to: direction.x > 0f
             visualRenderer.flipX = direction.x < 0f;
         }
+    }
+
+    private void SetMoving(bool isMoving)
+    {
+        if (animator != null)
+            animator.SetBool(MovingParam, isMoving);
     }
 
     private void PickNewPatrolTarget()
@@ -116,13 +138,11 @@ public class EnemyAI : MonoBehaviour
         currentPatrolTarget = patrolOrigin + randomOffset;
     }
 
-    // Fires once on first overlap
     private void OnTriggerEnter2D(Collider2D other)
     {
         TryDealContactDamage(other);
     }
 
-    // Fires every physics frame while still overlapping — fixes "standing on it = no damage"
     private void OnTriggerStay2D(Collider2D other)
     {
         TryDealContactDamage(other);
@@ -148,6 +168,11 @@ public class EnemyAI : MonoBehaviour
 
         rb.AddForce(knockbackDirection.normalized * knockbackForce, ForceMode2D.Impulse);
 
+        if (HasParameter(HurtParam) && currentHits < data.maxHits)
+        {
+            animator.SetTrigger(HurtParam);
+        }
+
         if (currentHits >= data.maxHits)
         {
             Die();
@@ -165,10 +190,32 @@ public class EnemyAI : MonoBehaviour
         rb.simulated = false;
         GetComponent<Collider2D>().enabled = false;
 
-        if (deathParticlePrefab != null)
-            Instantiate(deathParticlePrefab, transform.position, Quaternion.identity);
+        if (HasParameter(DeathParam))
+        {
+            animator.SetTrigger(DeathParam);
+            // No fixed particle/destroy here — clip is non-looping and holds on last frame,
+            // matching the Player death setup. Destroy after a generous delay so it doesn't vanish mid-animation.
+            Destroy(gameObject, 1.5f);
+        }
+        else
+        {
+            // No death animation available on this enemy — fallback to instant particle + short delay
+            if (deathParticlePrefab != null)
+                Instantiate(deathParticlePrefab, transform.position, Quaternion.identity);
+            Destroy(gameObject, 0.3f);
+        }
 
         GameEvents.TriggerEnemyDied(gameObject);
-        Destroy(gameObject, 0.3f);
+    }
+
+    private bool HasParameter(int paramHash)
+    {
+        if (animator == null || animator.runtimeAnimatorController == null) return false;
+
+        foreach (var param in animator.parameters)
+        {
+            if (param.nameHash == paramHash) return true;
+        }
+        return false;
     }
 }

@@ -315,14 +315,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::EnemySpawner
   miniEnemyPrefabsByDream:
   - {fileID: 3489375070792590263, guid: 37889d62d6de7dd42a1e152fb8ee1b5e, type: 3}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
   bigEnemyPrefabsByDream:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 3855646923577904993, guid: 4ca56436aac8d6743bd2f135885465d3, type: 3}
   minMiniEnemies: 1
   maxMiniEnemies: 2
   spawnIntervalSeconds: 3

@@ -1,31 +1,34 @@
 fileFormatVersion: 2
-guid: 1fb7efa9ad6bdeb409c670f07b4473a8
+guid: 8aa792b4bc89a0847b315567e96a8c57
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7760784954797969343
-    second: Pistol_V1.00 - SHOOTING (SIMPLE NO FX)_0
+      213: -507708781210739451
+    second: Sword Spritesheet_0
   - first:
-      213: 5394562665119964300
-    second: Pistol_V1.00 - SHOOTING (SIMPLE NO FX)_1
+      213: 3571948234396064130
+    second: Sword Spritesheet_1
   - first:
-      213: -6559865425271468153
-    second: Pistol_V1.00 - SHOOTING (SIMPLE NO FX)_2
+      213: 6120831806586008335
+    second: Sword Spritesheet_2
   - first:
-      213: 8554610294998689191
-    second: Pistol_V1.00 - SHOOTING (SIMPLE NO FX)_3
+      213: 6086873443625269349
+    second: Sword Spritesheet_3
   - first:
-      213: -6395942017589912928
-    second: Pistol_V1.00 - SHOOTING (SIMPLE NO FX)_4
+      213: -333510308265256830
+    second: Sword Spritesheet_4
   - first:
-      213: -3109508425542675628
-    second: Pistol_V1.00 - SHOOTING (SIMPLE NO FX)_5
+      213: 3666629107282100939
+    second: Sword Spritesheet_5
   - first:
-      213: -5236965464683202146
-    second: Pistol_V1.00 - SHOOTING (SIMPLE NO FX)_6
+      213: -1064610079216879047
+    second: Sword Spritesheet_6
   - first:
-      213: -2420953487902344302
-    second: Pistol_V1.00 - SHOOTING (SIMPLE NO FX)_7
+      213: 5396503552684641436
+    second: Sword Spritesheet_7
+  - first:
+      213: -123501119438922998
+    second: Sword Spritesheet_8
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -160,13 +163,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Pistol_V1.00 - SHOOTING (SIMPLE NO FX)_0
+      name: Sword Spritesheet_0
       rect:
         serializedVersion: 2
-        x: 18
-        y: 19
-        width: 30
-        height: 20
+        x: 10
+        y: 26
+        width: 13
+        height: 46
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -175,20 +178,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1403217b3372c4490800000000000000
-      internalID: -7760784954797969343
+      spriteID: 50d569ead8144f8f0800000000000000
+      internalID: -507708781210739451
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pistol_V1.00 - SHOOTING (SIMPLE NO FX)_1
+      name: Sword Spritesheet_1
       rect:
         serializedVersion: 2
-        x: 98
-        y: 19
-        width: 29
-        height: 20
+        x: 63
+        y: 5
+        width: 60
+        height: 69
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -197,20 +200,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c8c5f0d89265dda40800000000000000
-      internalID: 5394562665119964300
+      spriteID: 289d2438efb129130800000000000000
+      internalID: 3571948234396064130
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pistol_V1.00 - SHOOTING (SIMPLE NO FX)_2
+      name: Sword Spritesheet_2
       rect:
         serializedVersion: 2
-        x: 178
-        y: 19
-        width: 29
-        height: 20
+        x: 151
+        y: 69
+        width: 11
+        height: 5
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -219,20 +222,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 78fc350c62da6f4a0800000000000000
-      internalID: -6559865425271468153
+      spriteID: f03b879391091f450800000000000000
+      internalID: 6120831806586008335
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pistol_V1.00 - SHOOTING (SIMPLE NO FX)_3
+      name: Sword Spritesheet_3
       rect:
         serializedVersion: 2
-        x: 257
-        y: 19
-        width: 29
-        height: 20
+        x: 157
+        y: 61
+        width: 12
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -241,20 +244,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7a5eb413db418b670800000000000000
-      internalID: 8554610294998689191
+      spriteID: 568fa08b52be87450800000000000000
+      internalID: 6086873443625269349
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pistol_V1.00 - SHOOTING (SIMPLE NO FX)_4
+      name: Sword Spritesheet_4
       rect:
         serializedVersion: 2
-        x: 336
-        y: 19
-        width: 30
-        height: 20
+        x: 266
+        y: 29
+        width: 14
+        height: 45
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -263,20 +266,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0aade854f9c0d37a0800000000000000
-      internalID: -6395942017589912928
+      spriteID: 2881be244222f5bf0800000000000000
+      internalID: -333510308265256830
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pistol_V1.00 - SHOOTING (SIMPLE NO FX)_5
+      name: Sword Spritesheet_5
       rect:
         serializedVersion: 2
-        x: 415
-        y: 19
-        width: 30
-        height: 20
+        x: 142
+        y: 0
+        width: 45
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -285,19 +288,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 453d175df8ec8d4d0800000000000000
-      internalID: -3109508425542675628
+      spriteID: bc248a61fbb72e230800000000000000
+      internalID: 3666629107282100939
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pistol_V1.00 - SHOOTING (SIMPLE NO FX)_6
+      name: Sword Spritesheet_6
       rect:
         serializedVersion: 2
-        x: 497
-        y: 19
-        width: 29
+        x: 279
+        y: 48
+        width: 14
         height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -307,20 +310,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e99b19018af8257b0800000000000000
-      internalID: -5236965464683202146
+      spriteID: 93a3af306ceb931f0800000000000000
+      internalID: -1064610079216879047
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pistol_V1.00 - SHOOTING (SIMPLE NO FX)_7
+      name: Sword Spritesheet_7
       rect:
         serializedVersion: 2
-        x: 578
-        y: 19
-        width: 31
-        height: 20
+        x: 294
+        y: 28
+        width: 13
+        height: 23
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -329,8 +332,30 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 29b76d721ab076ed0800000000000000
-      internalID: -2420953487902344302
+      spriteID: c9cc6e6a36b34ea40800000000000000
+      internalID: 5396503552684641436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 7
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0bda7ed26c394ef0800000000000000
+      internalID: -123501119438922998
       vertices: []
       indices: 
       edges: []
@@ -349,14 +374,15 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Pistol_V1.00 - SHOOTING (SIMPLE NO FX)_0: -7760784954797969343
-      Pistol_V1.00 - SHOOTING (SIMPLE NO FX)_1: 5394562665119964300
-      Pistol_V1.00 - SHOOTING (SIMPLE NO FX)_2: -6559865425271468153
-      Pistol_V1.00 - SHOOTING (SIMPLE NO FX)_3: 8554610294998689191
-      Pistol_V1.00 - SHOOTING (SIMPLE NO FX)_4: -6395942017589912928
-      Pistol_V1.00 - SHOOTING (SIMPLE NO FX)_5: -3109508425542675628
-      Pistol_V1.00 - SHOOTING (SIMPLE NO FX)_6: -5236965464683202146
-      Pistol_V1.00 - SHOOTING (SIMPLE NO FX)_7: -2420953487902344302
+      Sword Spritesheet_0: -507708781210739451
+      Sword Spritesheet_1: 3571948234396064130
+      Sword Spritesheet_2: 6120831806586008335
+      Sword Spritesheet_3: 6086873443625269349
+      Sword Spritesheet_4: -333510308265256830
+      Sword Spritesheet_5: 3666629107282100939
+      Sword Spritesheet_6: -1064610079216879047
+      Sword Spritesheet_7: 5396503552684641436
+      Sword Spritesheet_8: -123501119438922998
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

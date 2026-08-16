@@ -15,13 +15,14 @@ public class CameraEffects : MonoBehaviour
     [Header("Death Zoom")]
     [SerializeField] private float deathZoomTargetSize = 2.5f;
     [SerializeField] private float deathZoomDuration = 1.2f;
-    [SerializeField] private CameraFollow cameraFollow; // drag the same Main Camera's CameraFollow here
+    [SerializeField] private CameraFollow cameraFollow; // drag THIS SAME Main Camera object here
 
     private Camera cam;
     private float baseOrthoSize;
     private Coroutine zoomRoutine;
     private Coroutine shakeRoutine;
     private Coroutine deathZoomRoutine;
+    private bool isDead = false;
 
     private void Awake()
     {
@@ -34,6 +35,7 @@ public class CameraEffects : MonoBehaviour
         GameEvents.OnWeaponAttackUsed += HandleAttackUsed;
         GameEvents.OnRewindKeyPressed += HandleRewindKeyPressed;
         GameEvents.OnHeartsChanged += HandleHeartsChanged;
+        GameEvents.OnGameStarted += HandleGameStarted;
     }
 
     private void OnDisable()
@@ -41,10 +43,22 @@ public class CameraEffects : MonoBehaviour
         GameEvents.OnWeaponAttackUsed -= HandleAttackUsed;
         GameEvents.OnRewindKeyPressed -= HandleRewindKeyPressed;
         GameEvents.OnHeartsChanged -= HandleHeartsChanged;
+        GameEvents.OnGameStarted -= HandleGameStarted;
+    }
+
+    private void HandleGameStarted()
+    {
+        isDead = false;
+        cam.orthographicSize = baseOrthoSize;
+
+        if (cameraFollow != null)
+            cameraFollow.enabled = true;
     }
 
     private void HandleAttackUsed()
     {
+        if (isDead) return;
+
         if (zoomRoutine != null) StopCoroutine(zoomRoutine);
         zoomRoutine = StartCoroutine(ZoomPunch());
     }
@@ -100,16 +114,19 @@ public class CameraEffects : MonoBehaviour
     {
         if (hearts <= 0)
         {
+            isDead = true;
+
+            if (zoomRoutine != null) StopCoroutine(zoomRoutine);
+
             if (deathZoomRoutine != null) StopCoroutine(deathZoomRoutine);
             deathZoomRoutine = StartCoroutine(DeathZoom());
         }
     }
 
-
     private IEnumerator DeathZoom()
     {
         if (cameraFollow != null)
-            cameraFollow.enabled = false; // stop the lagged follow so our direct move isn't fought
+            cameraFollow.enabled = false;
 
         Transform target = cameraFollow != null ? cameraFollow.GetTarget() : null;
 
